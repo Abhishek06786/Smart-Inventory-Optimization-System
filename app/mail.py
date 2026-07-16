@@ -1,14 +1,14 @@
 import os
 import random
-import smtplib
+import requests
 
-from email.mime.text import MIMEText
 from dotenv import load_dotenv
 
 load_dotenv()
 
+
 EMAIL = os.getenv("EMAIL_ADDRESS")
-PASSWORD = os.getenv("EMAIL_PASSWORD")
+BREVO_API_KEY = os.getenv("BREVO_API_KEY")
 
 
 def generate_otp():
@@ -41,23 +41,46 @@ Regards,
 Smart Inventory Team
 """
 
-    msg = MIMEText(body)
 
-    msg["Subject"] = subject
-    msg["From"] = EMAIL
-    msg["To"] = receiver_email
+    data = {
+        "sender": {
+            "name": "Smart Inventory",
+            "email": EMAIL
+        },
+        "to": [
+            {
+                "email": receiver_email
+            }
+        ],
+        "subject": subject,
+        "textContent": body
+    }
+
+
+    headers = {
+        "accept": "application/json",
+        "api-key": BREVO_API_KEY,
+        "content-type": "application/json"
+    }
+
 
     try:
 
-        with smtplib.SMTP("smtp.gmail.com", 587) as server:
+        response = requests.post(
+            "https://api.brevo.com/v3/smtp/email",
+            json=data,
+            headers=headers
+        )
 
-            server.starttls()
 
-            server.login(EMAIL, PASSWORD)
+        if response.status_code == 201:
+            return True
 
-            server.send_message(msg)
 
-        return True
+        print("Brevo Error :", response.text)
+
+        return False
+
 
     except Exception as e:
 
