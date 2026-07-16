@@ -1,31 +1,55 @@
+# ==============================
 # Python
+# ==============================
 __pycache__/
 *.py[cod]
 *.pyo
 
+# ==============================
 # Virtual Environment
+# ==============================
 venv/
 
+# ==============================
 # Environment Variables
+# ==============================
 .env
 
+# ==============================
 # Database
+# ==============================
 *.db
 *.sqlite3
 
-# Machine Learning Models
+# ==============================
+# Ignore all model files by default
+# ==============================
 *.pkl
 *.joblib
 
+# But keep trained models inside models/
+!models/
+!models/*.pkl
+!models/*.joblib
+
+# ==============================
 # Logs
+# ==============================
 *.log
 
+# ==============================
 # VS Code
+# ==============================
 .vscode/
 
+# ==============================
 # OS Files
+# ==============================
 .DS_Store
 Thumbs.db
 
+# ==============================
+# Excel Files
+# ==============================
 Smart_Inventory_Products.xlsx
 products.xlsx
