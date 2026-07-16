@@ -1,0 +1,125 @@
+/* ===========================
+   Analytics Charts
+=========================== */
+
+.chart-container{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(420px,1fr));
+
+    gap:25px;
+
+    padding:30px;
+
+}
+
+.chart-box{
+
+    background:white;
+
+    padding:25px;
+
+    border-radius:10px;
+
+    box-shadow:0 4px 12px rgba(0,0,0,.08);
+
+}
+
+.chart-box h2{
+
+    color:#1f4e79;
+
+    margin-bottom:20px;
+
+    text-align:center;
+
+}
+
+.chart-box canvas{
+
+    width:100% !important;
+
+    height:320px !important;
+
+}
+
+
+/* ===========================
+   KPI Cards
+=========================== */
+
+.cards{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:20px;
+
+    padding:30px;
+
+}
+
+.card{
+
+    background:white;
+
+    border-radius:10px;
+
+    padding:25px;
+
+    box-shadow:0 4px 12px rgba(0,0,0,.08);
+
+    text-align:center;
+
+}
+
+.card h3{
+
+    color:#666;
+
+    margin-bottom:12px;
+
+}
+
+.card h2{
+
+    color:#1f4e79;
+
+    font-size:32px;
+
+}
+
+
+/* ===========================
+   Responsive
+=========================== */
+
+@media(max-width:992px){
+
+    .cards{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+}
+
+@media(max-width:768px){
+
+    .cards{
+
+        grid-template-columns:1fr;
+
+    }
+
+    .chart-container{
+
+        grid-template-columns:1fr;
+
+        padding:20px;
+
+    }
+
+}

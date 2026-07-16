@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Create Account | Smart Inventory</title>
+
+    <link rel="stylesheet" href="/static/css/login.css">
+
+</head>
+
+<body>
+
+<div class="login-box">
+
+    <h1>Create Account</h1>
+
+    <p>Smart Inventory Optimization System</p>
+
+    <form id="registerForm">
+
+        <input
+            type="text"
+            id="name"
+            placeholder="Full Name"
+            required>
+
+        <input
+            type="email"
+            id="email"
+            placeholder="Email Address"
+            required>
+
+        <input
+            type="password"
+            id="password"
+            placeholder="Password"
+            required>
+
+        <input
+            type="password"
+            id="confirmPassword"
+            placeholder="Confirm Password"
+            required>
+
+        <button type="submit">
+            Register
+        </button>
+
+    </form>
+
+    <p style="margin-top:15px;">
+        Already have an account?
+        <a href="/">Login</a>
+    </p>
+
+</div>
+
+<script>
+
+document.getElementById("registerForm").addEventListener("submit", async function(e){
+
+    e.preventDefault();
+
+    const name = document.getElementById("name").value.trim();
+    const email = document.getElementById("email").value.trim();
+    const password = document.getElementById("password").value;
+    const confirmPassword = document.getElementById("confirmPassword").value;
+
+    if(password !== confirmPassword){
+        alert("Passwords do not match");
+        return;
+    }
+
+    try{
+
+        const response = await fetch("/api/register",{
+
+            method:"POST",
+
+            headers:{
+                "Content-Type":"application/json"
+            },
+
+            body:JSON.stringify({
+                name:name,
+                email:email,
+                password:password
+            })
+
+        });
+
+        const result = await response.json();
+
+        if(response.ok){
+
+            alert("Registration Successful");
+
+            // Backend ne session create kar diya hai
+            window.location.href="/dashboard";
+
+        }else{
+
+            alert(result.detail);
+
+        }
+
+    }catch(error){
+
+        alert("Server Error");
+
+    }
+
+});
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# Machine Learning Models
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+Smart_Inventory_Products.xlsx
+products.xlsx

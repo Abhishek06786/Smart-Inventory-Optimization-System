@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Products | Smart Inventory</title>
+
+    <link rel="stylesheet" href="/static/css/dashboard.css">
+    <link rel="stylesheet" href="/static/css/products.css">
+
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+</head>
+
+<body>
+
+    <!-- ===========================
+            SIDEBAR
+    ============================ -->
+
+    <div class="sidebar">
+
+        <div>
+
+            <div class="logo">
+
+                <div class="logo-icon">
+
+                    <i class="bi bi-box-seam"></i>
+
+                </div>
+
+                <div>
+
+                    <h2>Smart Inventory</h2>
+
+                    <span>Inventory Management</span>
+
+                </div>
+
+            </div>
+
+            <div class="menu">
+
+                <a href="/dashboard">
+
+                    <i class="bi bi-grid-fill"></i>
+
+                    <span>Dashboard</span>
+
+                </a>
+
+                <a href="/products" class="active">
+
+                    <i class="bi bi-box-seam-fill"></i>
+
+                    <span>Products</span>
+
+                </a>
+
+                <a href="/analytics">
+
+                    <i class="bi bi-bar-chart-fill"></i>
+
+                    <span>Analytics</span>
+
+                </a>
+
+                <a href="/prediction">
+
+                    <i class="bi bi-cpu-fill"></i>
+
+                    <span>Prediction</span>
+
+                </a>
+
+            </div>
+
+        </div>
+
+        <a href="/logout" class="logout-side">
+
+            <i class="bi bi-box-arrow-right"></i>
+
+            Logout
+
+        </a>
+
+    </div>
+
+    <!-- ===========================
+            MAIN
+    ============================ -->
+
+    <div class="main">
+                <!-- ===========================
+                TOPBAR
+        ============================ -->
+
+        <div class="topbar">
+
+            <div class="title">
+
+                <h1>Products Management</h1>
+
+                <p>
+
+                    Add, View, Search and Manage Inventory
+
+                </p>
+
+            </div>
+
+            <div class="topbar-right">
+
+                <div class="status-card">
+
+                    <i class="bi bi-box-seam-fill"></i>
+
+                <div>
+
+                <small>Total Products</small>
+
+                <strong id="productCount">0</strong>
+
+            </div>
+
+            </div>
+
+                <a href="/logout" class="logout-btn">
+
+                    <i class="bi bi-box-arrow-right"></i>
+
+                    Logout
+
+                </a>
+
+            </div>
+
+        </div>
+
+        <!-- ===========================
+                ADD PRODUCT
+        ============================ -->
+
+        <div class="form-box">
+
+            <h2 id="formTitle">
+
+                <i class="bi bi-plus-circle-fill"></i>
+
+                Add Product
+
+            </h2>
+
+            <form id="productForm">
+
+                <input
+                    type="hidden"
+                    id="product_id">
+
+                <input
+                    type="text"
+                    id="product_name"
+                    placeholder="Product Name"
+                    required>
+
+                <input
+                    type="text"
+                    id="category"
+                    placeholder="Category"
+                    required>
+
+                <input
+                    type="number"
+                    id="stock"
+                    placeholder="Stock"
+                    required>
+
+                <input
+                    type="number"
+                    id="price"
+                    step="0.01"
+                    placeholder="Price"
+                    required>
+
+                <button
+                    type="submit"
+                    id="submitBtn">
+
+                    <i class="bi bi-plus-circle"></i>
+
+                    Add Product
+
+                </button>
+
+            </form>
+
+        </div>
+
+        <!-- ===========================
+                PRODUCTS TABLE
+        ============================ -->
+
+        <div class="table-box">
+
+            <div class="table-header">
+
+                <h2>
+
+                    <i class="bi bi-table"></i>
+
+                    All Products
+
+                </h2>
+
+                <div class="table-actions">
+
+                    <button
+                        id="exportBtn"
+                        onclick="exportProducts()">
+
+                        📥 Export Excel
+
+                    </button>
+
+                    <button
+                        id="importBtn"
+                        onclick="document.getElementById('excelFile').click()">
+
+                        📤 Import Excel
+
+                    </button>
+
+                    <input
+                        type="file"
+                        id="excelFile"
+                        accept=".xlsx"
+                        style="display:none"
+                        onchange="importProducts()">
+
+                </div>
+
+            </div>
+                        <div class="search-filter">
+
+                <input
+                    type="text"
+                    id="searchInput"
+                    placeholder="🔍 Search Product..."
+                    onkeyup="searchProducts()">
+
+                <select
+                    id="categoryFilter"
+                    onchange="filterProducts()">
+
+                    <option value="All">
+
+                        All Categories
+
+                    </option>
+
+                </select>
+
+                <select
+                    id="stockFilter"
+                    onchange="filterProducts()">
+
+                    <option value="All">
+
+                        All Stock
+
+                    </option>
+
+                    <option value="In">
+
+                        In Stock
+
+                    </option>
+
+                    <option value="Low">
+
+                        Low Stock
+
+                    </option>
+
+                    <option value="Out">
+
+                        Out Of Stock
+
+                    </option>
+
+                </select>
+
+            </div>
+
+            <table>
+
+                <thead>
+
+                    <tr>
+
+                        <th onclick="sortTable('id')" style="cursor:pointer">
+
+                            ID ↕
+
+                        </th>
+
+                        <th onclick="sortTable('product_name')" style="cursor:pointer">
+
+                            Product ↕
+
+                        </th>
+
+                        <th onclick="sortTable('category')" style="cursor:pointer">
+
+                            Category ↕
+
+                        </th>
+
+                        <th onclick="sortTable('stock')" style="cursor:pointer">
+
+                            Stock ↕
+
+                        </th>
+
+                        <th onclick="sortTable('price')" style="cursor:pointer">
+
+                            Price ↕
+
+                        </th>
+
+                        <th>
+
+                            Action
+
+                        </th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody id="productTable">
+
+                    <tr>
+
+                        <td colspan="6">
+
+                            Loading Products...
+
+                        </td>
+
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+            <div id="pagination">
+
+                <button
+                    id="prevBtn"
+                    type="button"
+                    disabled>
+
+                    ◀ Previous
+
+                </button>
+
+                <span id="pageInfo">
+
+                    Page 1
+
+                </span>
+
+                <button
+                    id="nextBtn"
+                    type="button"
+                    disabled>
+
+                    Next ▶
+
+                </button>
+
+            </div>
+
+        </div>
+            <!-- ===========================
+            TOAST
+    ============================ -->
+
+    <div id="toast"></div>
+
+    <!-- ===========================
+            DELETE MODAL
+    ============================ -->
+
+    <div id="deleteModal" class="modal">
+
+        <div class="modal-content">
+
+            <h2>
+
+                <i class="bi bi-trash3-fill"></i>
+
+                Delete Product
+
+            </h2>
+
+            <p>
+
+                Are you sure you want to delete this product?
+
+            </p>
+
+            <div class="modal-buttons">
+
+                <button
+                    id="cancelDelete">
+
+                    Cancel
+
+                </button>
+
+                <button
+                    id="confirmDelete">
+
+                    <i class="bi bi-trash-fill"></i>
+
+                    Delete
+
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+
+ <!-- ===========================
+            JAVASCRIPT
+ ============================ -->
+       
+
+    <script src="/static/js/app.js"></script>
+
+    <script>
+        window.addEventListener("DOMContentLoaded", async () => {
+
+            try {
+
+                const res = await fetch("/api/products");
+                const data = await res.json();
+
+                document.getElementById("productCount").textContent = data.length;
+
+            } catch (e) {
+
+                document.getElementById("productCount").textContent = "0";
+
+            }
+
+        });
+    </script>
+
+</body>
+
+</html>

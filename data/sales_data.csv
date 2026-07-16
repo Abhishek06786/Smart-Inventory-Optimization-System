@@ -1,0 +1,5001 @@
+product_name,category,price,stock,daily_sales,lead_time,demand
+Keyboard,Electronics,2769,188,24,10,236
+Chair,Furniture,7332,167,14,10,140
+Bag,Fashion,29293,59,19,14,262
+Shampoo,Personal Care,44918,32,1,8,4
+Oil,Grocery,28212,114,28,9,249
+Shoes,Fashion,31607,194,13,9,112
+Laptop,Electronics,36291,6,6,10,58
+Laptop,Electronics,47894,100,26,7,186
+Shampoo,Personal Care,2683,298,10,15,154
+Shampoo,Personal Care,22060,3,13,7,87
+Chair,Furniture,19327,287,6,10,57
+Notebook,Stationery,35165,105,20,3,65
+Soap,Personal Care,36101,109,15,8,119
+Shoes,Fashion,48367,109,29,3,90
+Monitor,Electronics,28101,269,15,2,31
+Table,Furniture,15132,2,23,4,93
+Notebook,Stationery,18576,105,16,5,75
+Keyboard,Electronics,25588,140,6,14,83
+Shoes,Fashion,10786,97,14,15,214
+Bottle,Accessories,7415,1,15,9,132
+Printer,Electronics,26131,225,28,14,395
+Bottle,Accessories,39249,35,1,3,6
+Milk,Grocery,25048,93,21,15,312
+Soap,Personal Care,48427,11,6,13,74
+Notebook,Stationery,11073,282,18,14,252
+Printer,Electronics,38544,18,3,3,11
+Laptop,Electronics,45460,11,27,1,31
+Laptop,Electronics,33394,247,27,3,82
+Shampoo,Personal Care,3207,211,18,13,239
+Keyboard,Electronics,46141,110,3,10,34
+Chair,Furniture,11968,19,29,10,289
+Bag,Fashion,30034,216,3,7,17
+Shampoo,Personal Care,41202,297,18,15,266
+Table,Furniture,2124,251,3,9,23
+Table,Furniture,25379,271,12,13,151
+Soap,Personal Care,15032,134,12,3,38
+Milk,Grocery,43969,104,7,8,61
+Shampoo,Personal Care,32084,270,14,5,69
+Pen,Stationery,28663,236,22,8,175
+Soap,Personal Care,37122,106,27,4,104
+Table,Furniture,30030,282,2,13,23
+Oil,Grocery,19018,73,26,11,282
+Laptop,Electronics,10304,221,18,15,270
+Monitor,Electronics,39959,120,19,6,118
+Bag,Fashion,3122,157,27,14,379
+Monitor,Electronics,34478,174,1,5,5
+Bottle,Accessories,42088,190,20,13,262
+Bag,Fashion,6144,62,8,14,109
+Phone,Electronics,16941,171,6,3,15
+Milk,Grocery,37175,54,25,11,279
+Pen,Stationery,37862,95,5,13,61
+Bottle,Accessories,2352,68,20,15,298
+Chair,Furniture,36012,257,22,6,130
+Shampoo,Personal Care,29474,263,16,9,148
+Laptop,Electronics,1194,96,1,6,4
+Chair,Furniture,31974,88,14,8,114
+Pen,Stationery,38632,72,21,11,231
+Shampoo,Personal Care,35890,229,12,1,8
+Oil,Grocery,18686,114,17,10,170
+Bottle,Accessories,37173,185,12,12,143
+Rice,Grocery,3307,284,17,14,240
+Chair,Furniture,9508,97,30,14,423
+Notebook,Stationery,20352,268,19,12,226
+Soap,Personal Care,42037,134,2,11,20
+Headphones,Electronics,31114,114,11,5,54
+Keyboard,Electronics,36424,221,1,4,1
+Bag,Fashion,25425,126,18,1,19
+Bag,Fashion,4671,12,4,8,29
+Table,Furniture,38433,217,10,4,41
+Rice,Grocery,44577,272,22,5,112
+Mouse,Electronics,38803,178,25,6,146
+Phone,Electronics,18168,287,20,14,282
+Oil,Grocery,1403,38,25,15,373
+Table,Furniture,25846,245,13,4,48
+Shampoo,Personal Care,4692,220,25,14,352
+Monitor,Electronics,40399,245,20,12,238
+Keyboard,Electronics,49496,276,12,6,77
+Shampoo,Personal Care,2338,290,17,1,17
+Shoes,Fashion,11502,57,23,14,325
+Pen,Stationery,29462,215,9,5,47
+Mouse,Electronics,13641,94,20,2,40
+Monitor,Electronics,13282,43,26,2,51
+Rice,Grocery,24833,251,7,12,84
+Chair,Furniture,35130,298,14,3,45
+Laptop,Electronics,12411,72,21,6,129
+Keyboard,Electronics,27761,96,24,8,188
+Mouse,Electronics,38652,83,1,9,4
+Table,Furniture,22601,53,24,14,338
+Mouse,Electronics,40003,53,10,14,140
+Phone,Electronics,10719,132,12,12,148
+Shampoo,Personal Care,13737,215,4,7,28
+Bottle,Accessories,20406,235,10,5,49
+Notebook,Stationery,18738,274,23,7,162
+Bag,Fashion,17258,109,25,9,223
+Oil,Grocery,41153,227,17,12,209
+Printer,Electronics,12797,281,2,6,16
+Soap,Personal Care,18136,221,5,6,31
+Pen,Stationery,48660,119,22,1,26
+Shampoo,Personal Care,22879,139,25,14,346
+Bottle,Accessories,37889,19,28,4,111
+Laptop,Electronics,31505,192,24,10,236
+Keyboard,Electronics,38506,166,8,9,70
+Phone,Electronics,25452,137,20,13,262
+Oil,Grocery,12082,250,15,10,154
+Shampoo,Personal Care,40696,80,28,11,303
+Printer,Electronics,42358,185,14,2,23
+Headphones,Electronics,38077,252,14,2,29
+Chair,Furniture,46140,55,17,2,30
+Rice,Grocery,6327,258,20,6,122
+Shampoo,Personal Care,31316,114,28,15,421
+Chair,Furniture,38233,138,27,1,31
+Laptop,Electronics,31122,205,22,13,282
+Shoes,Fashion,30473,201,15,12,180
+Keyboard,Electronics,40232,69,15,8,118
+Bag,Fashion,47635,159,27,9,239
+Phone,Electronics,37016,173,30,10,305
+Notebook,Stationery,9330,259,25,3,70
+Table,Furniture,44157,55,6,11,63
+Laptop,Electronics,39641,274,8,3,23
+Pen,Stationery,18680,196,24,13,315
+Bottle,Accessories,43201,102,24,7,164
+Chair,Furniture,39469,144,3,6,18
+Laptop,Electronics,43066,179,16,15,238
+Headphones,Electronics,16206,138,30,14,422
+Mouse,Electronics,28689,182,1,2,1
+Bottle,Accessories,44496,185,24,15,355
+Mouse,Electronics,44029,34,5,6,31
+Shoes,Fashion,26392,9,9,6,50
+Oil,Grocery,12566,44,29,13,382
+Milk,Grocery,5989,106,10,14,139
+Oil,Grocery,44008,210,8,15,118
+Shampoo,Personal Care,1973,4,16,5,75
+Laptop,Electronics,8684,296,21,5,105
+Laptop,Electronics,43104,215,23,4,97
+Shampoo,Personal Care,36870,139,18,11,203
+Bag,Fashion,45053,44,20,4,75
+Sugar,Grocery,18672,268,6,9,56
+Soap,Personal Care,730,114,13,12,155
+Shampoo,Personal Care,23927,61,20,15,298
+Laptop,Electronics,8637,143,9,10,92
+Soap,Personal Care,38112,87,26,12,310
+Monitor,Electronics,25341,14,10,2,21
+Pen,Stationery,44831,102,24,11,263
+Mouse,Electronics,30456,286,7,10,73
+Monitor,Electronics,12926,60,30,4,119
+Headphones,Electronics,37216,292,4,8,36
+Table,Furniture,44313,193,5,4,20
+Soap,Personal Care,38032,85,20,6,115
+Phone,Electronics,8693,210,14,5,71
+Bottle,Accessories,15907,262,2,4,11
+Shampoo,Personal Care,26194,140,21,2,47
+Sugar,Grocery,45453,206,6,4,20
+Rice,Grocery,1736,150,20,15,300
+Bag,Fashion,16430,221,10,6,57
+Notebook,Stationery,37788,61,24,15,361
+Phone,Electronics,12600,81,9,4,38
+Mouse,Electronics,34198,183,23,2,43
+Keyboard,Electronics,36306,228,1,15,17
+Printer,Electronics,36436,63,23,7,163
+Keyboard,Electronics,21870,78,28,5,140
+Bag,Fashion,37602,45,22,12,263
+Phone,Electronics,27564,166,9,7,63
+Rice,Grocery,34801,244,2,4,12
+Pen,Stationery,36022,133,19,5,94
+Table,Furniture,24862,63,14,15,206
+Milk,Grocery,31850,30,15,9,139
+Chair,Furniture,48537,10,13,4,47
+Phone,Electronics,8541,20,18,5,90
+Printer,Electronics,36800,279,21,14,292
+Notebook,Stationery,11910,147,29,1,26
+Pen,Stationery,41583,156,24,13,316
+Monitor,Electronics,5603,7,14,13,179
+Oil,Grocery,44822,97,18,8,144
+Keyboard,Electronics,7509,282,10,13,133
+Headphones,Electronics,39212,13,25,13,328
+Table,Furniture,45302,155,26,6,152
+Soap,Personal Care,4183,224,27,2,59
+Chair,Furniture,42391,281,29,1,32
+Printer,Electronics,19464,221,9,8,72
+Bag,Fashion,41751,70,20,2,45
+Chair,Furniture,322,39,10,5,55
+Shampoo,Personal Care,26032,12,19,13,248
+Pen,Stationery,30389,122,4,10,38
+Bottle,Accessories,31694,29,13,6,73
+Bag,Fashion,37304,138,20,11,225
+Keyboard,Electronics,14218,297,6,6,38
+Keyboard,Electronics,9187,71,20,13,263
+Oil,Grocery,6374,292,2,3,8
+Keyboard,Electronics,7464,27,27,10,272
+Shampoo,Personal Care,29543,1,26,15,385
+Soap,Personal Care,558,130,15,2,26
+Monitor,Electronics,42910,100,17,7,119
+Notebook,Stationery,42807,115,1,5,9
+Soap,Personal Care,42791,51,14,3,37
+Pen,Stationery,21767,154,15,7,101
+Milk,Grocery,34228,189,2,6,7
+Phone,Electronics,10362,81,20,6,120
+Notebook,Stationery,31193,167,25,15,377
+Pen,Stationery,20535,75,8,5,39
+Oil,Grocery,45533,51,4,15,56
+Oil,Grocery,39694,169,14,13,186
+Bag,Fashion,19814,208,12,12,144
+Laptop,Electronics,46335,57,16,3,47
+Soap,Personal Care,1969,125,3,12,32
+Shoes,Fashion,5849,145,8,2,12
+Bag,Fashion,7628,112,8,11,85
+Laptop,Electronics,49530,142,22,1,21
+Mouse,Electronics,35573,228,14,12,166
+Rice,Grocery,18716,220,9,6,57
+Soap,Personal Care,4371,70,16,2,32
+Monitor,Electronics,41962,241,27,12,329
+Monitor,Electronics,38859,139,28,5,145
+Bottle,Accessories,34315,151,22,1,17
+Keyboard,Electronics,10440,21,1,4,4
+Headphones,Electronics,3402,44,11,10,108
+Bag,Fashion,17625,105,1,3,0
+Pen,Stationery,16967,141,25,10,247
+Laptop,Electronics,9568,32,13,8,106
+Oil,Grocery,5878,103,23,12,281
+Pen,Stationery,42135,238,26,15,385
+Milk,Grocery,42169,27,26,14,362
+Oil,Grocery,195,9,6,9,51
+Milk,Grocery,18495,181,11,15,160
+Monitor,Electronics,28586,26,4,2,6
+Keyboard,Electronics,15007,217,10,9,88
+Keyboard,Electronics,26834,10,12,6,71
+Soap,Personal Care,31942,274,20,1,23
+Chair,Furniture,12132,258,30,8,236
+Mouse,Electronics,7599,61,30,9,273
+Keyboard,Electronics,1145,229,16,7,117
+Printer,Electronics,6525,34,21,7,144
+Monitor,Electronics,29248,40,8,15,125
+Milk,Grocery,40329,77,17,15,254
+Table,Furniture,32365,143,28,4,109
+Chair,Furniture,33844,125,13,4,51
+Headphones,Electronics,4766,247,27,12,321
+Chair,Furniture,34512,128,23,15,350
+Bag,Fashion,40512,202,13,11,143
+Bag,Fashion,9196,202,9,1,10
+Mouse,Electronics,25416,1,22,14,304
+Chair,Furniture,36556,49,10,12,121
+Pen,Stationery,46027,297,28,12,331
+Chair,Furniture,7892,84,18,4,74
+Monitor,Electronics,4665,181,6,7,40
+Bag,Fashion,20966,77,25,9,229
+Chair,Furniture,19067,105,24,6,146
+Rice,Grocery,10378,267,11,7,74
+Phone,Electronics,12392,201,11,1,9
+Shoes,Fashion,32507,264,24,7,165
+Laptop,Electronics,49350,169,12,14,163
+Shampoo,Personal Care,47877,58,29,2,62
+Monitor,Electronics,38524,250,17,14,243
+Mouse,Electronics,41119,136,15,12,178
+Laptop,Electronics,36824,268,24,2,50
+Bag,Fashion,39152,105,15,8,124
+Monitor,Electronics,24874,229,11,6,63
+Mouse,Electronics,48235,228,22,12,259
+Shampoo,Personal Care,38627,194,22,15,333
+Bottle,Accessories,21483,237,1,12,15
+Rice,Grocery,24241,261,6,14,84
+Sugar,Grocery,46345,229,17,15,259
+Milk,Grocery,16228,292,13,4,47
+Bottle,Accessories,23369,263,29,11,317
+Keyboard,Electronics,42300,75,16,14,224
+Chair,Furniture,18250,292,5,13,65
+Printer,Electronics,20832,174,27,2,57
+Headphones,Electronics,12874,25,30,8,240
+Chair,Furniture,44049,296,21,1,16
+Shoes,Fashion,22375,117,6,14,88
+Soap,Personal Care,36539,62,29,3,92
+Headphones,Electronics,3394,118,19,6,110
+Pen,Stationery,29401,89,1,5,2
+Mouse,Electronics,23528,285,16,7,115
+Phone,Electronics,452,104,6,11,61
+Soap,Personal Care,8563,101,12,6,68
+Sugar,Grocery,20193,54,16,15,238
+Pen,Stationery,6722,44,8,4,30
+Mouse,Electronics,11758,197,19,15,288
+Rice,Grocery,31778,128,14,6,84
+Keyboard,Electronics,14079,79,3,1,1
+Pen,Stationery,35944,257,9,11,97
+Soap,Personal Care,43605,226,12,14,164
+Shoes,Fashion,49891,37,7,11,75
+Pen,Stationery,19225,55,27,15,401
+Mouse,Electronics,45602,166,19,8,147
+Soap,Personal Care,45097,41,18,15,270
+Printer,Electronics,46443,235,30,6,177
+Sugar,Grocery,48209,136,8,7,58
+Printer,Electronics,34492,235,11,13,148
+Printer,Electronics,26957,242,10,9,85
+Monitor,Electronics,27373,55,13,9,114
+Sugar,Grocery,13207,107,18,4,71
+Bag,Fashion,23646,90,23,3,74
+Bag,Fashion,31891,291,26,9,235
+Bottle,Accessories,34764,198,6,10,57
+Chair,Furniture,40466,218,4,9,38
+Laptop,Electronics,5704,282,17,13,224
+Laptop,Electronics,593,9,15,9,138
+Shoes,Fashion,9954,268,7,11,78
+Notebook,Stationery,14659,21,18,1,19
+Milk,Grocery,11141,175,12,11,133
+Bag,Fashion,23186,83,19,7,138
+Soap,Personal Care,14867,287,24,13,311
+Phone,Electronics,23938,88,17,4,71
+Phone,Electronics,32678,55,29,5,140
+Keyboard,Electronics,9782,138,30,13,391
+Bag,Fashion,46697,189,4,7,26
+Sugar,Grocery,26121,77,18,10,183
+Laptop,Electronics,17984,127,13,4,48
+Soap,Personal Care,10185,213,29,11,320
+Mouse,Electronics,20494,235,11,2,25
+Shoes,Fashion,19981,144,19,6,118
+Monitor,Electronics,21350,242,14,5,67
+Bottle,Accessories,11791,124,8,3,27
+Rice,Grocery,7099,151,14,7,98
+Keyboard,Electronics,7281,22,28,14,393
+Laptop,Electronics,13336,291,11,14,153
+Printer,Electronics,6050,163,23,4,95
+Mouse,Electronics,49883,20,3,13,40
+Bag,Fashion,40798,70,14,11,154
+Laptop,Electronics,44889,111,7,15,109
+Bottle,Accessories,38908,105,1,2,0
+Bottle,Accessories,34999,199,10,11,114
+Rice,Grocery,3452,165,19,9,170
+Keyboard,Electronics,44668,167,18,2,41
+Table,Furniture,47871,225,12,9,109
+Rice,Grocery,42163,35,22,1,24
+Bottle,Accessories,48665,243,7,14,98
+Keyboard,Electronics,38690,297,8,2,19
+Bag,Fashion,31232,64,15,7,101
+Pen,Stationery,33080,280,14,15,205
+Chair,Furniture,44936,251,7,4,26
+Chair,Furniture,1875,20,25,5,123
+Shoes,Fashion,31075,57,4,10,36
+Laptop,Electronics,39500,285,19,13,248
+Keyboard,Electronics,14179,183,1,2,6
+Phone,Electronics,3446,215,6,10,62
+Milk,Grocery,26883,50,1,7,9
+Mouse,Electronics,36864,59,17,6,99
+Milk,Grocery,25410,90,6,13,76
+Phone,Electronics,39245,65,11,13,144
+Monitor,Electronics,41628,164,21,6,127
+Soap,Personal Care,884,140,17,15,252
+Sugar,Grocery,33775,285,22,5,112
+Rice,Grocery,40722,134,8,11,87
+Shoes,Fashion,14793,4,8,13,107
+Milk,Grocery,12361,157,27,14,375
+Phone,Electronics,42258,156,16,2,37
+Oil,Grocery,45865,229,4,8,32
+Oil,Grocery,25176,48,2,15,27
+Bottle,Accessories,29770,117,10,12,121
+Monitor,Electronics,23051,146,26,8,207
+Mouse,Electronics,17463,214,20,7,144
+Mouse,Electronics,8434,161,15,13,192
+Soap,Personal Care,18899,102,22,6,135
+Headphones,Electronics,29449,112,23,6,135
+Pen,Stationery,48015,45,16,4,64
+Table,Furniture,23999,22,28,8,229
+Bottle,Accessories,9234,281,2,3,6
+Rice,Grocery,471,274,8,15,118
+Phone,Electronics,14564,52,10,4,36
+Headphones,Electronics,40093,21,27,15,406
+Mouse,Electronics,46932,179,1,8,5
+Shampoo,Personal Care,13429,71,8,15,121
+Milk,Grocery,13548,18,22,12,266
+Shoes,Fashion,18532,229,18,10,176
+Notebook,Stationery,19783,253,9,3,22
+Monitor,Electronics,21330,44,15,13,198
+Rice,Grocery,42894,70,4,12,43
+Phone,Electronics,31513,24,25,12,295
+Printer,Electronics,42399,110,3,5,19
+Milk,Grocery,46404,38,23,2,45
+Shampoo,Personal Care,31421,139,23,10,230
+Sugar,Grocery,9062,190,20,2,39
+Rice,Grocery,25,21,26,13,334
+Mouse,Electronics,23263,271,7,4,27
+Mouse,Electronics,32306,209,22,8,178
+Keyboard,Electronics,7598,74,4,7,27
+Rice,Grocery,30944,37,17,2,30
+Shampoo,Personal Care,47742,69,2,14,29
+Keyboard,Electronics,30316,191,16,2,30
+Headphones,Electronics,39733,280,3,13,44
+Headphones,Electronics,19800,144,14,15,207
+Headphones,Electronics,46586,156,10,4,40
+Shoes,Fashion,17829,131,11,10,106
+Sugar,Grocery,30567,101,14,3,39
+Oil,Grocery,6469,194,19,9,167
+Shoes,Fashion,31512,193,29,8,237
+Bottle,Accessories,3299,270,13,14,182
+Mouse,Electronics,2356,214,27,2,52
+Monitor,Electronics,34368,93,9,7,58
+Milk,Grocery,24912,271,5,7,31
+Bottle,Accessories,39703,202,12,10,121
+Phone,Electronics,44130,229,4,5,22
+Bottle,Accessories,48161,244,27,8,211
+Rice,Grocery,38950,196,5,11,56
+Bag,Fashion,19939,229,25,2,55
+Printer,Electronics,23007,37,1,9,9
+Mouse,Electronics,11317,117,18,11,193
+Shampoo,Personal Care,28298,33,24,10,242
+Table,Furniture,14091,91,7,8,51
+Keyboard,Electronics,11574,43,5,14,74
+Oil,Grocery,25174,36,23,3,74
+Printer,Electronics,13957,272,19,2,41
+Shampoo,Personal Care,7288,190,14,4,54
+Phone,Electronics,26947,93,5,12,56
+Monitor,Electronics,33920,185,6,13,82
+Rice,Grocery,23478,163,3,14,46
+Milk,Grocery,38593,15,19,9,172
+Laptop,Electronics,49940,75,15,8,120
+Shoes,Fashion,25575,186,24,5,117
+Sugar,Grocery,9461,157,12,11,137
+Notebook,Stationery,35461,214,12,2,25
+Sugar,Grocery,28103,277,19,8,157
+Laptop,Electronics,34060,97,6,9,56
+Table,Furniture,15089,64,30,12,358
+Printer,Electronics,27808,273,3,6,14
+Rice,Grocery,6364,60,27,9,243
+Sugar,Grocery,34181,63,20,14,285
+Mouse,Electronics,18769,55,13,4,48
+Keyboard,Electronics,26949,17,6,1,7
+Phone,Electronics,37555,252,16,2,33
+Phone,Electronics,13009,98,16,8,125
+Printer,Electronics,44696,233,17,2,35
+Printer,Electronics,19980,254,10,12,121
+Chair,Furniture,16859,113,26,15,392
+Notebook,Stationery,1434,287,24,13,307
+Table,Furniture,13931,119,8,7,58
+Phone,Electronics,30868,298,17,12,201
+Bottle,Accessories,17920,9,29,12,344
+Table,Furniture,196,12,14,12,165
+Monitor,Electronics,3669,49,4,3,11
+Mouse,Electronics,47592,189,19,4,75
+Phone,Electronics,6398,236,9,15,140
+Phone,Electronics,165,49,19,4,71
+Shoes,Fashion,29638,234,28,14,390
+Headphones,Electronics,43950,209,24,12,284
+Sugar,Grocery,40454,257,28,9,248
+Shampoo,Personal Care,27759,27,12,5,55
+Bag,Fashion,42684,72,24,6,149
+Monitor,Electronics,21984,68,21,10,209
+Bottle,Accessories,1806,77,22,5,110
+Mouse,Electronics,47620,267,30,9,270
+Rice,Grocery,4516,146,10,8,83
+Monitor,Electronics,7699,238,23,1,25
+Monitor,Electronics,33766,140,28,13,359
+Sugar,Grocery,48701,171,28,12,332
+Chair,Furniture,15230,157,26,7,182
+Oil,Grocery,18442,77,17,8,134
+Pen,Stationery,22448,64,29,15,438
+Pen,Stationery,12483,87,20,2,45
+Bottle,Accessories,10289,151,15,11,168
+Sugar,Grocery,36960,257,19,5,97
+Mouse,Electronics,9912,191,2,11,22
+Table,Furniture,21309,119,23,3,68
+Notebook,Stationery,9488,100,19,12,223
+Shoes,Fashion,26400,240,15,8,116
+Milk,Grocery,12386,28,14,2,29
+Milk,Grocery,18060,23,4,12,53
+Monitor,Electronics,46022,283,30,13,390
+Bag,Fashion,48649,247,25,7,171
+Keyboard,Electronics,14847,106,6,7,47
+Shampoo,Personal Care,1186,205,15,8,118
+Printer,Electronics,40517,57,10,10,103
+Printer,Electronics,5386,173,30,1,28
+Mouse,Electronics,48526,222,12,9,110
+Phone,Electronics,23230,254,30,9,269
+Mouse,Electronics,3918,300,23,5,119
+Headphones,Electronics,25695,46,2,3,8
+Notebook,Stationery,19620,266,28,8,220
+Soap,Personal Care,35510,36,25,3,75
+Table,Furniture,9917,237,10,13,132
+Pen,Stationery,7802,110,9,7,64
+Phone,Electronics,1112,256,30,10,297
+Soap,Personal Care,42964,72,27,1,26
+Monitor,Electronics,45944,167,4,4,14
+Mouse,Electronics,4578,37,21,2,45
+Laptop,Electronics,30444,202,18,14,251
+Rice,Grocery,27422,190,16,13,208
+Sugar,Grocery,4419,18,26,13,333
+Chair,Furniture,4920,216,19,11,211
+Sugar,Grocery,20139,133,18,4,70
+Laptop,Electronics,27284,293,3,7,23
+Sugar,Grocery,24236,215,13,2,27
+Sugar,Grocery,9124,156,23,6,136
+Bag,Fashion,5019,134,13,14,186
+Pen,Stationery,41564,18,12,4,43
+Bottle,Accessories,26850,124,20,11,222
+Headphones,Electronics,27540,44,7,8,56
+Monitor,Electronics,49211,23,9,12,104
+Shampoo,Personal Care,40538,76,7,1,12
+Pen,Stationery,14792,4,24,4,92
+Headphones,Electronics,20893,212,21,9,184
+Monitor,Electronics,43855,225,13,9,116
+Pen,Stationery,21492,137,17,3,49
+Phone,Electronics,45192,276,6,4,22
+Table,Furniture,36156,137,26,7,181
+Pen,Stationery,18837,221,18,2,33
+Bottle,Accessories,7657,195,5,1,2
+Soap,Personal Care,47081,32,9,1,11
+Table,Furniture,23224,283,8,10,85
+Bottle,Accessories,34050,207,11,5,56
+Shampoo,Personal Care,43707,245,28,11,312
+Keyboard,Electronics,1776,128,24,11,260
+Monitor,Electronics,35877,223,20,14,281
+Rice,Grocery,28253,293,11,8,93
+Bottle,Accessories,38128,242,25,4,100
+Bottle,Accessories,24728,261,27,15,406
+Oil,Grocery,23039,40,18,13,236
+Notebook,Stationery,5730,215,16,10,164
+Shampoo,Personal Care,19220,118,3,13,35
+Milk,Grocery,38851,277,10,2,20
+Phone,Electronics,34474,0,27,4,104
+Milk,Grocery,4186,120,20,11,223
+Bag,Fashion,15791,139,1,1,3
+Table,Furniture,25142,117,16,1,19
+Soap,Personal Care,33893,52,26,12,307
+Laptop,Electronics,38803,3,14,5,72
+Sugar,Grocery,20114,20,20,5,95
+Shampoo,Personal Care,40547,103,22,8,176
+Bottle,Accessories,4124,169,20,3,55
+Headphones,Electronics,10257,105,10,13,134
+Table,Furniture,16639,103,24,15,355
+Oil,Grocery,29118,150,16,15,240
+Headphones,Electronics,46234,204,1,13,12
+Phone,Electronics,29114,180,17,12,200
+Phone,Electronics,415,194,15,5,70
+Notebook,Stationery,36016,151,13,2,28
+Rice,Grocery,12572,77,12,10,119
+Headphones,Electronics,33306,90,18,4,72
+Table,Furniture,30589,118,30,15,446
+Bag,Fashion,32629,74,9,12,106
+Table,Furniture,43090,247,23,5,110
+Table,Furniture,5076,47,19,2,33
+Shoes,Fashion,32666,103,27,4,109
+Phone,Electronics,2002,175,16,12,191
+Laptop,Electronics,45550,104,1,1,2
+Shampoo,Personal Care,20649,150,24,7,170
+Oil,Grocery,46982,99,17,6,101
+Sugar,Grocery,48010,187,13,14,187
+Monitor,Electronics,35894,8,15,10,148
+Phone,Electronics,20292,111,19,1,24
+Bottle,Accessories,40511,95,17,12,203
+Shampoo,Personal Care,18867,3,12,3,33
+Mouse,Electronics,9362,31,7,12,83
+Sugar,Grocery,17782,113,7,8,59
+Rice,Grocery,35310,184,13,8,105
+Pen,Stationery,19730,196,19,6,112
+Bottle,Accessories,30530,263,14,3,47
+Pen,Stationery,16828,48,14,7,103
+Shoes,Fashion,37175,117,3,9,31
+Keyboard,Electronics,25894,287,25,6,152
+Chair,Furniture,11044,173,1,13,10
+Chair,Furniture,25805,68,30,5,154
+Soap,Personal Care,42098,150,2,13,26
+Shoes,Fashion,23956,89,27,12,319
+Keyboard,Electronics,34558,154,9,8,67
+Keyboard,Electronics,42531,282,6,7,47
+Oil,Grocery,22180,137,9,7,60
+Soap,Personal Care,34107,230,1,13,10
+Notebook,Stationery,34024,110,3,12,37
+Printer,Electronics,14607,180,22,12,261
+Bag,Fashion,42784,171,15,3,42
+Monitor,Electronics,3724,112,6,10,61
+Sugar,Grocery,36559,271,20,9,183
+Headphones,Electronics,19182,136,5,15,80
+Shoes,Fashion,45626,267,29,8,227
+Phone,Electronics,22281,5,18,14,257
+Laptop,Electronics,48376,32,26,8,203
+Oil,Grocery,302,44,4,5,15
+Mouse,Electronics,9107,199,27,14,378
+Shoes,Fashion,44610,156,29,12,349
+Notebook,Stationery,11552,46,30,8,241
+Phone,Electronics,24081,40,7,14,96
+Phone,Electronics,19152,185,3,3,7
+Rice,Grocery,19829,219,5,9,45
+Bottle,Accessories,44243,269,25,4,98
+Bag,Fashion,21514,53,12,7,80
+Pen,Stationery,10529,253,18,1,22
+Pen,Stationery,35723,139,6,10,65
+Keyboard,Electronics,21466,279,16,5,83
+Table,Furniture,5605,40,2,14,29
+Table,Furniture,37798,234,23,15,345
+Pen,Stationery,12148,149,17,15,257
+Printer,Electronics,45834,74,12,13,160
+Bag,Fashion,42202,173,8,15,117
+Phone,Electronics,11797,180,19,14,265
+Oil,Grocery,7775,164,5,9,47
+Chair,Furniture,40186,193,30,3,89
+Printer,Electronics,7498,116,3,10,30
+Shampoo,Personal Care,9709,192,15,6,88
+Chair,Furniture,14107,115,9,15,133
+Chair,Furniture,11548,77,20,9,185
+Laptop,Electronics,17921,268,29,12,343
+Mouse,Electronics,32568,104,24,13,316
+Mouse,Electronics,43308,110,5,6,30
+Printer,Electronics,37830,262,1,12,11
+Laptop,Electronics,40216,0,21,6,125
+Milk,Grocery,29891,110,21,4,87
+Bottle,Accessories,32009,97,17,13,217
+Oil,Grocery,7431,298,2,7,12
+Monitor,Electronics,39869,229,5,14,75
+Shoes,Fashion,43703,133,16,15,239
+Monitor,Electronics,6174,218,21,13,275
+Keyboard,Electronics,45609,116,26,3,82
+Keyboard,Electronics,36793,21,25,15,378
+Sugar,Grocery,5871,193,30,3,92
+Shoes,Fashion,30030,175,25,13,321
+Soap,Personal Care,44082,211,30,14,420
+Sugar,Grocery,29687,286,16,9,140
+Table,Furniture,20404,31,19,7,129
+Milk,Grocery,45551,78,27,4,113
+Phone,Electronics,32810,242,17,7,115
+Bottle,Accessories,21637,196,8,9,70
+Shampoo,Personal Care,1871,221,10,13,130
+Shampoo,Personal Care,28223,140,2,13,22
+Rice,Grocery,24069,137,25,15,371
+Rice,Grocery,26962,18,3,2,10
+Pen,Stationery,33666,154,10,4,38
+Keyboard,Electronics,44016,216,9,4,40
+Keyboard,Electronics,18208,31,9,15,133
+Sugar,Grocery,1097,75,18,8,141
+Mouse,Electronics,38831,39,5,2,12
+Sugar,Grocery,9767,8,7,7,52
+Shoes,Fashion,45453,294,22,6,136
+Laptop,Electronics,32443,293,15,12,181
+Table,Furniture,6543,201,25,15,372
+Laptop,Electronics,14289,84,20,10,201
+Shampoo,Personal Care,41362,226,25,1,30
+Table,Furniture,34984,51,8,3,19
+Shoes,Fashion,26417,239,5,5,24
+Monitor,Electronics,36424,172,22,7,149
+Monitor,Electronics,7063,234,22,1,21
+Printer,Electronics,37663,50,4,12,43
+Sugar,Grocery,37801,273,25,9,220
+Table,Furniture,33047,193,9,9,81
+Notebook,Stationery,46747,282,30,5,154
+Pen,Stationery,2788,39,15,4,57
+Table,Furniture,21035,185,27,2,53
+Pen,Stationery,33296,185,13,6,74
+Chair,Furniture,24881,42,6,12,72
+Shampoo,Personal Care,32947,71,5,11,50
+Headphones,Electronics,31688,173,24,2,51
+Laptop,Electronics,21655,114,19,9,167
+Monitor,Electronics,25780,64,17,8,132
+Chair,Furniture,46609,177,9,7,68
+Shoes,Fashion,36631,24,2,3,3
+Table,Furniture,9027,220,3,11,35
+Monitor,Electronics,19305,214,21,5,110
+Mouse,Electronics,31218,48,2,13,24
+Oil,Grocery,23050,155,6,6,34
+Chair,Furniture,27930,174,20,3,55
+Rice,Grocery,30297,51,9,15,133
+Monitor,Electronics,38174,88,1,3,3
+Printer,Electronics,2581,102,10,6,55
+Printer,Electronics,30080,139,9,4,39
+Mouse,Electronics,3174,17,12,15,185
+Milk,Grocery,20852,80,23,14,324
+Laptop,Electronics,30374,275,5,14,65
+Milk,Grocery,40373,153,17,10,168
+Notebook,Stationery,21451,171,27,6,162
+Soap,Personal Care,40145,15,3,2,2
+Laptop,Electronics,19627,200,15,1,18
+Laptop,Electronics,44989,253,24,12,286
+Shoes,Fashion,1195,135,5,1,1
+Chair,Furniture,24760,110,11,1,10
+Shoes,Fashion,18314,99,18,3,53
+Monitor,Electronics,9355,40,12,8,100
+Bottle,Accessories,2548,209,4,9,40
+Table,Furniture,24462,71,25,1,30
+Mouse,Electronics,28016,263,26,15,386
+Notebook,Stationery,24584,233,30,8,245
+Keyboard,Electronics,45799,31,3,7,18
+Pen,Stationery,40757,15,25,15,380
+Sugar,Grocery,38886,253,22,1,17
+Bottle,Accessories,28252,20,29,3,90
+Oil,Grocery,37394,215,30,10,296
+Bottle,Accessories,27479,25,7,9,61
+Monitor,Electronics,39863,34,23,15,345
+Mouse,Electronics,25138,254,3,13,44
+Monitor,Electronics,7336,297,18,12,214
+Keyboard,Electronics,20841,44,9,5,43
+Bag,Fashion,47297,0,21,9,189
+Bag,Fashion,30503,127,16,11,171
+Notebook,Stationery,42625,246,18,5,94
+Table,Furniture,9328,175,22,7,150
+Headphones,Electronics,14486,114,29,13,375
+Headphones,Electronics,21270,126,5,15,75
+Phone,Electronics,18330,256,22,13,286
+Oil,Grocery,30894,298,19,10,190
+Mouse,Electronics,5492,151,14,9,124
+Chair,Furniture,29950,200,16,6,92
+Mouse,Electronics,11403,87,24,15,363
+Mouse,Electronics,47424,84,15,7,100
+Headphones,Electronics,1180,114,17,8,134
+Mouse,Electronics,37795,207,12,6,70
+Headphones,Electronics,5415,16,4,14,57
+Printer,Electronics,41449,157,5,5,23
+Monitor,Electronics,43540,5,25,7,173
+Notebook,Stationery,25153,28,10,8,76
+Sugar,Grocery,17214,11,21,2,44
+Bottle,Accessories,22633,85,30,1,29
+Soap,Personal Care,13564,261,12,12,143
+Headphones,Electronics,40103,90,24,6,144
+Shoes,Fashion,8013,212,20,6,125
+Headphones,Electronics,24633,210,3,7,22
+Table,Furniture,43279,246,11,8,90
+Bag,Fashion,9346,219,9,14,121
+Shoes,Fashion,18563,139,21,13,268
+Phone,Electronics,31211,63,30,10,302
+Headphones,Electronics,1279,262,11,5,51
+Mouse,Electronics,5100,150,17,14,237
+Soap,Personal Care,17220,86,6,10,63
+Chair,Furniture,42264,177,25,5,126
+Milk,Grocery,49839,287,16,1,12
+Laptop,Electronics,30927,118,25,9,225
+Keyboard,Electronics,18120,188,22,5,111
+Shampoo,Personal Care,6598,136,5,15,76
+Keyboard,Electronics,7412,166,7,6,41
+Shampoo,Personal Care,2035,226,23,10,230
+Headphones,Electronics,27124,295,3,14,40
+Shampoo,Personal Care,38624,189,26,11,284
+Headphones,Electronics,29614,183,2,9,20
+Shoes,Fashion,18393,144,26,3,81
+Chair,Furniture,47084,149,20,11,215
+Sugar,Grocery,12792,291,16,5,83
+Mouse,Electronics,49881,293,25,3,73
+Pen,Stationery,22102,47,24,7,171
+Bottle,Accessories,2754,181,12,1,11
+Shoes,Fashion,29137,247,8,10,80
+Soap,Personal Care,13780,82,22,7,156
+Shampoo,Personal Care,28392,250,10,6,58
+Keyboard,Electronics,33343,104,5,11,53
+Keyboard,Electronics,33029,122,11,6,64
+Monitor,Electronics,35836,131,30,7,207
+Pen,Stationery,19942,32,2,9,22
+Shampoo,Personal Care,42990,19,22,15,334
+Sugar,Grocery,35047,198,20,15,298
+Laptop,Electronics,30526,273,4,11,49
+Shampoo,Personal Care,25587,126,12,13,154
+Soap,Personal Care,371,226,6,1,11
+Table,Furniture,12875,33,28,13,364
+Laptop,Electronics,5794,172,16,4,66
+Table,Furniture,23342,234,28,7,195
+Laptop,Electronics,1620,205,13,7,95
+Milk,Grocery,6548,76,16,13,207
+Mouse,Electronics,39601,35,24,6,143
+Soap,Personal Care,39521,186,19,15,284
+Mouse,Electronics,40076,18,28,14,393
+Mouse,Electronics,38291,108,16,3,44
+Bottle,Accessories,48773,255,9,1,12
+Table,Furniture,37139,226,2,6,16
+Notebook,Stationery,9982,266,28,5,141
+Milk,Grocery,33979,143,15,11,162
+Bag,Fashion,12985,44,13,15,195
+Mouse,Electronics,22150,258,24,10,241
+Soap,Personal Care,28403,151,26,3,75
+Mouse,Electronics,38437,149,28,5,144
+Shampoo,Personal Care,26887,66,11,1,8
+Rice,Grocery,18552,295,19,9,172
+Pen,Stationery,18885,295,15,10,149
+Monitor,Electronics,43622,62,2,5,12
+Bottle,Accessories,6414,294,17,4,65
+Chair,Furniture,31099,38,18,15,267
+Soap,Personal Care,42579,193,23,9,208
+Soap,Personal Care,20542,68,2,9,20
+Laptop,Electronics,19564,168,15,3,42
+Table,Furniture,4446,31,17,1,20
+Bottle,Accessories,23561,45,2,11,22
+Phone,Electronics,744,282,7,7,51
+Soap,Personal Care,40352,128,25,14,353
+Mouse,Electronics,27031,183,15,7,104
+Headphones,Electronics,44303,208,6,14,83
+Table,Furniture,22600,29,16,2,33
+Oil,Grocery,32967,151,17,6,101
+Milk,Grocery,15644,138,3,8,28
+Bottle,Accessories,44548,261,11,8,85
+Headphones,Electronics,42270,86,19,1,18
+Laptop,Electronics,38308,15,19,4,71
+Milk,Grocery,31763,131,28,3,89
+Table,Furniture,10488,81,27,11,292
+Pen,Stationery,11921,161,1,11,10
+Table,Furniture,47082,185,7,9,65
+Laptop,Electronics,13054,32,4,11,41
+Phone,Electronics,4562,81,6,2,14
+Keyboard,Electronics,1211,218,6,4,21
+Bag,Fashion,24639,127,7,6,44
+Laptop,Electronics,19772,52,13,13,164
+Bag,Fashion,5469,108,10,7,66
+Chair,Furniture,45985,124,11,11,117
+Shoes,Fashion,34177,293,26,12,308
+Chair,Furniture,32117,222,20,8,161
+Monitor,Electronics,3506,269,23,6,139
+Soap,Personal Care,14680,22,12,8,94
+Shampoo,Personal Care,914,172,14,15,211
+Rice,Grocery,10502,274,5,14,75
+Sugar,Grocery,8595,98,23,12,279
+Keyboard,Electronics,32742,103,11,4,48
+Mouse,Electronics,43203,271,24,10,237
+Pen,Stationery,4428,156,20,1,20
+Oil,Grocery,39514,260,5,12,63
+Keyboard,Electronics,13437,223,30,15,454
+Laptop,Electronics,30839,191,1,10,12
+Chair,Furniture,36555,107,10,13,132
+Oil,Grocery,49771,263,27,1,30
+Soap,Personal Care,30461,65,23,3,69
+Mouse,Electronics,14697,172,18,3,56
+Monitor,Electronics,15932,258,10,10,99
+Monitor,Electronics,38524,21,3,6,13
+Bottle,Accessories,30640,118,30,4,125
+Phone,Electronics,45412,225,13,9,117
+Shampoo,Personal Care,16133,214,8,7,61
+Printer,Electronics,45998,114,16,8,130
+Phone,Electronics,44189,14,19,7,130
+Monitor,Electronics,32826,276,11,15,162
+Shampoo,Personal Care,28456,23,3,12,32
+Rice,Grocery,30605,56,16,13,213
+Keyboard,Electronics,28341,65,25,15,376
+Chair,Furniture,14464,122,25,1,26
+Laptop,Electronics,42804,282,28,6,164
+Table,Furniture,41258,189,16,15,239
+Oil,Grocery,20191,170,14,9,130
+Shampoo,Personal Care,12674,287,20,15,302
+Bag,Fashion,14566,243,18,12,214
+Monitor,Electronics,45338,258,29,9,262
+Table,Furniture,31841,274,23,1,26
+Bag,Fashion,26781,146,7,14,97
+Soap,Personal Care,2795,54,13,7,90
+Notebook,Stationery,42486,275,25,5,123
+Notebook,Stationery,15192,4,20,13,265
+Bag,Fashion,16210,181,17,6,102
+Pen,Stationery,25333,33,2,1,5
+Oil,Grocery,19686,79,22,2,40
+Mouse,Electronics,9867,24,7,3,25
+Table,Furniture,31463,236,28,8,225
+Notebook,Stationery,346,208,2,9,19
+Oil,Grocery,37171,205,18,14,249
+Notebook,Stationery,30110,141,27,9,244
+Bag,Fashion,18294,209,3,15,43
+Phone,Electronics,39966,283,5,6,31
+Oil,Grocery,5023,292,15,2,34
+Keyboard,Electronics,13143,300,23,5,112
+Sugar,Grocery,15495,193,20,1,21
+Oil,Grocery,478,274,30,5,146
+Shampoo,Personal Care,36350,248,17,4,72
+Phone,Electronics,35918,264,9,2,15
+Table,Furniture,40798,267,24,5,116
+Sugar,Grocery,19191,172,3,14,40
+Headphones,Electronics,23965,252,21,5,105
+Table,Furniture,17296,194,4,14,53
+Laptop,Electronics,30019,49,20,12,238
+Pen,Stationery,21118,168,7,5,36
+Mouse,Electronics,49608,108,14,15,207
+Bottle,Accessories,1385,87,10,11,105
+Mouse,Electronics,43329,172,22,6,127
+Laptop,Electronics,26982,65,26,1,26
+Headphones,Electronics,35540,216,1,2,0
+Phone,Electronics,31208,251,23,4,92
+Rice,Grocery,17699,209,28,13,362
+Laptop,Electronics,7218,177,16,8,129
+Sugar,Grocery,20486,0,5,11,57
+Laptop,Electronics,43073,249,2,10,21
+Oil,Grocery,16060,284,15,8,121
+Keyboard,Electronics,22908,234,26,11,283
+Printer,Electronics,11804,12,8,5,35
+Pen,Stationery,22485,255,19,8,155
+Phone,Electronics,12414,280,7,10,74
+Notebook,Stationery,35778,132,13,14,183
+Table,Furniture,32385,158,26,6,161
+Bottle,Accessories,10472,34,26,1,26
+Oil,Grocery,48857,281,27,1,23
+Bag,Fashion,19678,77,11,7,73
+Bag,Fashion,2579,39,18,3,51
+Rice,Grocery,15407,279,25,2,54
+Shampoo,Personal Care,5556,256,23,12,279
+Table,Furniture,21620,54,26,10,255
+Soap,Personal Care,1662,27,22,8,178
+Headphones,Electronics,26325,202,15,15,224
+Table,Furniture,22788,44,27,11,300
+Laptop,Electronics,22805,112,19,5,93
+Monitor,Electronics,6444,288,14,8,112
+Laptop,Electronics,1854,16,14,8,116
+Printer,Electronics,219,207,24,5,119
+Notebook,Stationery,35819,55,11,7,73
+Oil,Grocery,49166,248,1,5,7
+Printer,Electronics,28929,127,2,13,28
+Headphones,Electronics,21017,151,24,2,47
+Shoes,Fashion,18190,192,13,9,112
+Milk,Grocery,11774,161,4,3,13
+Phone,Electronics,20839,184,18,4,71
+Soap,Personal Care,47702,22,19,3,57
+Headphones,Electronics,18452,131,3,13,42
+Rice,Grocery,29047,130,21,6,124
+Phone,Electronics,33121,94,23,12,274
+Soap,Personal Care,39800,298,18,3,53
+Sugar,Grocery,7930,53,2,7,12
+Notebook,Stationery,39230,106,22,3,69
+Chair,Furniture,12728,11,7,14,93
+Pen,Stationery,44936,115,11,1,7
+Shoes,Fashion,24865,137,9,3,24
+Headphones,Electronics,25254,286,11,4,42
+Printer,Electronics,22099,51,16,13,212
+Chair,Furniture,22237,213,13,3,37
+Sugar,Grocery,15724,31,25,10,248
+Milk,Grocery,4037,241,4,12,47
+Headphones,Electronics,5645,45,30,7,214
+Headphones,Electronics,17649,77,12,14,169
+Monitor,Electronics,28535,244,1,15,20
+Bottle,Accessories,1498,132,18,14,249
+Shampoo,Personal Care,22757,153,12,9,107
+Rice,Grocery,32149,201,10,10,101
+Mouse,Electronics,26164,43,25,1,26
+Bottle,Accessories,49977,118,19,13,250
+Rice,Grocery,25251,134,15,13,200
+Keyboard,Electronics,20099,289,29,7,199
+Monitor,Electronics,7745,110,11,9,101
+Shampoo,Personal Care,37507,224,10,5,51
+Shoes,Fashion,23290,128,28,11,311
+Chair,Furniture,32148,131,21,13,268
+Printer,Electronics,49964,224,8,10,85
+Oil,Grocery,28149,296,18,9,160
+Milk,Grocery,42882,72,4,8,27
+Shampoo,Personal Care,17737,30,8,1,6
+Keyboard,Electronics,47726,37,27,2,54
+Printer,Electronics,4997,5,28,10,279
+Rice,Grocery,6039,240,2,9,18
+Sugar,Grocery,25935,203,16,12,196
+Shoes,Fashion,39314,209,19,2,35
+Oil,Grocery,33766,56,14,7,99
+Bottle,Accessories,31147,99,5,6,32
+Soap,Personal Care,30545,84,26,2,50
+Bottle,Accessories,41805,212,29,7,203
+Headphones,Electronics,21844,126,14,5,72
+Laptop,Electronics,10552,246,11,12,129
+Oil,Grocery,26330,56,7,1,10
+Mouse,Electronics,293,51,5,2,10
+Shoes,Fashion,8246,147,14,3,44
+Monitor,Electronics,38314,166,18,5,86
+Shoes,Fashion,37798,151,8,6,43
+Monitor,Electronics,25652,167,27,6,160
+Bottle,Accessories,24229,161,23,1,23
+Laptop,Electronics,21510,7,21,3,61
+Phone,Electronics,5455,11,13,5,65
+Keyboard,Electronics,19917,249,9,11,102
+Soap,Personal Care,32504,174,17,13,223
+Pen,Stationery,42699,1,12,8,96
+Chair,Furniture,39284,93,11,8,91
+Printer,Electronics,37531,63,23,11,258
+Sugar,Grocery,31126,270,21,12,257
+Bottle,Accessories,34587,208,10,9,90
+Chair,Furniture,10496,23,3,5,14
+Phone,Electronics,5809,81,20,11,221
+Keyboard,Electronics,36120,148,2,12,25
+Laptop,Electronics,42603,162,14,15,206
+Mouse,Electronics,311,185,23,3,68
+Monitor,Electronics,1952,199,21,9,192
+Laptop,Electronics,37656,150,22,5,111
+Chair,Furniture,33692,28,26,12,316
+Phone,Electronics,28865,72,4,7,28
+Mouse,Electronics,32815,207,16,14,225
+Rice,Grocery,31177,223,15,3,45
+Table,Furniture,19200,134,14,3,37
+Monitor,Electronics,37033,292,17,6,102
+Table,Furniture,545,140,10,8,79
+Rice,Grocery,25838,157,15,15,224
+Bag,Fashion,19636,256,28,12,336
+Phone,Electronics,45231,280,17,6,106
+Laptop,Electronics,16733,125,29,6,178
+Bottle,Accessories,33565,226,1,4,4
+Shampoo,Personal Care,16963,193,29,15,439
+Milk,Grocery,30886,253,22,10,216
+Mouse,Electronics,42448,108,10,11,112
+Monitor,Electronics,19212,26,28,7,192
+Headphones,Electronics,18543,224,9,8,68
+Bag,Fashion,16495,232,7,7,46
+Sugar,Grocery,7145,166,8,14,112
+Phone,Electronics,24066,28,30,8,244
+Phone,Electronics,20477,78,25,15,377
+Rice,Grocery,21962,202,6,2,16
+Notebook,Stationery,12973,259,24,9,220
+Chair,Furniture,4357,118,7,10,71
+Bag,Fashion,25127,175,8,11,88
+Laptop,Electronics,10210,189,18,9,158
+Monitor,Electronics,32027,227,26,3,80
+Headphones,Electronics,18983,193,23,3,74
+Headphones,Electronics,30723,88,16,2,37
+Milk,Grocery,6133,225,28,9,254
+Notebook,Stationery,6909,52,15,4,57
+Bag,Fashion,22482,255,16,15,241
+Soap,Personal Care,38627,134,16,3,50
+Phone,Electronics,19090,295,10,13,128
+Keyboard,Electronics,17249,208,22,3,67
+Bottle,Accessories,480,203,7,8,52
+Headphones,Electronics,14955,145,2,15,33
+Phone,Electronics,31649,264,17,12,202
+Sugar,Grocery,49287,247,23,7,160
+Bottle,Accessories,34209,279,29,15,438
+Printer,Electronics,43286,77,7,6,42
+Bag,Fashion,36548,72,7,12,89
+Phone,Electronics,39184,64,2,11,21
+Mouse,Electronics,8983,105,30,12,360
+Notebook,Stationery,49889,111,25,2,53
+Shampoo,Personal Care,40468,226,25,15,370
+Bottle,Accessories,31314,150,12,2,23
+Shampoo,Personal Care,8594,197,20,4,85
+Bag,Fashion,13161,24,12,8,93
+Notebook,Stationery,45382,212,16,14,228
+Laptop,Electronics,40183,84,15,13,197
+Printer,Electronics,36014,194,21,1,25
+Shoes,Fashion,24922,223,3,1,1
+Shoes,Fashion,39122,132,20,8,162
+Printer,Electronics,20190,10,25,14,350
+Soap,Personal Care,19415,297,15,15,224
+Bottle,Accessories,5482,38,16,14,220
+Laptop,Electronics,22390,167,15,1,17
+Sugar,Grocery,21212,78,20,2,38
+Bag,Fashion,5684,107,29,10,291
+Shoes,Fashion,42358,198,28,5,136
+Table,Furniture,3498,70,9,13,113
+Bag,Fashion,17966,250,28,14,393
+Chair,Furniture,23706,59,9,15,131
+Sugar,Grocery,9975,259,25,6,152
+Headphones,Electronics,13316,93,6,4,26
+Bag,Fashion,21799,252,20,6,125
+Laptop,Electronics,40726,147,27,6,158
+Monitor,Electronics,13028,213,8,1,12
+Sugar,Grocery,34410,138,2,11,19
+Monitor,Electronics,49785,162,20,13,263
+Soap,Personal Care,5666,133,9,9,86
+Bag,Fashion,32375,234,30,1,27
+Laptop,Electronics,25394,223,17,4,65
+Keyboard,Electronics,26561,124,29,8,235
+Laptop,Electronics,11983,175,7,14,94
+Headphones,Electronics,8589,2,20,5,105
+Bag,Fashion,1613,109,19,3,54
+Table,Furniture,40430,119,12,10,118
+Milk,Grocery,42797,225,23,15,349
+Oil,Grocery,19192,156,21,15,316
+Soap,Personal Care,5356,291,28,7,200
+Sugar,Grocery,44916,222,9,7,68
+Mouse,Electronics,12483,226,12,6,71
+Notebook,Stationery,19867,64,8,12,92
+Bottle,Accessories,33058,175,16,4,59
+Headphones,Electronics,9295,225,30,13,391
+Laptop,Electronics,16771,58,28,10,281
+Shampoo,Personal Care,46316,187,10,10,97
+Monitor,Electronics,31608,122,4,4,14
+Laptop,Electronics,18481,122,4,11,40
+Milk,Grocery,20651,198,27,11,300
+Bottle,Accessories,5779,169,1,8,13
+Pen,Stationery,32835,263,19,3,60
+Bag,Fashion,42323,284,8,6,43
+Notebook,Stationery,49777,238,13,9,114
+Headphones,Electronics,22230,32,11,6,64
+Bottle,Accessories,14529,172,18,10,182
+Phone,Electronics,38527,21,25,14,347
+Soap,Personal Care,3615,254,21,15,313
+Mouse,Electronics,15714,171,25,2,48
+Keyboard,Electronics,1323,19,8,13,101
+Sugar,Grocery,1474,9,10,8,75
+Printer,Electronics,6569,6,6,12,71
+Monitor,Electronics,24813,61,11,9,104
+Shampoo,Personal Care,17451,159,29,3,88
+Chair,Furniture,26057,220,18,5,88
+Laptop,Electronics,4563,107,5,5,22
+Soap,Personal Care,15128,124,7,3,21
+Sugar,Grocery,20608,252,20,13,261
+Keyboard,Electronics,3598,166,9,11,96
+Laptop,Electronics,39764,252,16,7,108
+Sugar,Grocery,22273,219,5,13,60
+Monitor,Electronics,25295,28,23,13,300
+Rice,Grocery,20506,300,8,7,55
+Chair,Furniture,10014,258,10,4,44
+Milk,Grocery,18410,75,18,1,21
+Notebook,Stationery,23393,226,6,8,46
+Mouse,Electronics,27923,207,14,7,101
+Notebook,Stationery,26927,130,13,15,194
+Notebook,Stationery,24767,71,6,4,23
+Headphones,Electronics,9558,26,30,12,361
+Laptop,Electronics,330,3,27,15,400
+Milk,Grocery,23978,230,13,3,37
+Headphones,Electronics,43895,206,18,5,88
+Sugar,Grocery,46695,267,3,2,6
+Monitor,Electronics,40902,115,26,3,73
+Chair,Furniture,48728,57,30,14,416
+Keyboard,Electronics,29466,15,18,8,143
+Bag,Fashion,7635,18,22,10,224
+Phone,Electronics,25393,30,14,9,121
+Monitor,Electronics,47391,196,26,7,185
+Oil,Grocery,9622,31,1,4,8
+Mouse,Electronics,18010,269,3,7,21
+Headphones,Electronics,2566,263,17,14,235
+Oil,Grocery,2445,236,29,3,87
+Bag,Fashion,18185,163,15,2,27
+Milk,Grocery,34440,94,7,14,96
+Monitor,Electronics,28120,178,24,11,266
+Pen,Stationery,45686,118,17,8,141
+Monitor,Electronics,15722,130,13,8,106
+Mouse,Electronics,36729,171,23,14,318
+Monitor,Electronics,38885,130,5,4,24
+Chair,Furniture,12268,234,11,4,48
+Bag,Fashion,38957,222,26,4,99
+Pen,Stationery,28615,250,10,11,106
+Oil,Grocery,10640,293,7,14,100
+Monitor,Electronics,39835,27,4,13,51
+Bottle,Accessories,1596,113,5,4,24
+Oil,Grocery,44233,188,16,2,34
+Notebook,Stationery,4958,263,24,14,332
+Shampoo,Personal Care,24498,85,9,5,49
+Notebook,Stationery,39911,25,26,5,128
+Shoes,Fashion,30201,212,17,7,123
+Chair,Furniture,967,81,6,10,65
+Monitor,Electronics,42867,102,8,7,52
+Rice,Grocery,26243,54,30,3,86
+Oil,Grocery,46130,246,23,8,189
+Table,Furniture,25839,217,20,9,177
+Headphones,Electronics,43455,25,18,4,69
+Printer,Electronics,29879,73,7,2,18
+Mouse,Electronics,20102,82,10,9,93
+Milk,Grocery,37816,100,2,12,21
+Rice,Grocery,1542,32,25,1,23
+Oil,Grocery,13932,109,12,2,22
+Soap,Personal Care,25732,137,25,7,178
+Soap,Personal Care,13645,284,11,7,80
+Monitor,Electronics,33327,270,1,4,0
+Shampoo,Personal Care,9084,13,25,1,27
+Keyboard,Electronics,17061,191,26,4,102
+Headphones,Electronics,2254,224,10,3,33
+Oil,Grocery,35296,145,19,9,172
+Notebook,Stationery,44294,187,8,12,97
+Bag,Fashion,37703,221,30,4,116
+Bottle,Accessories,15970,141,6,13,82
+Headphones,Electronics,48560,210,1,3,2
+Shoes,Fashion,20164,74,4,15,65
+Table,Furniture,30932,177,25,8,195
+Sugar,Grocery,6888,103,21,2,42
+Chair,Furniture,24276,182,29,8,235
+Keyboard,Electronics,23101,85,15,11,166
+Bottle,Accessories,1113,284,17,8,141
+Oil,Grocery,48709,268,10,11,114
+Bottle,Accessories,26024,97,28,6,169
+Pen,Stationery,3755,247,27,7,194
+Keyboard,Electronics,19455,79,28,1,28
+Oil,Grocery,40001,60,19,15,282
+Shampoo,Personal Care,29590,122,22,7,158
+Pen,Stationery,21069,256,16,12,187
+Shoes,Fashion,35415,187,22,7,151
+Oil,Grocery,8476,180,23,8,180
+Headphones,Electronics,8858,271,15,9,140
+Soap,Personal Care,17585,150,25,3,78
+Chair,Furniture,40474,1,4,14,55
+Headphones,Electronics,26223,267,8,15,116
+Printer,Electronics,23071,83,23,13,302
+Table,Furniture,22798,108,3,5,20
+Keyboard,Electronics,39581,130,18,14,255
+Sugar,Grocery,25023,74,18,10,175
+Keyboard,Electronics,9591,13,26,9,229
+Printer,Electronics,13671,129,16,10,161
+Pen,Stationery,45942,10,3,6,16
+Keyboard,Electronics,22674,222,28,12,340
+Milk,Grocery,36331,171,6,5,27
+Oil,Grocery,33297,123,26,10,259
+Keyboard,Electronics,48090,109,28,4,110
+Soap,Personal Care,42441,239,25,9,223
+Bag,Fashion,5058,163,15,7,101
+Bag,Fashion,13318,240,14,6,85
+Keyboard,Electronics,42395,194,4,10,37
+Printer,Electronics,19127,15,12,4,50
+Sugar,Grocery,10955,23,12,13,161
+Notebook,Stationery,36418,224,19,5,100
+Table,Furniture,48154,144,22,7,153
+Shampoo,Personal Care,36834,272,30,8,244
+Printer,Electronics,16544,4,23,7,164
+Rice,Grocery,38788,294,21,5,107
+Soap,Personal Care,4432,210,19,10,187
+Sugar,Grocery,41094,130,5,2,7
+Bottle,Accessories,49827,52,15,6,85
+Table,Furniture,25973,199,28,1,25
+Chair,Furniture,31762,53,23,11,256
+Printer,Electronics,37304,121,28,5,141
+Rice,Grocery,16847,287,16,7,111
+Notebook,Stationery,32918,11,13,8,102
+Headphones,Electronics,39275,115,28,11,310
+Sugar,Grocery,42604,155,13,1,12
+Mouse,Electronics,20941,33,15,13,200
+Soap,Personal Care,5133,258,28,12,339
+Rice,Grocery,29857,48,9,4,33
+Printer,Electronics,23268,229,7,1,5
+Phone,Electronics,42415,263,13,4,54
+Sugar,Grocery,30437,52,20,8,156
+Rice,Grocery,11820,109,18,4,70
+Headphones,Electronics,26205,98,27,9,240
+Chair,Furniture,8562,260,18,10,184
+Pen,Stationery,29389,73,23,11,258
+Bottle,Accessories,33268,125,7,1,11
+Monitor,Electronics,15076,272,13,12,157
+Printer,Electronics,8503,205,8,2,21
+Monitor,Electronics,16815,286,16,4,62
+Mouse,Electronics,108,116,1,7,6
+Printer,Electronics,47088,176,27,1,30
+Shampoo,Personal Care,39175,153,9,1,6
+Monitor,Electronics,27480,287,24,5,117
+Headphones,Electronics,10293,246,4,9,41
+Printer,Electronics,3145,167,21,2,39
+Shoes,Fashion,1786,275,15,2,27
+Soap,Personal Care,36592,110,7,14,94
+Milk,Grocery,11746,220,12,3,41
+Bottle,Accessories,1973,214,14,13,181
+Notebook,Stationery,42696,58,24,11,260
+Headphones,Electronics,5960,180,30,15,449
+Monitor,Electronics,36637,214,9,12,107
+Phone,Electronics,42541,184,4,3,11
+Sugar,Grocery,47736,91,14,8,112
+Shoes,Fashion,2824,171,1,7,4
+Bottle,Accessories,29936,224,8,11,87
+Notebook,Stationery,44703,150,9,4,36
+Rice,Grocery,7803,118,22,10,219
+Laptop,Electronics,45800,291,2,9,16
+Sugar,Grocery,11115,125,27,12,329
+Soap,Personal Care,19097,267,8,1,4
+Shampoo,Personal Care,15082,96,17,14,240
+Printer,Electronics,3644,12,21,9,194
+Sugar,Grocery,12115,283,1,13,10
+Notebook,Stationery,49509,126,20,7,143
+Notebook,Stationery,34807,39,6,4,22
+Keyboard,Electronics,40439,18,22,3,66
+Monitor,Electronics,25529,174,4,7,30
+Shoes,Fashion,20910,44,22,8,177
+Shoes,Fashion,14782,128,27,4,107
+Milk,Grocery,21801,90,29,12,349
+Laptop,Electronics,17110,248,28,9,255
+Rice,Grocery,8716,204,13,1,15
+Table,Furniture,6650,123,10,6,59
+Keyboard,Electronics,11949,106,10,8,78
+Soap,Personal Care,28470,12,8,4,34
+Bottle,Accessories,32205,38,11,4,48
+Headphones,Electronics,45353,107,15,10,147
+Keyboard,Electronics,35659,148,22,10,218
+Notebook,Stationery,39010,120,30,8,235
+Bag,Fashion,27806,19,25,4,98
+Phone,Electronics,20224,124,26,8,205
+Pen,Stationery,46550,186,20,9,180
+Shoes,Fashion,44837,149,2,5,10
+Shampoo,Personal Care,38139,86,8,2,11
+Shoes,Fashion,31019,90,13,8,99
+Shampoo,Personal Care,10608,11,6,12,76
+Bag,Fashion,12592,145,2,4,5
+Oil,Grocery,42421,41,2,9,13
+Shoes,Fashion,29172,154,28,9,254
+Monitor,Electronics,20661,210,29,11,317
+Keyboard,Electronics,1792,285,14,6,84
+Bag,Fashion,19194,113,30,8,235
+Mouse,Electronics,19089,102,4,13,49
+Pen,Stationery,47684,136,5,13,64
+Soap,Personal Care,43652,131,11,2,18
+Bag,Fashion,4720,78,5,4,23
+Notebook,Stationery,20384,68,19,14,269
+Pen,Stationery,2866,297,25,10,255
+Rice,Grocery,25608,147,11,6,63
+Pen,Stationery,15108,26,18,7,129
+Sugar,Grocery,33461,52,16,2,36
+Rice,Grocery,45457,283,9,4,34
+Soap,Personal Care,7693,213,8,1,10
+Chair,Furniture,21172,46,4,9,41
+Notebook,Stationery,21461,164,25,7,175
+Keyboard,Electronics,26417,289,12,12,143
+Phone,Electronics,7106,229,22,11,245
+Phone,Electronics,27313,277,21,13,276
+Pen,Stationery,42556,153,18,13,236
+Phone,Electronics,18983,88,2,5,14
+Keyboard,Electronics,28035,26,16,2,30
+Laptop,Electronics,21492,224,21,2,39
+Milk,Grocery,37383,153,23,1,18
+Monitor,Electronics,38393,190,14,5,68
+Headphones,Electronics,7773,57,10,4,37
+Milk,Grocery,24621,138,17,3,50
+Keyboard,Electronics,17419,100,20,6,122
+Soap,Personal Care,33451,0,6,15,94
+Shampoo,Personal Care,4332,122,19,7,131
+Sugar,Grocery,47396,91,21,2,40
+Mouse,Electronics,32263,256,28,4,114
+Notebook,Stationery,9968,278,11,10,114
+Bag,Fashion,24177,10,17,11,189
+Sugar,Grocery,6944,265,29,6,177
+Phone,Electronics,31449,133,22,7,150
+Headphones,Electronics,36299,192,12,8,92
+Laptop,Electronics,11051,239,22,4,84
+Chair,Furniture,23021,238,8,4,37
+Shoes,Fashion,23974,230,25,3,76
+Table,Furniture,36224,80,13,14,186
+Notebook,Stationery,4896,201,9,2,16
+Bag,Fashion,22467,269,16,9,141
+Milk,Grocery,47175,275,23,10,231
+Shampoo,Personal Care,11786,17,8,6,50
+Table,Furniture,49235,290,8,2,15
+Notebook,Stationery,48278,206,6,8,43
+Shampoo,Personal Care,21978,21,19,7,138
+Keyboard,Electronics,3333,0,11,6,67
+Chair,Furniture,7697,289,3,13,36
+Monitor,Electronics,22836,96,27,3,77
+Phone,Electronics,11013,78,21,3,66
+Soap,Personal Care,20753,281,2,11,19
+Headphones,Electronics,30171,240,8,10,75
+Milk,Grocery,44289,250,5,1,6
+Bag,Fashion,44048,14,30,9,268
+Table,Furniture,3389,179,25,10,252
+Oil,Grocery,30780,86,19,6,119
+Printer,Electronics,20503,115,13,9,116
+Mouse,Electronics,30927,12,19,9,174
+Soap,Personal Care,36351,1,17,2,38
+Chair,Furniture,30718,208,22,6,129
+Shoes,Fashion,15248,153,5,7,33
+Table,Furniture,23145,4,5,4,16
+Keyboard,Electronics,2754,79,29,6,174
+Shampoo,Personal Care,25741,172,26,3,81
+Pen,Stationery,17923,233,28,13,365
+Milk,Grocery,48261,249,22,5,110
+Milk,Grocery,22602,182,8,4,27
+Bag,Fashion,33441,8,27,8,219
+Keyboard,Electronics,44401,179,25,4,105
+Bottle,Accessories,32703,16,9,9,83
+Oil,Grocery,40134,122,3,2,6
+Printer,Electronics,42848,127,29,6,175
+Oil,Grocery,46877,36,24,1,21
+Soap,Personal Care,4124,12,18,7,121
+Sugar,Grocery,805,14,13,3,43
+Bottle,Accessories,14156,277,25,14,352
+Headphones,Electronics,29496,247,16,15,235
+Sugar,Grocery,18646,236,26,3,76
+Keyboard,Electronics,35563,244,22,12,268
+Bag,Fashion,7058,200,26,13,339
+Printer,Electronics,23665,57,24,8,195
+Shoes,Fashion,33478,191,29,10,291
+Milk,Grocery,30538,100,16,9,149
+Sugar,Grocery,47158,35,7,8,53
+Sugar,Grocery,34819,155,28,11,312
+Sugar,Grocery,47969,230,12,12,148
+Chair,Furniture,24593,58,5,9,45
+Keyboard,Electronics,31687,215,26,12,313
+Notebook,Stationery,17944,9,9,11,104
+Monitor,Electronics,14027,53,18,13,234
+Keyboard,Electronics,23288,284,27,9,242
+Bottle,Accessories,24674,82,23,10,230
+Mouse,Electronics,9097,173,14,14,193
+Chair,Furniture,25022,53,13,3,43
+Notebook,Stationery,19141,291,3,13,39
+Chair,Furniture,45348,132,30,12,362
+Laptop,Electronics,21996,138,29,6,176
+Soap,Personal Care,20864,269,23,9,205
+Printer,Electronics,20273,255,25,11,277
+Laptop,Electronics,11620,94,26,5,125
+Table,Furniture,23192,274,14,11,155
+Chair,Furniture,20563,123,11,5,52
+Shampoo,Personal Care,41913,54,10,13,132
+Shoes,Fashion,9391,198,5,6,34
+Laptop,Electronics,3999,19,3,13,44
+Laptop,Electronics,25891,40,26,11,281
+Keyboard,Electronics,41928,231,7,2,10
+Rice,Grocery,47149,170,7,7,51
+Bottle,Accessories,45591,126,21,13,271
+Chair,Furniture,25242,36,14,10,145
+Keyboard,Electronics,30114,101,12,2,20
+Oil,Grocery,31408,116,16,1,19
+Keyboard,Electronics,29225,74,13,10,134
+Sugar,Grocery,5212,157,29,14,403
+Sugar,Grocery,38653,182,7,1,10
+Printer,Electronics,6922,62,6,1,5
+Soap,Personal Care,7843,166,30,3,94
+Soap,Personal Care,43678,298,17,12,199
+Laptop,Electronics,25971,28,8,7,56
+Chair,Furniture,38216,285,20,11,221
+Phone,Electronics,7389,166,30,8,237
+Keyboard,Electronics,24849,244,12,5,65
+Keyboard,Electronics,18734,178,28,4,107
+Pen,Stationery,25869,125,29,4,118
+Keyboard,Electronics,11440,89,11,6,66
+Chair,Furniture,15976,290,26,6,158
+Bag,Fashion,28925,117,10,2,17
+Bag,Fashion,37157,30,11,9,97
+Phone,Electronics,49486,243,9,7,67
+Monitor,Electronics,46933,250,19,15,288
+Oil,Grocery,39368,127,24,10,237
+Bag,Fashion,47495,65,12,11,133
+Shoes,Fashion,16282,236,8,3,19
+Printer,Electronics,5044,32,25,10,255
+Headphones,Electronics,19328,256,20,10,202
+Bag,Fashion,32856,44,14,15,209
+Phone,Electronics,28991,4,15,5,76
+Shoes,Fashion,32871,162,16,14,221
+Printer,Electronics,17295,90,8,15,116
+Sugar,Grocery,39090,196,5,2,11
+Shoes,Fashion,7417,203,17,14,235
+Milk,Grocery,11667,233,29,13,379
+Oil,Grocery,456,279,30,1,25
+Laptop,Electronics,29523,88,17,9,157
+Table,Furniture,20030,58,15,1,18
+Chair,Furniture,9621,18,14,9,130
+Mouse,Electronics,25644,234,10,10,98
+Oil,Grocery,28432,243,10,11,108
+Shoes,Fashion,7978,147,29,8,228
+Sugar,Grocery,39616,185,22,14,308
+Bag,Fashion,12144,136,2,8,12
+Printer,Electronics,23570,236,26,3,80
+Table,Furniture,4105,71,11,5,60
+Rice,Grocery,10037,153,9,9,81
+Phone,Electronics,28873,78,18,3,59
+Headphones,Electronics,13939,176,28,14,393
+Headphones,Electronics,18367,103,5,7,35
+Table,Furniture,18800,218,8,4,33
+Phone,Electronics,34840,255,8,9,69
+Headphones,Electronics,42708,15,11,7,81
+Oil,Grocery,5967,49,7,12,79
+Phone,Electronics,5335,79,25,2,49
+Shoes,Fashion,16579,89,5,1,2
+Table,Furniture,30868,243,11,2,25
+Bottle,Accessories,15312,159,30,4,119
+Oil,Grocery,21178,188,3,4,9
+Milk,Grocery,40562,271,14,9,123
+Chair,Furniture,29473,295,18,2,39
+Sugar,Grocery,15532,32,10,6,63
+Pen,Stationery,27021,70,29,3,85
+Rice,Grocery,4236,171,17,15,251
+Soap,Personal Care,16068,237,3,2,10
+Bag,Fashion,6227,254,23,14,320
+Bottle,Accessories,18887,239,21,3,64
+Bottle,Accessories,26807,209,9,13,121
+Mouse,Electronics,15147,190,19,13,248
+Shampoo,Personal Care,746,48,10,2,24
+Shampoo,Personal Care,44970,154,25,13,328
+Rice,Grocery,23649,167,15,5,70
+Monitor,Electronics,49929,206,22,7,155
+Pen,Stationery,35024,236,19,3,53
+Notebook,Stationery,45033,157,10,6,64
+Bag,Fashion,36137,277,27,2,51
+Monitor,Electronics,13498,154,25,8,198
+Soap,Personal Care,716,156,6,15,91
+Notebook,Stationery,19862,64,14,9,124
+Shampoo,Personal Care,34697,218,7,1,6
+Laptop,Electronics,44133,196,29,15,432
+Monitor,Electronics,37810,9,24,1,25
+Shampoo,Personal Care,34157,248,28,2,58
+Milk,Grocery,33120,236,1,11,10
+Notebook,Stationery,11315,229,22,11,241
+Headphones,Electronics,2114,180,9,6,57
+Shampoo,Personal Care,1351,52,3,12,32
+Bottle,Accessories,27520,78,2,1,0
+Bottle,Accessories,26762,30,25,8,201
+Phone,Electronics,36191,201,15,14,208
+Soap,Personal Care,18742,62,14,6,80
+Pen,Stationery,23374,64,4,10,38
+Mouse,Electronics,3112,35,30,10,304
+Oil,Grocery,27380,190,4,11,46
+Pen,Stationery,28228,158,18,12,215
+Bottle,Accessories,46969,40,4,4,17
+Monitor,Electronics,31282,186,14,9,125
+Notebook,Stationery,23386,195,13,3,38
+Milk,Grocery,38280,235,15,14,207
+Mouse,Electronics,34201,23,5,12,64
+Shampoo,Personal Care,43508,284,15,6,93
+Table,Furniture,22826,111,17,3,55
+Chair,Furniture,5606,153,7,3,17
+Rice,Grocery,37789,295,6,8,52
+Table,Furniture,23686,113,29,6,173
+Table,Furniture,6192,286,14,4,53
+Mouse,Electronics,26698,233,4,8,33
+Table,Furniture,26245,49,20,3,58
+Shoes,Fashion,35493,114,13,1,9
+Printer,Electronics,4135,55,7,10,74
+Bag,Fashion,46945,160,24,2,53
+Monitor,Electronics,21183,215,2,7,19
+Oil,Grocery,21443,196,24,9,211
+Monitor,Electronics,27153,91,24,2,50
+Pen,Stationery,16349,293,16,15,237
+Sugar,Grocery,14484,184,15,15,220
+Headphones,Electronics,20539,135,2,2,7
+Printer,Electronics,6762,73,3,4,8
+Sugar,Grocery,48304,58,27,3,83
+Soap,Personal Care,14543,4,25,14,345
+Printer,Electronics,1128,92,1,8,5
+Monitor,Electronics,44583,109,12,5,57
+Printer,Electronics,47805,77,30,13,389
+Shampoo,Personal Care,15218,126,24,7,173
+Monitor,Electronics,10777,85,5,2,15
+Milk,Grocery,41782,84,19,5,98
+Shampoo,Personal Care,17584,286,3,12,32
+Monitor,Electronics,3010,13,14,4,60
+Shampoo,Personal Care,32636,32,26,15,394
+Bag,Fashion,4792,176,2,2,0
+Chair,Furniture,18791,8,7,4,29
+Keyboard,Electronics,7496,24,10,5,52
+Oil,Grocery,49557,97,21,15,315
+Oil,Grocery,34452,178,23,4,88
+Rice,Grocery,20558,87,8,11,92
+Keyboard,Electronics,30421,263,15,2,29
+Chair,Furniture,27095,141,6,9,51
+Shoes,Fashion,30356,46,4,11,41
+Monitor,Electronics,26587,138,28,1,28
+Shoes,Fashion,32021,130,12,13,159
+Laptop,Electronics,37208,266,2,5,15
+Mouse,Electronics,14390,132,21,14,292
+Headphones,Electronics,34982,141,19,1,24
+Chair,Furniture,29334,160,13,3,37
+Pen,Stationery,39863,136,18,5,89
+Monitor,Electronics,43548,122,22,3,67
+Milk,Grocery,33851,276,23,13,295
+Mouse,Electronics,25711,55,14,15,211
+Pen,Stationery,34341,137,20,12,235
+Milk,Grocery,6484,152,30,9,266
+Pen,Stationery,17948,267,12,8,98
+Phone,Electronics,34688,64,29,10,290
+Soap,Personal Care,26467,151,25,4,96
+Headphones,Electronics,29950,69,11,11,126
+Bottle,Accessories,39852,25,3,3,6
+Monitor,Electronics,8216,152,6,10,64
+Phone,Electronics,17957,247,3,1,3
+Rice,Grocery,44350,137,30,11,326
+Notebook,Stationery,36155,238,9,12,111
+Bag,Fashion,26909,121,3,11,34
+Phone,Electronics,38143,22,5,6,30
+Sugar,Grocery,14755,105,21,14,298
+Phone,Electronics,11232,77,2,5,6
+Monitor,Electronics,49557,137,22,15,328
+Pen,Stationery,38815,237,24,15,365
+Keyboard,Electronics,1830,60,24,1,24
+Laptop,Electronics,6319,136,21,3,64
+Oil,Grocery,45864,89,24,6,146
+Table,Furniture,46588,104,14,13,183
+Phone,Electronics,34128,42,13,10,128
+Table,Furniture,25776,117,1,1,6
+Phone,Electronics,1120,130,7,8,59
+Bottle,Accessories,11825,144,24,8,190
+Notebook,Stationery,14224,281,3,15,40
+Shoes,Fashion,11193,294,2,6,8
+Table,Furniture,21630,242,5,13,69
+Shampoo,Personal Care,718,79,16,9,145
+Phone,Electronics,23110,12,15,9,132
+Keyboard,Electronics,37325,131,12,1,11
+Phone,Electronics,49631,212,26,9,236
+Milk,Grocery,372,32,17,4,72
+Oil,Grocery,42308,141,19,6,119
+Sugar,Grocery,13580,24,5,5,26
+Shoes,Fashion,40218,87,22,13,288
+Rice,Grocery,35242,184,14,2,27
+Notebook,Stationery,45522,66,29,10,289
+Phone,Electronics,17270,293,7,6,41
+Printer,Electronics,35490,240,12,8,98
+Shampoo,Personal Care,29329,91,14,11,156
+Printer,Electronics,17607,293,15,3,47
+Keyboard,Electronics,216,75,11,12,129
+Notebook,Stationery,37638,293,5,10,46
+Chair,Furniture,29675,74,18,13,230
+Sugar,Grocery,6269,246,13,4,48
+Bag,Fashion,16093,272,24,4,99
+Mouse,Electronics,40692,253,29,11,324
+Printer,Electronics,40914,125,10,14,143
+Mouse,Electronics,20733,146,11,11,126
+Bottle,Accessories,9452,182,9,2,15
+Printer,Electronics,13399,236,4,11,49
+Table,Furniture,9772,24,9,7,66
+Bottle,Accessories,5867,249,14,5,72
+Notebook,Stationery,15895,189,19,12,226
+Sugar,Grocery,43687,287,7,8,60
+Keyboard,Electronics,48691,202,11,6,62
+Chair,Furniture,36713,81,1,12,8
+Pen,Stationery,5940,33,18,15,268
+Printer,Electronics,42419,75,17,6,100
+Mouse,Electronics,2183,249,26,1,28
+Shoes,Fashion,25053,231,10,12,124
+Pen,Stationery,25247,146,2,3,2
+Bag,Fashion,33999,19,17,6,100
+Rice,Grocery,12272,78,15,4,59
+Headphones,Electronics,6807,61,11,10,115
+Soap,Personal Care,5436,71,7,4,29
+Bag,Fashion,33060,232,20,13,255
+Phone,Electronics,46938,147,18,11,195
+Table,Furniture,11185,87,14,8,109
+Monitor,Electronics,14197,231,15,12,180
+Bag,Fashion,30665,118,16,1,17
+Notebook,Stationery,19655,231,13,7,95
+Phone,Electronics,19322,89,3,5,15
+Chair,Furniture,31717,128,6,9,51
+Shoes,Fashion,3331,210,19,10,189
+Table,Furniture,31377,61,12,9,109
+Notebook,Stationery,21702,132,8,2,13
+Printer,Electronics,11830,246,27,5,131
+Notebook,Stationery,39655,172,19,4,73
+Headphones,Electronics,8788,141,14,9,121
+Notebook,Stationery,28156,56,7,1,9
+Phone,Electronics,28925,61,16,12,190
+Keyboard,Electronics,31793,297,2,15,34
+Table,Furniture,20971,264,16,7,114
+Printer,Electronics,48236,279,17,6,103
+Shampoo,Personal Care,30785,44,17,11,184
+Notebook,Stationery,43700,52,13,4,56
+Soap,Personal Care,21618,9,8,6,48
+Soap,Personal Care,27933,281,3,9,26
+Monitor,Electronics,42482,239,21,4,87
+Pen,Stationery,49015,143,17,4,65
+Soap,Personal Care,44646,242,16,7,117
+Bag,Fashion,2493,5,14,8,117
+Soap,Personal Care,9934,125,27,13,347
+Soap,Personal Care,6942,194,7,15,105
+Keyboard,Electronics,17453,185,17,7,122
+Monitor,Electronics,10012,49,23,2,41
+Notebook,Stationery,2946,246,24,1,22
+Headphones,Electronics,13887,161,15,15,226
+Chair,Furniture,40623,276,27,1,29
+Table,Furniture,6733,156,10,12,116
+Shoes,Fashion,7500,35,11,7,80
+Laptop,Electronics,10271,93,27,13,346
+Oil,Grocery,47611,124,20,6,123
+Monitor,Electronics,26823,28,15,11,161
+Sugar,Grocery,28586,59,6,15,86
+Bottle,Accessories,19232,127,17,12,203
+Laptop,Electronics,13670,72,16,13,206
+Rice,Grocery,5250,16,21,1,25
+Printer,Electronics,32256,217,8,9,70
+Table,Furniture,39937,239,30,5,145
+Soap,Personal Care,2175,121,5,7,39
+Monitor,Electronics,30429,115,4,9,38
+Bottle,Accessories,49850,93,21,11,232
+Printer,Electronics,39339,85,7,4,24
+Printer,Electronics,10144,273,14,13,184
+Shoes,Fashion,29715,192,4,2,11
+Shampoo,Personal Care,24325,48,27,2,57
+Monitor,Electronics,4694,292,28,12,339
+Pen,Stationery,21720,160,23,10,232
+Keyboard,Electronics,23111,88,12,4,43
+Chair,Furniture,42743,102,11,13,138
+Laptop,Electronics,19481,103,8,13,108
+Shampoo,Personal Care,21260,127,22,10,224
+Monitor,Electronics,19951,23,21,12,248
+Notebook,Stationery,9617,200,26,7,187
+Notebook,Stationery,43779,235,28,8,224
+Milk,Grocery,32437,114,1,15,14
+Shoes,Fashion,47211,117,23,1,24
+Mouse,Electronics,35738,158,27,13,348
+Monitor,Electronics,16132,249,21,14,289
+Monitor,Electronics,7389,107,18,13,234
+Milk,Grocery,3920,47,24,12,285
+Oil,Grocery,42766,266,14,8,116
+Sugar,Grocery,27246,148,29,5,142
+Chair,Furniture,17327,237,12,1,8
+Phone,Electronics,37298,165,4,9,41
+Mouse,Electronics,33700,159,23,11,251
+Rice,Grocery,14394,207,23,4,92
+Table,Furniture,47945,244,7,2,10
+Keyboard,Electronics,3589,240,29,11,317
+Keyboard,Electronics,27239,118,12,1,17
+Phone,Electronics,5164,285,8,11,84
+Oil,Grocery,32011,209,10,8,77
+Table,Furniture,30614,224,24,11,262
+Notebook,Stationery,18326,167,20,8,158
+Bottle,Accessories,47528,31,18,12,218
+Sugar,Grocery,17263,52,22,3,63
+Notebook,Stationery,17794,4,5,4,20
+Printer,Electronics,3444,281,2,13,21
+Pen,Stationery,21310,133,20,11,216
+Phone,Electronics,41076,198,27,14,378
+Notebook,Stationery,46401,34,11,12,131
+Headphones,Electronics,6713,181,24,5,121
+Keyboard,Electronics,23093,154,26,10,256
+Milk,Grocery,13184,115,9,8,72
+Printer,Electronics,1405,262,27,3,79
+Oil,Grocery,5868,76,3,7,20
+Chair,Furniture,21235,274,8,3,27
+Table,Furniture,38059,101,2,4,9
+Table,Furniture,43876,133,20,15,298
+Table,Furniture,47504,194,3,3,12
+Shampoo,Personal Care,16574,23,24,12,288
+Monitor,Electronics,48752,47,13,5,66
+Table,Furniture,23852,106,29,11,318
+Milk,Grocery,41883,25,26,7,180
+Pen,Stationery,4474,236,20,13,256
+Table,Furniture,35486,128,20,4,79
+Monitor,Electronics,8455,47,13,1,15
+Soap,Personal Care,39211,99,16,14,221
+Rice,Grocery,26604,108,20,1,22
+Shoes,Fashion,23739,23,12,12,144
+Sugar,Grocery,43375,132,22,10,221
+Chair,Furniture,42639,182,22,15,330
+Bottle,Accessories,2341,148,13,2,28
+Monitor,Electronics,38313,51,11,10,115
+Printer,Electronics,20365,299,1,13,11
+Mouse,Electronics,20822,3,12,5,57
+Shoes,Fashion,30449,259,9,12,112
+Phone,Electronics,40983,44,2,9,16
+Mouse,Electronics,10757,91,17,12,203
+Phone,Electronics,20144,84,24,5,124
+Sugar,Grocery,7588,1,8,15,120
+Keyboard,Electronics,2791,238,5,11,51
+Phone,Electronics,40575,275,28,12,333
+Bag,Fashion,18485,98,20,10,199
+Laptop,Electronics,41682,163,7,4,33
+Table,Furniture,45620,101,26,1,25
+Table,Furniture,9323,25,28,8,227
+Bottle,Accessories,6384,122,18,8,145
+Notebook,Stationery,21195,129,13,6,74
+Phone,Electronics,4610,78,16,5,79
+Pen,Stationery,44681,160,28,7,199
+Bottle,Accessories,3792,70,21,14,291
+Table,Furniture,24695,95,1,15,16
+Keyboard,Electronics,13947,184,24,6,139
+Table,Furniture,37460,36,15,6,92
+Keyboard,Electronics,3978,262,19,9,171
+Keyboard,Electronics,7565,297,3,1,6
+Table,Furniture,17937,222,16,5,77
+Bottle,Accessories,49116,202,3,2,2
+Sugar,Grocery,7059,73,22,13,291
+Bottle,Accessories,39363,235,25,9,230
+Bag,Fashion,23555,9,22,1,20
+Bag,Fashion,28476,3,2,5,11
+Milk,Grocery,48167,191,24,2,43
+Bag,Fashion,19224,190,21,7,150
+Milk,Grocery,34035,149,1,5,1
+Phone,Electronics,9535,89,24,8,194
+Monitor,Electronics,15426,110,2,3,4
+Keyboard,Electronics,19964,139,20,4,79
+Bottle,Accessories,16920,244,21,12,255
+Mouse,Electronics,27239,81,1,14,15
+Monitor,Electronics,34908,147,4,14,51
+Sugar,Grocery,29854,109,18,13,231
+Bag,Fashion,43999,161,12,1,10
+Keyboard,Electronics,49774,43,9,10,87
+Chair,Furniture,44801,196,6,12,73
+Shampoo,Personal Care,5863,221,3,6,19
+Shampoo,Personal Care,34291,43,19,14,264
+Soap,Personal Care,45723,269,21,12,252
+Pen,Stationery,43999,125,4,4,21
+Mouse,Electronics,34105,135,25,15,372
+Keyboard,Electronics,38875,218,24,8,187
+Bottle,Accessories,33808,217,24,4,94
+Monitor,Electronics,1641,30,24,3,69
+Headphones,Electronics,35182,95,14,9,125
+Notebook,Stationery,29827,197,23,1,24
+Rice,Grocery,9780,194,18,4,69
+Rice,Grocery,2329,250,24,2,48
+Soap,Personal Care,43666,157,7,9,65
+Shampoo,Personal Care,30619,122,27,12,323
+Monitor,Electronics,40428,273,15,15,223
+Soap,Personal Care,39448,126,11,15,164
+Sugar,Grocery,49827,51,19,8,155
+Shampoo,Personal Care,21438,135,4,13,56
+Laptop,Electronics,24699,143,22,6,134
+Oil,Grocery,37797,147,21,14,298
+Monitor,Electronics,41714,159,6,8,48
+Shampoo,Personal Care,18337,273,1,14,19
+Pen,Stationery,8867,50,5,2,6
+Keyboard,Electronics,37237,64,25,14,350
+Oil,Grocery,24352,254,10,8,84
+Laptop,Electronics,31567,299,18,4,67
+Notebook,Stationery,14673,278,16,1,18
+Shampoo,Personal Care,5170,202,18,8,148
+Phone,Electronics,46269,111,19,1,16
+Mouse,Electronics,14998,47,18,6,103
+Mouse,Electronics,47506,258,4,12,45
+Bottle,Accessories,23629,148,4,15,58
+Mouse,Electronics,11362,257,11,10,113
+Shampoo,Personal Care,3040,49,3,7,25
+Bottle,Accessories,19410,79,16,13,208
+Headphones,Electronics,721,275,10,5,47
+Pen,Stationery,40005,255,16,14,219
+Monitor,Electronics,27630,162,10,15,145
+Bottle,Accessories,48470,233,21,8,171
+Keyboard,Electronics,35315,188,29,15,437
+Rice,Grocery,32233,234,30,13,394
+Mouse,Electronics,27694,14,30,8,245
+Phone,Electronics,33613,133,3,1,0
+Bag,Fashion,23370,149,11,15,167
+Bag,Fashion,16448,99,3,9,27
+Notebook,Stationery,10832,33,19,3,62
+Monitor,Electronics,44926,212,26,6,151
+Milk,Grocery,45181,154,10,10,96
+Mouse,Electronics,1337,78,2,7,14
+Oil,Grocery,36486,48,1,11,14
+Chair,Furniture,8278,82,26,3,83
+Pen,Stationery,47359,169,4,13,48
+Mouse,Electronics,28282,15,15,6,93
+Soap,Personal Care,42562,80,28,15,418
+Sugar,Grocery,22123,28,5,9,49
+Oil,Grocery,27578,12,17,4,68
+Milk,Grocery,35573,33,29,13,381
+Table,Furniture,37890,26,7,14,95
+Oil,Grocery,47763,73,5,1,10
+Chair,Furniture,6939,50,25,1,26
+Sugar,Grocery,27339,130,26,13,342
+Rice,Grocery,48387,276,4,12,49
+Shoes,Fashion,40670,66,30,12,358
+Shoes,Fashion,38082,259,7,15,108
+Headphones,Electronics,41576,135,9,9,77
+Laptop,Electronics,47301,300,18,4,72
+Phone,Electronics,14786,133,24,6,147
+Soap,Personal Care,29333,234,25,12,300
+Shampoo,Personal Care,31714,273,30,1,27
+Oil,Grocery,31258,233,29,5,140
+Chair,Furniture,44623,12,28,5,144
+Headphones,Electronics,45908,258,25,12,301
+Milk,Grocery,5778,104,29,6,179
+Oil,Grocery,32894,90,28,6,173
+Printer,Electronics,28064,173,7,14,96
+Keyboard,Electronics,31730,174,12,12,147
+Bottle,Accessories,30021,40,30,3,95
+Milk,Grocery,2391,6,17,9,149
+Rice,Grocery,44223,291,20,10,203
+Monitor,Electronics,26501,214,29,11,322
+Mouse,Electronics,39248,32,29,8,232
+Monitor,Electronics,16710,174,4,5,25
+Headphones,Electronics,33790,75,24,10,243
+Laptop,Electronics,11870,91,12,8,97
+Rice,Grocery,34784,75,6,14,79
+Chair,Furniture,17931,105,30,11,327
+Phone,Electronics,27538,192,7,7,44
+Table,Furniture,22255,130,14,8,116
+Soap,Personal Care,49197,92,1,12,9
+Chair,Furniture,13645,298,4,8,36
+Pen,Stationery,38136,41,10,15,145
+Table,Furniture,27739,202,29,5,149
+Laptop,Electronics,10189,100,21,12,257
+Headphones,Electronics,49467,215,24,14,332
+Phone,Electronics,40555,175,23,6,138
+Monitor,Electronics,34458,219,11,14,159
+Shampoo,Personal Care,14609,121,11,9,95
+Keyboard,Electronics,18537,55,23,15,348
+Phone,Electronics,1121,66,8,4,28
+Shoes,Fashion,24130,60,2,7,11
+Mouse,Electronics,23313,171,24,4,95
+Soap,Personal Care,5057,2,19,3,57
+Monitor,Electronics,34962,33,2,3,10
+Keyboard,Electronics,16517,11,2,3,10
+Notebook,Stationery,23606,218,8,3,19
+Shampoo,Personal Care,16483,223,7,2,16
+Phone,Electronics,3084,40,17,15,259
+Bottle,Accessories,39691,105,10,10,96
+Shampoo,Personal Care,5710,171,10,6,57
+Headphones,Electronics,18449,132,29,12,344
+Notebook,Stationery,49719,54,21,4,83
+Rice,Grocery,2758,198,11,8,84
+Soap,Personal Care,26612,76,3,11,30
+Laptop,Electronics,23788,222,15,13,198
+Monitor,Electronics,26574,29,23,15,341
+Chair,Furniture,16986,158,27,7,189
+Shoes,Fashion,3856,288,21,7,152
+Chair,Furniture,14702,233,26,12,316
+Notebook,Stationery,10415,208,20,5,103
+Shoes,Fashion,18930,129,23,8,182
+Bag,Fashion,46031,135,25,1,20
+Sugar,Grocery,8921,150,14,11,158
+Rice,Grocery,18473,49,4,10,35
+Bottle,Accessories,763,91,4,8,33
+Soap,Personal Care,42485,73,30,1,27
+Headphones,Electronics,24515,88,3,14,47
+Laptop,Electronics,20617,121,3,5,17
+Rice,Grocery,23946,199,8,6,47
+Laptop,Electronics,40474,95,10,13,126
+Oil,Grocery,4089,170,11,13,145
+Monitor,Electronics,27901,282,5,12,55
+Shampoo,Personal Care,19936,69,24,6,142
+Table,Furniture,45183,37,7,6,38
+Monitor,Electronics,10938,18,11,1,13
+Bottle,Accessories,22436,59,2,6,8
+Shampoo,Personal Care,14917,227,18,15,265
+Sugar,Grocery,28298,244,17,4,65
+Monitor,Electronics,27803,1,25,13,322
+Monitor,Electronics,43223,297,26,12,309
+Pen,Stationery,32677,96,19,4,81
+Soap,Personal Care,29182,112,18,7,131
+Notebook,Stationery,8524,127,14,3,46
+Pen,Stationery,12409,78,5,9,42
+Bag,Fashion,38731,62,20,9,177
+Headphones,Electronics,30301,97,8,3,25
+Bag,Fashion,2263,220,26,8,212
+Oil,Grocery,36129,65,30,9,266
+Laptop,Electronics,34488,122,17,3,49
+Keyboard,Electronics,22720,112,4,13,48
+Rice,Grocery,24383,144,5,13,66
+Pen,Stationery,23984,243,4,14,60
+Printer,Electronics,48656,244,30,8,238
+Phone,Electronics,41073,5,16,11,175
+Monitor,Electronics,45517,18,3,14,43
+Keyboard,Electronics,2009,159,7,2,12
+Keyboard,Electronics,41559,36,23,12,273
+Phone,Electronics,41082,140,10,1,10
+Table,Furniture,6016,218,19,4,78
+Sugar,Grocery,41326,27,1,2,0
+Printer,Electronics,38451,276,10,11,107
+Milk,Grocery,22497,107,11,1,7
+Shoes,Fashion,8646,35,21,15,310
+Monitor,Electronics,6395,20,6,7,46
+Bag,Fashion,7064,130,27,1,31
+Oil,Grocery,42795,288,3,13,41
+Bag,Fashion,20093,60,27,6,164
+Mouse,Electronics,37375,194,8,12,93
+Bag,Fashion,7861,69,12,14,172
+Sugar,Grocery,31259,163,12,14,167
+Chair,Furniture,623,212,9,10,86
+Bag,Fashion,46225,201,7,13,94
+Oil,Grocery,47235,75,27,14,375
+Headphones,Electronics,37741,87,21,6,127
+Bottle,Accessories,40059,18,28,7,194
+Printer,Electronics,47817,192,18,14,252
+Table,Furniture,38955,245,8,1,6
+Shoes,Fashion,19394,143,1,10,5
+Mouse,Electronics,33949,215,20,6,116
+Printer,Electronics,3419,267,3,11,37
+Soap,Personal Care,42037,193,17,10,172
+Bottle,Accessories,44812,193,21,14,298
+Notebook,Stationery,4890,163,17,7,118
+Keyboard,Electronics,48779,33,5,10,52
+Table,Furniture,41211,107,17,7,123
+Milk,Grocery,24617,145,21,3,66
+Headphones,Electronics,7899,219,28,5,143
+Laptop,Electronics,7320,260,18,8,139
+Table,Furniture,22487,269,15,11,165
+Laptop,Electronics,40003,4,14,3,45
+Rice,Grocery,8133,83,24,13,309
+Shampoo,Personal Care,17600,121,23,11,249
+Milk,Grocery,49371,221,6,12,76
+Printer,Electronics,22254,261,8,9,68
+Laptop,Electronics,43388,5,16,12,188
+Printer,Electronics,1507,199,11,9,100
+Printer,Electronics,33328,112,21,11,226
+Rice,Grocery,33535,94,4,6,22
+Chair,Furniture,6024,184,14,12,166
+Sugar,Grocery,49469,249,2,12,22
+Bottle,Accessories,35390,155,27,4,109
+Chair,Furniture,48844,59,7,11,77
+Oil,Grocery,44921,268,6,8,43
+Pen,Stationery,11290,115,16,11,178
+Chair,Furniture,37800,22,13,10,126
+Oil,Grocery,10442,108,15,8,120
+Bag,Fashion,9045,221,14,7,96
+Headphones,Electronics,46608,129,16,15,241
+Phone,Electronics,49623,93,9,15,140
+Table,Furniture,19003,113,13,14,180
+Bottle,Accessories,37547,121,20,7,141
+Printer,Electronics,16566,102,27,2,57
+Phone,Electronics,40751,12,27,5,136
+Bag,Fashion,13288,113,14,10,135
+Mouse,Electronics,35534,102,10,9,87
+Headphones,Electronics,17299,131,5,6,35
+Rice,Grocery,25048,252,6,10,56
+Notebook,Stationery,8849,81,29,3,85
+Bottle,Accessories,33309,94,22,13,281
+Shampoo,Personal Care,3081,22,15,5,75
+Sugar,Grocery,38962,23,12,12,144
+Headphones,Electronics,14315,128,1,13,15
+Headphones,Electronics,20112,97,24,11,261
+Printer,Electronics,10093,19,5,2,13
+Shoes,Fashion,17776,100,17,2,37
+Printer,Electronics,5664,230,12,7,80
+Keyboard,Electronics,1963,189,29,4,121
+Shampoo,Personal Care,27265,142,7,14,98
+Sugar,Grocery,7260,298,12,3,39
+Milk,Grocery,6632,48,30,4,125
+Sugar,Grocery,35195,278,10,5,53
+Mouse,Electronics,37504,289,7,6,43
+Milk,Grocery,41355,217,7,5,37
+Milk,Grocery,23892,140,13,4,54
+Soap,Personal Care,12067,182,22,13,290
+Mouse,Electronics,33857,153,7,12,87
+Table,Furniture,10058,299,12,11,132
+Table,Furniture,36334,175,24,5,117
+Shampoo,Personal Care,32767,148,24,3,67
+Oil,Grocery,597,82,20,7,139
+Bag,Fashion,6840,51,23,4,91
+Bag,Fashion,17207,24,7,3,25
+Shampoo,Personal Care,1837,91,27,10,266
+Bag,Fashion,43886,108,15,8,120
+Laptop,Electronics,23660,206,19,10,191
+Phone,Electronics,14130,241,3,11,28
+Shoes,Fashion,3508,36,17,13,225
+Soap,Personal Care,6114,233,5,1,0
+Milk,Grocery,46868,193,7,11,80
+Monitor,Electronics,16252,55,26,3,73
+Shampoo,Personal Care,39437,66,5,12,63
+Chair,Furniture,36437,293,2,5,11
+Pen,Stationery,40207,297,3,1,5
+Printer,Electronics,13922,0,14,4,56
+Rice,Grocery,34301,59,8,7,51
+Printer,Electronics,41623,17,15,2,30
+Chair,Furniture,45411,133,11,8,93
+Rice,Grocery,3188,102,5,6,34
+Shoes,Fashion,40012,240,22,4,90
+Laptop,Electronics,41507,203,9,4,38
+Pen,Stationery,11192,218,15,15,228
+Soap,Personal Care,12624,34,18,1,16
+Table,Furniture,42320,45,16,15,235
+Printer,Electronics,27786,26,9,1,8
+Table,Furniture,29824,245,6,6,38
+Laptop,Electronics,43161,39,13,12,153
+Notebook,Stationery,29826,134,12,10,124
+Laptop,Electronics,3141,43,3,11,36
+Notebook,Stationery,13224,218,9,8,73
+Shampoo,Personal Care,44080,18,24,15,365
+Laptop,Electronics,21887,180,2,11,17
+Bag,Fashion,991,88,26,2,57
+Sugar,Grocery,8203,79,24,10,236
+Monitor,Electronics,24995,167,9,8,69
+Bag,Fashion,40321,113,15,10,151
+Mouse,Electronics,46815,133,5,13,62
+Oil,Grocery,47212,203,28,1,31
+Laptop,Electronics,20043,75,29,1,34
+Phone,Electronics,34665,46,4,7,23
+Table,Furniture,117,52,29,2,62
+Mouse,Electronics,17675,152,2,11,24
+Mouse,Electronics,49198,78,22,15,329
+Chair,Furniture,10337,190,21,11,232
+Shoes,Fashion,24805,199,5,4,21
+Oil,Grocery,17759,66,25,11,277
+Monitor,Electronics,4680,115,7,4,29
+Mouse,Electronics,27881,176,3,6,19
+Chair,Furniture,24821,202,7,12,80
+Keyboard,Electronics,21964,209,5,10,46
+Bottle,Accessories,21543,186,1,12,14
+Laptop,Electronics,28153,200,19,10,187
+Mouse,Electronics,27361,60,19,2,34
+Laptop,Electronics,24781,110,3,5,10
+Table,Furniture,16086,27,27,6,161
+Bottle,Accessories,36745,224,19,8,153
+Bag,Fashion,27350,77,15,13,193
+Phone,Electronics,39550,269,25,7,180
+Rice,Grocery,26781,261,28,6,171
+Table,Furniture,33950,199,13,11,146
+Pen,Stationery,41554,200,26,9,239
+Laptop,Electronics,11063,63,6,13,77
+Rice,Grocery,31745,127,5,13,70
+Milk,Grocery,34007,153,8,2,21
+Chair,Furniture,38192,242,16,9,141
+Phone,Electronics,37621,25,26,15,388
+Bottle,Accessories,3456,85,11,7,82
+Pen,Stationery,41370,119,17,2,37
+Pen,Stationery,7134,243,30,14,415
+Monitor,Electronics,1587,51,7,8,57
+Shampoo,Personal Care,34599,140,8,8,65
+Bottle,Accessories,38131,48,25,3,74
+Phone,Electronics,46193,155,17,3,55
+Soap,Personal Care,39852,144,11,15,170
+Monitor,Electronics,38337,245,28,3,80
+Notebook,Stationery,44770,65,22,8,172
+Soap,Personal Care,49367,192,30,12,365
+Shampoo,Personal Care,17872,266,24,2,50
+Shoes,Fashion,18713,106,10,14,140
+Table,Furniture,14929,52,4,15,55
+Printer,Electronics,4748,174,30,15,455
+Keyboard,Electronics,34923,266,23,11,251
+Pen,Stationery,8517,140,16,10,158
+Sugar,Grocery,32045,291,25,10,252
+Soap,Personal Care,20777,2,13,1,13
+Phone,Electronics,26637,155,15,5,73
+Chair,Furniture,49449,224,2,3,11
+Headphones,Electronics,28305,291,1,10,8
+Laptop,Electronics,15813,170,21,4,79
+Sugar,Grocery,39112,44,12,6,69
+Bottle,Accessories,2790,48,1,8,8
+Keyboard,Electronics,3083,48,28,4,117
+Keyboard,Electronics,2832,27,27,8,211
+Printer,Electronics,45289,163,16,14,224
+Printer,Electronics,17986,47,28,2,54
+Sugar,Grocery,39534,220,23,9,209
+Bag,Fashion,23467,79,11,12,135
+Laptop,Electronics,38432,174,2,5,6
+Notebook,Stationery,17046,127,26,8,212
+Shampoo,Personal Care,23834,17,22,7,152
+Soap,Personal Care,6061,8,25,3,79
+Rice,Grocery,27989,137,15,7,106
+Shoes,Fashion,3248,49,26,7,178
+Soap,Personal Care,29741,129,30,1,35
+Bag,Fashion,41062,217,10,13,132
+Chair,Furniture,49869,210,19,8,155
+Mouse,Electronics,49306,193,15,13,195
+Table,Furniture,39430,14,25,9,226
+Milk,Grocery,48538,221,29,15,432
+Headphones,Electronics,16443,243,18,5,89
+Pen,Stationery,32896,244,17,4,73
+Shoes,Fashion,24685,81,7,11,72
+Notebook,Stationery,11752,285,12,4,53
+Oil,Grocery,30625,76,3,3,14
+Phone,Electronics,31215,298,9,5,49
+Keyboard,Electronics,17604,51,8,5,35
+Soap,Personal Care,2429,259,3,12,31
+Pen,Stationery,2138,180,25,3,76
+Notebook,Stationery,36803,67,12,10,119
+Mouse,Electronics,34316,53,24,8,191
+Shampoo,Personal Care,20679,101,24,8,194
+Phone,Electronics,7699,197,5,7,30
+Sugar,Grocery,47117,291,30,4,116
+Soap,Personal Care,29322,56,16,7,109
+Rice,Grocery,38383,59,2,1,5
+Rice,Grocery,22862,235,22,2,43
+Sugar,Grocery,513,7,23,11,258
+Mouse,Electronics,22147,229,22,7,154
+Keyboard,Electronics,23168,174,20,14,281
+Keyboard,Electronics,48764,47,26,10,255
+Pen,Stationery,12853,284,9,7,59
+Bottle,Accessories,35910,203,8,3,25
+Table,Furniture,47988,106,25,13,329
+Pen,Stationery,43365,167,22,5,112
+Notebook,Stationery,17822,148,30,1,26
+Rice,Grocery,43033,137,3,12,31
+Printer,Electronics,20700,168,18,4,71
+Headphones,Electronics,25558,290,9,9,82
+Keyboard,Electronics,26542,231,17,14,235
+Mouse,Electronics,7795,214,11,12,128
+Mouse,Electronics,46206,19,27,10,274
+Monitor,Electronics,45113,57,30,3,85
+Rice,Grocery,13585,137,25,15,380
+Oil,Grocery,15737,55,15,14,208
+Rice,Grocery,11085,146,11,1,13
+Table,Furniture,24492,104,11,6,65
+Bag,Fashion,36125,245,20,2,45
+Rice,Grocery,41209,100,4,8,36
+Headphones,Electronics,18005,37,22,3,68
+Laptop,Electronics,4663,103,22,9,196
+Mouse,Electronics,13795,216,11,5,52
+Chair,Furniture,20338,216,13,1,10
+Bottle,Accessories,12011,162,9,9,76
+Rice,Grocery,42456,241,4,14,57
+Soap,Personal Care,3562,130,9,7,67
+Milk,Grocery,11651,61,30,5,154
+Shampoo,Personal Care,6725,218,29,11,314
+Keyboard,Electronics,34544,38,21,11,231
+Chair,Furniture,42227,40,5,14,68
+Headphones,Electronics,19186,265,26,7,184
+Chair,Furniture,15128,272,21,9,191
+Chair,Furniture,39243,47,30,3,94
+Shoes,Fashion,3498,280,5,14,68
+Headphones,Electronics,16142,287,18,5,94
+Sugar,Grocery,4186,160,7,10,73
+Pen,Stationery,40,98,1,2,5
+Table,Furniture,5040,221,3,4,13
+Bag,Fashion,6651,128,3,2,9
+Phone,Electronics,36105,195,13,12,161
+Bottle,Accessories,41311,282,21,13,271
+Keyboard,Electronics,19597,127,9,2,17
+Sugar,Grocery,43067,158,8,2,14
+Printer,Electronics,11310,276,29,15,430
+Chair,Furniture,16897,291,17,10,170
+Laptop,Electronics,4763,19,28,3,81
+Milk,Grocery,16530,125,25,11,273
+Shampoo,Personal Care,22094,39,13,9,121
+Mouse,Electronics,42555,52,28,5,145
+Soap,Personal Care,22409,98,7,9,58
+Phone,Electronics,5655,149,12,4,45
+Phone,Electronics,15472,205,14,3,47
+Milk,Grocery,28838,115,25,15,380
+Keyboard,Electronics,6279,145,25,6,155
+Printer,Electronics,36196,23,1,15,13
+Milk,Grocery,40292,69,30,1,31
+Pen,Stationery,24960,256,28,1,29
+Chair,Furniture,44885,109,12,3,32
+Milk,Grocery,32847,109,18,10,180
+Chair,Furniture,9274,110,29,3,86
+Printer,Electronics,2726,238,24,3,75
+Sugar,Grocery,4954,103,7,9,64
+Shampoo,Personal Care,13743,95,15,4,56
+Keyboard,Electronics,18332,66,6,4,29
+Sugar,Grocery,4582,47,10,9,90
+Sugar,Grocery,35007,25,3,7,16
+Notebook,Stationery,49219,258,7,13,93
+Headphones,Electronics,6770,178,15,4,57
+Oil,Grocery,36839,293,22,6,128
+Monitor,Electronics,1040,164,6,1,7
+Printer,Electronics,14358,111,20,14,279
+Printer,Electronics,33972,216,7,15,105
+Rice,Grocery,3737,169,29,1,25
+Sugar,Grocery,31098,278,21,13,275
+Printer,Electronics,43378,194,8,5,41
+Mouse,Electronics,1256,58,18,5,92
+Shampoo,Personal Care,49764,84,23,14,324
+Pen,Stationery,41435,296,15,13,197
+Headphones,Electronics,21662,280,30,4,116
+Bag,Fashion,2523,15,12,2,20
+Sugar,Grocery,23756,121,29,6,178
+Bag,Fashion,46813,238,4,8,35
+Bag,Fashion,1922,281,8,4,30
+Phone,Electronics,13742,252,20,12,237
+Bottle,Accessories,47111,13,26,15,390
+Keyboard,Electronics,13873,144,24,14,340
+Notebook,Stationery,38341,202,28,1,32
+Bottle,Accessories,14849,201,29,5,145
+Laptop,Electronics,35959,98,6,12,76
+Rice,Grocery,47505,42,3,7,17
+Printer,Electronics,47484,69,28,12,340
+Phone,Electronics,23488,273,21,13,270
+Printer,Electronics,20850,233,4,7,32
+Mouse,Electronics,11865,4,9,10,91
+Printer,Electronics,7289,71,26,1,31
+Soap,Personal Care,23211,41,18,14,248
+Bag,Fashion,36364,150,21,1,25
+Rice,Grocery,40855,23,18,5,92
+Headphones,Electronics,25182,46,26,8,208
+Bottle,Accessories,42377,19,13,5,67
+Soap,Personal Care,16889,243,29,3,92
+Chair,Furniture,40546,185,14,5,71
+Keyboard,Electronics,51,99,2,5,15
+Laptop,Electronics,22627,86,23,10,227
+Chair,Furniture,2749,12,13,12,157
+Bottle,Accessories,23980,88,11,1,15
+Pen,Stationery,7450,176,2,6,13
+Notebook,Stationery,43618,57,20,1,17
+Notebook,Stationery,16859,102,7,13,87
+Shoes,Fashion,23774,238,19,15,284
+Phone,Electronics,4345,279,18,12,219
+Chair,Furniture,28475,163,22,11,244
+Shampoo,Personal Care,43420,275,9,15,133
+Oil,Grocery,8622,248,6,9,59
+Monitor,Electronics,47222,227,28,2,55
+Printer,Electronics,564,41,16,4,67
+Shoes,Fashion,4054,299,3,8,28
+Shampoo,Personal Care,5945,60,5,2,13
+Table,Furniture,44126,88,10,12,118
+Shampoo,Personal Care,11644,109,3,7,20
+Keyboard,Electronics,10776,152,17,5,81
+Sugar,Grocery,36840,41,3,7,20
+Headphones,Electronics,5572,14,12,11,133
+Sugar,Grocery,11848,121,20,9,181
+Sugar,Grocery,27250,188,27,14,381
+Milk,Grocery,35717,197,18,10,176
+Phone,Electronics,21923,32,15,2,30
+Notebook,Stationery,47243,205,23,12,272
+Rice,Grocery,36087,23,22,15,325
+Soap,Personal Care,41750,197,11,3,32
+Phone,Electronics,24323,61,9,8,67
+Pen,Stationery,6099,36,2,11,18
+Oil,Grocery,35403,285,25,11,280
+Chair,Furniture,1019,280,20,1,22
+Monitor,Electronics,47314,298,9,1,11
+Headphones,Electronics,32038,140,28,1,26
+Printer,Electronics,33539,218,22,5,107
+Notebook,Stationery,49757,47,29,10,285
+Oil,Grocery,497,157,18,1,16
+Chair,Furniture,975,20,25,14,352
+Printer,Electronics,34701,287,25,4,102
+Printer,Electronics,15074,68,6,11,65
+Chair,Furniture,43666,215,6,4,21
+Phone,Electronics,46103,17,22,1,22
+Soap,Personal Care,29123,97,11,3,38
+Chair,Furniture,41076,274,14,7,103
+Table,Furniture,23033,5,4,4,13
+Notebook,Stationery,26452,26,23,9,206
+Shoes,Fashion,32304,41,23,15,343
+Milk,Grocery,3042,68,17,9,156
+Soap,Personal Care,6738,144,4,6,27
+Table,Furniture,17639,145,17,9,155
+Printer,Electronics,23997,110,14,8,113
+Bottle,Accessories,23042,48,12,5,55
+Sugar,Grocery,25943,79,1,14,16
+Shoes,Fashion,37001,147,30,11,332
+Monitor,Electronics,30764,20,13,12,156
+Headphones,Electronics,39902,168,15,13,199
+Phone,Electronics,29130,196,11,14,157
+Milk,Grocery,156,178,10,8,82
+Oil,Grocery,41542,126,26,1,31
+Keyboard,Electronics,11419,121,12,9,105
+Milk,Grocery,39992,173,25,9,227
+Keyboard,Electronics,3816,289,16,3,47
+Shoes,Fashion,31466,50,10,14,137
+Shoes,Fashion,14605,145,3,14,37
+Laptop,Electronics,36329,89,10,14,141
+Oil,Grocery,20538,230,9,6,58
+Keyboard,Electronics,42873,137,17,1,16
+Oil,Grocery,29905,254,17,15,251
+Laptop,Electronics,11150,226,5,7,31
+Table,Furniture,1761,133,23,10,233
+Shoes,Fashion,30052,290,1,8,7
+Chair,Furniture,31794,5,12,13,155
+Monitor,Electronics,22515,136,14,13,182
+Keyboard,Electronics,28767,127,21,11,226
+Pen,Stationery,11868,238,23,6,139
+Shampoo,Personal Care,38843,209,8,3,25
+Shoes,Fashion,16789,266,26,2,47
+Shampoo,Personal Care,14596,173,26,8,209
+Chair,Furniture,23663,229,11,11,122
+Printer,Electronics,48457,98,10,12,119
+Table,Furniture,9273,261,23,9,206
+Mouse,Electronics,18677,254,4,12,49
+Shoes,Fashion,7251,245,30,12,363
+Headphones,Electronics,1198,94,24,5,117
+Phone,Electronics,36881,86,1,15,13
+Phone,Electronics,19491,287,17,11,190
+Phone,Electronics,38941,105,25,14,352
+Oil,Grocery,30632,273,27,9,239
+Sugar,Grocery,10429,14,12,12,146
+Pen,Stationery,45172,166,8,1,7
+Mouse,Electronics,43025,64,4,13,48
+Table,Furniture,8663,142,6,10,59
+Pen,Stationery,27494,5,22,13,281
+Laptop,Electronics,8450,4,15,6,88
+Shampoo,Personal Care,4898,52,15,12,183
+Sugar,Grocery,5316,170,17,8,139
+Pen,Stationery,22250,220,8,15,123
+Shampoo,Personal Care,11332,165,24,15,359
+Headphones,Electronics,34711,271,15,11,162
+Phone,Electronics,17375,28,4,4,21
+Chair,Furniture,18872,72,12,14,168
+Sugar,Grocery,38630,15,3,15,41
+Pen,Stationery,7201,190,17,5,84
+Table,Furniture,34491,228,3,13,44
+Shoes,Fashion,15287,33,23,11,254
+Headphones,Electronics,43205,135,20,8,161
+Pen,Stationery,8534,74,11,9,98
+Milk,Grocery,14022,61,6,11,65
+Sugar,Grocery,12162,123,27,8,218
+Bag,Fashion,24990,3,20,2,45
+Soap,Personal Care,5049,19,4,5,21
+Soap,Personal Care,28805,164,28,13,363
+Bottle,Accessories,23953,225,7,10,68
+Laptop,Electronics,10858,154,1,14,12
+Headphones,Electronics,22333,134,21,11,234
+Shampoo,Personal Care,2577,251,4,6,25
+Chair,Furniture,35380,135,10,8,80
+Monitor,Electronics,8007,278,17,10,165
+Sugar,Grocery,31633,159,29,1,27
+Table,Furniture,9221,127,20,10,195
+Printer,Electronics,43749,37,2,3,5
+Laptop,Electronics,17917,256,2,2,4
+Shampoo,Personal Care,32189,298,18,6,110
+Printer,Electronics,20310,79,24,14,336
+Phone,Electronics,21427,300,30,14,422
+Notebook,Stationery,21664,235,27,3,84
+Milk,Grocery,7729,290,28,8,220
+Headphones,Electronics,46753,15,27,4,104
+Monitor,Electronics,49308,251,2,12,23
+Mouse,Electronics,35181,234,4,9,32
+Printer,Electronics,32875,141,11,1,13
+Rice,Grocery,49953,161,29,8,229
+Mouse,Electronics,9550,104,25,14,355
+Sugar,Grocery,21227,162,11,4,47
+Printer,Electronics,15497,176,16,8,129
+Headphones,Electronics,45274,46,18,11,194
+Chair,Furniture,38648,183,20,13,255
+Printer,Electronics,40036,80,9,1,11
+Sugar,Grocery,33027,195,4,3,7
+Notebook,Stationery,18869,32,23,15,348
+Oil,Grocery,38388,224,5,10,48
+Oil,Grocery,18819,266,28,1,28
+Mouse,Electronics,25786,5,16,12,190
+Monitor,Electronics,28202,119,22,5,107
+Table,Furniture,38317,166,30,12,355
+Laptop,Electronics,29548,74,23,9,202
+Headphones,Electronics,22680,71,11,6,66
+Keyboard,Electronics,8236,22,13,1,8
+Monitor,Electronics,37970,182,23,4,93
+Headphones,Electronics,25145,127,19,8,157
+Mouse,Electronics,2067,220,20,14,275
+Shoes,Fashion,23083,267,11,2,24
+Bag,Fashion,40416,27,25,13,326
+Table,Furniture,32203,146,1,9,4
+Mouse,Electronics,23656,64,23,4,93
+Chair,Furniture,29398,43,16,2,34
+Phone,Electronics,1639,50,1,2,0
+Shampoo,Personal Care,42997,250,13,9,118
+Printer,Electronics,39160,138,13,12,161
+Shoes,Fashion,12727,236,4,10,38
+Mouse,Electronics,23882,183,11,10,109
+Oil,Grocery,20272,167,11,8,89
+Rice,Grocery,24205,263,30,11,330
+Table,Furniture,32294,149,22,1,20
+Bottle,Accessories,44157,250,27,3,81
+Shoes,Fashion,16410,251,7,11,81
+Monitor,Electronics,1050,1,13,14,187
+Monitor,Electronics,47088,95,4,14,61
+Bag,Fashion,19877,96,13,9,115
+Shoes,Fashion,37040,243,16,13,205
+Pen,Stationery,44471,60,26,15,392
+Sugar,Grocery,22557,139,26,1,27
+Pen,Stationery,38641,86,14,8,110
+Rice,Grocery,721,186,30,12,365
+Table,Furniture,29571,43,23,9,203
+Sugar,Grocery,32024,112,15,9,133
+Laptop,Electronics,39372,158,21,13,269
+Notebook,Stationery,40191,123,19,13,242
+Headphones,Electronics,14738,279,2,5,8
+Notebook,Stationery,49303,287,8,3,19
+Monitor,Electronics,1995,13,19,3,61
+Bottle,Accessories,6171,216,2,9,15
+Soap,Personal Care,9906,260,16,4,60
+Pen,Stationery,649,189,21,15,312
+Pen,Stationery,46263,246,12,12,140
+Printer,Electronics,28225,218,5,14,66
+Pen,Stationery,14096,58,28,8,221
+Headphones,Electronics,21420,107,5,15,74
+Bottle,Accessories,3836,150,9,14,124
+Printer,Electronics,14686,92,8,3,26
+Shampoo,Personal Care,34363,224,28,14,393
+Phone,Electronics,77,261,29,15,439
+Oil,Grocery,8016,95,26,12,311
+Rice,Grocery,10224,46,3,6,22
+Soap,Personal Care,1667,40,7,9,65
+Laptop,Electronics,22374,186,26,10,260
+Rice,Grocery,41187,226,18,1,22
+Phone,Electronics,2070,83,30,15,454
+Laptop,Electronics,47601,271,30,8,245
+Oil,Grocery,39079,130,3,11,36
+Sugar,Grocery,35777,296,23,12,279
+Printer,Electronics,22669,30,4,14,59
+Bottle,Accessories,22039,297,5,14,74
+Oil,Grocery,45659,281,2,11,20
+Monitor,Electronics,23093,248,17,8,134
+Bottle,Accessories,28096,118,22,9,195
+Pen,Stationery,9813,173,1,8,10
+Phone,Electronics,44328,136,20,5,105
+Shoes,Fashion,49505,240,16,13,212
+Shoes,Fashion,5455,86,16,13,206
+Chair,Furniture,12503,250,21,10,211
+Bag,Fashion,35010,44,23,5,116
+Table,Furniture,8596,155,20,6,125
+Pen,Stationery,37797,292,5,11,53
+Soap,Personal Care,22734,136,5,7,40
+Headphones,Electronics,13537,150,24,4,92
+Pen,Stationery,42285,197,18,12,215
+Notebook,Stationery,10622,2,29,9,259
+Shoes,Fashion,26312,234,4,5,16
+Phone,Electronics,25516,34,5,7,34
+Monitor,Electronics,14736,300,21,7,148
+Mouse,Electronics,47381,222,2,9,14
+Bag,Fashion,24628,149,2,1,0
+Mouse,Electronics,30362,62,4,5,16
+Shampoo,Personal Care,37229,213,2,14,29
+Rice,Grocery,16292,232,8,13,109
+Rice,Grocery,28077,254,1,6,7
+Soap,Personal Care,14019,168,22,11,242
+Headphones,Electronics,22850,34,12,12,143
+Table,Furniture,249,184,22,15,332
+Bag,Fashion,30597,41,10,7,72
+Soap,Personal Care,37025,222,4,6,25
+Sugar,Grocery,31711,87,7,9,61
+Milk,Grocery,44914,199,7,8,56
+Pen,Stationery,39289,265,7,2,18
+Monitor,Electronics,3063,129,12,5,61
+Shampoo,Personal Care,41645,30,3,13,43
+Shoes,Fashion,28222,160,26,10,264
+Rice,Grocery,8286,83,22,13,290
+Table,Furniture,24856,106,29,15,435
+Printer,Electronics,23298,284,11,12,135
+Laptop,Electronics,42667,12,6,15,93
+Printer,Electronics,7351,293,9,11,99
+Notebook,Stationery,30430,233,4,3,9
+Notebook,Stationery,29087,284,1,2,3
+Laptop,Electronics,6013,166,19,2,33
+Table,Furniture,25394,4,27,13,353
+Chair,Furniture,32736,279,29,5,143
+Monitor,Electronics,10710,138,6,1,2
+Mouse,Electronics,24768,143,7,5,33
+Phone,Electronics,42151,27,20,2,41
+Bottle,Accessories,7313,102,24,4,93
+Pen,Stationery,11693,79,8,5,37
+Shoes,Fashion,41244,122,7,6,42
+Sugar,Grocery,25442,185,9,2,20
+Laptop,Electronics,8507,20,25,8,202
+Headphones,Electronics,49058,170,23,13,304
+Table,Furniture,40192,174,5,9,40
+Keyboard,Electronics,24649,105,22,6,136
+Sugar,Grocery,33010,228,25,9,223
+Monitor,Electronics,44598,154,30,8,244
+Oil,Grocery,23777,62,20,9,183
+Headphones,Electronics,1991,261,16,8,133
+Keyboard,Electronics,15913,247,17,12,206
+Laptop,Electronics,44654,31,18,13,232
+Bottle,Accessories,48591,61,11,12,128
+Rice,Grocery,19378,139,22,10,222
+Soap,Personal Care,4673,16,27,7,184
+Rice,Grocery,22579,195,3,12,35
+Table,Furniture,22370,124,25,14,351
+Shampoo,Personal Care,32589,149,7,6,47
+Chair,Furniture,19275,14,17,8,134
+Keyboard,Electronics,16256,139,23,11,250
+Printer,Electronics,7184,276,4,2,7
+Rice,Grocery,39651,238,22,15,330
+Soap,Personal Care,523,198,22,5,113
+Printer,Electronics,7227,285,16,14,221
+Chair,Furniture,2910,153,28,7,199
+Mouse,Electronics,23961,236,1,7,10
+Milk,Grocery,45054,237,23,11,248
+Bag,Fashion,841,195,27,4,105
+Monitor,Electronics,41853,0,18,11,195
+Pen,Stationery,18644,42,16,11,181
+Bottle,Accessories,29565,196,1,7,2
+Chair,Furniture,5736,52,7,14,102
+Soap,Personal Care,3770,294,26,7,181
+Printer,Electronics,15378,8,9,12,111
+Notebook,Stationery,19442,167,23,12,275
+Bottle,Accessories,47027,204,9,15,130
+Table,Furniture,20642,190,8,1,6
+Chair,Furniture,10126,249,25,15,376
+Shampoo,Personal Care,2335,245,28,14,395
+Shampoo,Personal Care,5223,297,13,4,47
+Chair,Furniture,29700,291,28,9,248
+Printer,Electronics,23310,178,17,13,217
+Table,Furniture,49874,132,9,13,114
+Oil,Grocery,28416,169,7,3,20
+Rice,Grocery,30315,278,2,5,6
+Printer,Electronics,11868,146,26,10,261
+Oil,Grocery,36268,198,10,7,69
+Printer,Electronics,13114,115,9,3,32
+Mouse,Electronics,17326,207,28,1,32
+Laptop,Electronics,11080,139,12,5,55
+Bag,Fashion,12243,24,2,4,12
+Shampoo,Personal Care,32971,257,17,13,223
+Table,Furniture,22732,287,24,3,71
+Chair,Furniture,28343,82,11,15,168
+Oil,Grocery,1703,185,11,2,21
+Pen,Stationery,16277,138,23,7,163
+Chair,Furniture,37392,31,14,13,185
+Shoes,Fashion,13686,76,13,4,52
+Notebook,Stationery,22669,19,10,15,148
+Pen,Stationery,29001,249,21,7,142
+Printer,Electronics,19289,261,6,9,49
+Shampoo,Personal Care,40736,169,9,2,13
+Keyboard,Electronics,46260,86,12,11,127
+Shampoo,Personal Care,17674,151,26,9,236
+Sugar,Grocery,18312,177,12,8,97
+Mouse,Electronics,24637,229,27,2,51
+Mouse,Electronics,47144,197,16,14,222
+Rice,Grocery,11310,26,2,3,8
+Table,Furniture,16411,36,14,15,214
+Sugar,Grocery,46608,226,12,4,43
+Shoes,Fashion,28910,65,2,7,16
+Keyboard,Electronics,42599,132,4,13,47
+Headphones,Electronics,44534,116,3,9,26
+Bottle,Accessories,25547,133,29,1,25
+Headphones,Electronics,22449,197,26,10,257
+Phone,Electronics,2903,42,30,8,245
+Monitor,Electronics,14873,207,18,2,38
+Monitor,Electronics,17592,217,1,15,17
+Sugar,Grocery,22740,274,27,3,80
+Shampoo,Personal Care,8074,194,17,7,123
+Shoes,Fashion,32098,272,26,15,392
+Mouse,Electronics,44949,212,28,6,166
+Monitor,Electronics,13752,1,16,1,12
+Table,Furniture,43247,161,27,4,105
+Milk,Grocery,19770,244,26,7,187
+Pen,Stationery,43433,258,17,12,201
+Milk,Grocery,40491,138,17,8,141
+Chair,Furniture,47206,286,30,11,326
+Pen,Stationery,44481,295,15,12,182
+Monitor,Electronics,11999,44,17,13,224
+Notebook,Stationery,41743,248,21,9,189
+Pen,Stationery,49654,94,13,10,133
+Phone,Electronics,4356,46,12,14,164
+Keyboard,Electronics,15734,161,10,12,123
+Rice,Grocery,14867,205,30,7,206
+Laptop,Electronics,13813,125,23,11,249
+Table,Furniture,4952,12,17,10,166
+Shoes,Fashion,21091,260,3,11,33
+Chair,Furniture,36523,17,14,10,138
+Laptop,Electronics,3752,181,11,10,105
+Chair,Furniture,24698,295,2,13,29
+Oil,Grocery,47778,77,27,8,218
+Rice,Grocery,36185,137,8,11,87
+Headphones,Electronics,29477,110,27,10,272
+Headphones,Electronics,2659,118,3,7,21
+Chair,Furniture,34494,48,21,13,271
+Mouse,Electronics,41390,13,2,7,17
+Printer,Electronics,25421,107,28,14,392
+Mouse,Electronics,22701,189,25,10,251
+Pen,Stationery,34839,226,23,2,44
+Soap,Personal Care,26249,202,5,6,34
+Printer,Electronics,25212,97,13,5,63
+Bag,Fashion,21730,29,12,6,74
+Monitor,Electronics,43198,299,30,9,271
+Soap,Personal Care,11346,192,20,11,215
+Bag,Fashion,23004,280,22,7,152
+Shoes,Fashion,46970,175,6,9,53
+Oil,Grocery,8293,230,16,15,244
+Pen,Stationery,25567,153,20,7,139
+Headphones,Electronics,22444,55,17,4,67
+Shampoo,Personal Care,16648,59,18,5,86
+Shampoo,Personal Care,14907,116,5,4,20
+Bottle,Accessories,34926,14,6,12,77
+Milk,Grocery,37821,129,26,4,106
+Mouse,Electronics,28094,6,15,2,27
+Keyboard,Electronics,15472,247,6,2,7
+Pen,Stationery,47849,169,23,8,181
+Chair,Furniture,27949,43,10,6,58
+Phone,Electronics,20409,173,25,15,371
+Bottle,Accessories,13675,144,28,4,114
+Shoes,Fashion,28724,274,6,4,21
+Chair,Furniture,42018,162,19,15,282
+Mouse,Electronics,10666,71,25,6,153
+Soap,Personal Care,25972,205,11,3,30
+Phone,Electronics,8891,203,16,7,111
+Bag,Fashion,28605,105,22,5,112
+Monitor,Electronics,18856,241,7,10,65
+Oil,Grocery,8781,211,21,8,169
+Shoes,Fashion,2499,264,1,7,11
+Milk,Grocery,19929,216,3,14,45
+Oil,Grocery,40582,215,7,7,50
+Keyboard,Electronics,37311,6,1,12,10
+Chair,Furniture,6895,23,20,5,100
+Laptop,Electronics,11632,60,28,8,228
+Pen,Stationery,23711,227,4,3,12
+Rice,Grocery,18903,76,15,10,145
+Shoes,Fashion,42799,103,5,14,68
+Pen,Stationery,16349,241,10,7,74
+Notebook,Stationery,11692,18,26,3,73
+Monitor,Electronics,21894,215,19,12,233
+Headphones,Electronics,20448,285,20,15,296
+Printer,Electronics,45772,300,9,9,84
+Headphones,Electronics,41699,117,8,9,74
+Milk,Grocery,4750,55,25,5,124
+Shampoo,Personal Care,818,36,28,12,332
+Bottle,Accessories,3698,158,11,13,148
+Bag,Fashion,28260,201,25,14,350
+Pen,Stationery,2943,35,7,12,85
+Pen,Stationery,29592,96,20,1,23
+Headphones,Electronics,42154,16,6,8,50
+Sugar,Grocery,49505,166,2,10,19
+Shoes,Fashion,36064,50,21,12,249
+Bag,Fashion,21879,68,3,8,29
+Shoes,Fashion,37095,228,21,11,229
+Pen,Stationery,38688,190,20,11,215
+Phone,Electronics,38925,298,14,11,157
+Rice,Grocery,46144,46,13,9,118
+Bag,Fashion,2126,54,19,13,243
+Monitor,Electronics,26806,35,12,12,144
+Pen,Stationery,39518,134,9,11,96
+Monitor,Electronics,25611,294,30,5,150
+Oil,Grocery,30797,265,16,3,43
+Mouse,Electronics,34258,143,4,9,40
+Table,Furniture,49059,88,22,11,237
+Oil,Grocery,24219,220,7,14,101
+Rice,Grocery,21742,85,2,8,21
+Bottle,Accessories,23002,142,17,14,239
+Monitor,Electronics,44405,252,14,4,57
+Rice,Grocery,40523,210,26,5,130
+Rice,Grocery,2940,171,30,6,180
+Keyboard,Electronics,24974,267,11,1,15
+Notebook,Stationery,29048,86,1,4,5
+Laptop,Electronics,44344,94,23,1,23
+Monitor,Electronics,28868,213,18,12,216
+Shampoo,Personal Care,42786,149,8,4,35
+Chair,Furniture,20610,235,9,1,14
+Sugar,Grocery,1962,210,25,4,95
+Bag,Fashion,7152,4,2,5,6
+Phone,Electronics,11290,152,4,12,49
+Headphones,Electronics,19133,151,10,2,25
+Chair,Furniture,41082,128,8,13,103
+Pen,Stationery,45341,160,18,1,22
+Notebook,Stationery,6489,102,26,14,360
+Pen,Stationery,28430,190,21,4,88
+Bottle,Accessories,44832,232,7,2,19
+Mouse,Electronics,21703,282,14,3,42
+Monitor,Electronics,39753,158,9,12,104
+Bottle,Accessories,29482,186,3,12,41
+Printer,Electronics,2192,109,1,9,7
+Notebook,Stationery,2497,25,29,6,170
+Oil,Grocery,42777,105,26,1,29
+Oil,Grocery,41791,123,23,4,92
+Bottle,Accessories,1315,204,20,7,142
+Oil,Grocery,40666,119,24,2,46
+Shampoo,Personal Care,33848,7,21,10,210
+Phone,Electronics,44745,110,30,6,178
+Soap,Personal Care,26833,51,24,11,268
+Shoes,Fashion,43153,25,26,7,184
+Milk,Grocery,19901,198,26,11,284
+Soap,Personal Care,5215,61,29,3,91
+Phone,Electronics,48481,119,7,15,109
+Shoes,Fashion,23289,85,20,3,57
+Laptop,Electronics,27520,106,8,11,85
+Bottle,Accessories,21307,41,20,1,15
+Rice,Grocery,32050,6,2,5,7
+Shoes,Fashion,15462,150,27,6,161
+Rice,Grocery,12476,35,19,13,250
+Monitor,Electronics,20355,128,22,3,70
+Chair,Furniture,97,113,7,7,52
+Soap,Personal Care,3249,258,16,7,114
+Pen,Stationery,28503,63,9,8,73
+Rice,Grocery,39876,213,5,3,13
+Mouse,Electronics,32373,80,8,12,101
+Notebook,Stationery,11852,129,26,3,78
+Pen,Stationery,30809,27,20,3,65
+Notebook,Stationery,11453,120,14,13,178
+Notebook,Stationery,6109,30,25,6,149
+Laptop,Electronics,47641,222,7,2,19
+Shampoo,Personal Care,46776,108,1,8,3
+Headphones,Electronics,1009,143,18,2,40
+Shoes,Fashion,38534,95,23,15,349
+Shampoo,Personal Care,33241,137,15,6,90
+Bottle,Accessories,39794,126,4,15,57
+Pen,Stationery,23255,220,2,10,25
+Table,Furniture,26442,15,23,10,226
+Milk,Grocery,4740,21,20,2,43
+Pen,Stationery,1227,297,27,3,78
+Shoes,Fashion,10431,247,17,11,191
+Soap,Personal Care,35384,50,15,8,121
+Oil,Grocery,24722,117,1,5,9
+Sugar,Grocery,49172,113,19,11,208
+Soap,Personal Care,23218,169,7,6,39
+Chair,Furniture,40521,159,15,6,91
+Printer,Electronics,8795,276,12,2,20
+Bag,Fashion,12712,182,1,6,8
+Table,Furniture,40350,176,5,12,55
+Notebook,Stationery,33201,229,4,11,42
+Shoes,Fashion,25738,179,15,13,190
+Keyboard,Electronics,33148,100,21,4,84
+Phone,Electronics,14068,197,23,1,27
+Milk,Grocery,28072,234,25,15,377
+Table,Furniture,33423,187,12,4,51
+Shampoo,Personal Care,11761,180,3,4,13
+Headphones,Electronics,32278,229,18,12,215
+Bottle,Accessories,37467,227,17,14,233
+Headphones,Electronics,34781,298,30,6,175
+Laptop,Electronics,32625,121,6,10,59
+Keyboard,Electronics,4076,212,27,5,139
+Chair,Furniture,30483,221,28,13,367
+Headphones,Electronics,43226,257,14,14,195
+Monitor,Electronics,1024,55,14,2,27
+Shampoo,Personal Care,38731,233,20,4,76
+Mouse,Electronics,10787,16,21,4,86
+Headphones,Electronics,43339,216,28,1,23
+Phone,Electronics,31461,217,29,3,85
+Notebook,Stationery,11655,58,12,14,169
+Mouse,Electronics,34081,119,21,3,63
+Phone,Electronics,7941,30,27,2,57
+Printer,Electronics,32863,208,23,12,271
+Sugar,Grocery,22393,230,13,3,37
+Headphones,Electronics,41504,78,17,15,254
+Keyboard,Electronics,41967,6,22,9,199
+Laptop,Electronics,42057,227,13,7,96
+Mouse,Electronics,32499,153,28,8,226
+Soap,Personal Care,3479,28,27,7,190
+Headphones,Electronics,18379,257,14,8,114
+Notebook,Stationery,49509,274,20,13,255
+Phone,Electronics,42347,265,28,2,59
+Milk,Grocery,135,241,25,5,129
+Headphones,Electronics,1433,72,7,8,61
+Milk,Grocery,42384,178,26,9,234
+Sugar,Grocery,40430,47,23,12,274
+Laptop,Electronics,34567,83,20,3,61
+Table,Furniture,31114,16,24,3,73
+Milk,Grocery,12887,173,24,7,172
+Rice,Grocery,389,60,23,3,64
+Shampoo,Personal Care,30133,22,17,7,115
+Printer,Electronics,17269,92,20,11,216
+Shoes,Fashion,10252,265,1,4,1
+Rice,Grocery,12423,203,22,1,20
+Monitor,Electronics,27934,141,5,11,60
+Shoes,Fashion,7199,59,12,15,181
+Oil,Grocery,30010,142,15,14,207
+Keyboard,Electronics,41109,247,14,4,61
+Bottle,Accessories,41638,132,27,11,293
+Keyboard,Electronics,48914,108,15,4,59
+Pen,Stationery,11690,189,15,8,116
+Sugar,Grocery,39674,77,16,9,141
+Phone,Electronics,3025,244,18,5,89
+Oil,Grocery,24760,288,30,11,327
+Bag,Fashion,6293,143,17,14,236
+Oil,Grocery,35252,134,7,4,33
+Printer,Electronics,4565,136,29,1,30
+Phone,Electronics,22848,76,7,7,53
+Soap,Personal Care,34061,118,22,2,46
+Bottle,Accessories,30346,16,18,3,51
+Shampoo,Personal Care,33023,2,18,10,181
+Printer,Electronics,21554,88,13,15,200
+Rice,Grocery,34082,81,1,12,7
+Notebook,Stationery,48468,209,27,13,355
+Bottle,Accessories,43563,293,13,13,170
+Printer,Electronics,12120,60,6,4,20
+Oil,Grocery,11006,85,5,1,0
+Mouse,Electronics,28412,146,15,7,101
+Bag,Fashion,1383,241,19,1,17
+Keyboard,Electronics,8546,32,4,2,8
+Laptop,Electronics,2506,165,20,13,265
+Shampoo,Personal Care,44094,150,1,5,10
+Chair,Furniture,4086,228,18,15,265
+Notebook,Stationery,25737,181,11,15,169
+Chair,Furniture,18654,275,19,5,99
+Oil,Grocery,22690,213,24,3,73
+Oil,Grocery,8729,296,6,11,63
+Chair,Furniture,34957,241,1,9,13
+Rice,Grocery,22691,268,12,14,163
+Sugar,Grocery,3011,241,4,5,18
+Notebook,Stationery,28821,37,15,10,146
+Pen,Stationery,43931,24,23,12,279
+Shampoo,Personal Care,5110,223,7,9,66
+Mouse,Electronics,20852,256,20,5,101
+Monitor,Electronics,21475,156,3,7,26
+Sugar,Grocery,28349,72,4,9,34
+Laptop,Electronics,30379,30,27,13,348
+Shampoo,Personal Care,16413,236,9,12,104
+Soap,Personal Care,21090,79,12,11,136
+Sugar,Grocery,47688,62,3,10,30
+Chair,Furniture,6666,166,16,6,94
+Shampoo,Personal Care,19839,273,4,5,16
+Table,Furniture,5949,62,16,2,32
+Printer,Electronics,35904,157,18,11,198
+Phone,Electronics,48102,151,10,10,100
+Notebook,Stationery,36001,261,6,9,49
+Phone,Electronics,13552,169,8,9,73
+Laptop,Electronics,33959,271,16,15,244
+Table,Furniture,26526,55,18,5,91
+Laptop,Electronics,48332,260,18,7,130
+Headphones,Electronics,12162,268,9,10,90
+Bag,Fashion,39412,193,6,14,82
+Notebook,Stationery,9617,264,7,3,26
+Bag,Fashion,31976,101,16,1,20
+Bag,Fashion,22198,52,22,6,128
+Shoes,Fashion,34232,79,23,8,185
+Soap,Personal Care,13027,182,13,14,187
+Shampoo,Personal Care,32821,290,14,10,135
+Shoes,Fashion,32549,297,25,6,152
+Oil,Grocery,42145,88,11,6,61
+Rice,Grocery,6171,122,15,10,146
+Oil,Grocery,31087,221,24,1,29
+Headphones,Electronics,43738,284,6,5,26
+Chair,Furniture,13013,193,2,6,7
+Shoes,Fashion,12013,206,7,5,33
+Sugar,Grocery,5160,264,8,15,120
+Laptop,Electronics,39969,160,12,7,87
+Soap,Personal Care,26073,119,12,8,92
+Keyboard,Electronics,38318,67,16,1,21
+Table,Furniture,30657,286,16,4,66
+Sugar,Grocery,40735,48,26,6,151
+Soap,Personal Care,18517,115,12,3,41
+Sugar,Grocery,6676,45,18,12,219
+Shampoo,Personal Care,22292,229,28,14,391
+Monitor,Electronics,26534,107,12,1,12
+Table,Furniture,31600,145,9,12,103
+Sugar,Grocery,41222,188,13,8,99
+Monitor,Electronics,32320,217,7,9,65
+Phone,Electronics,46143,188,25,10,255
+Printer,Electronics,48882,246,10,8,77
+Monitor,Electronics,9911,275,13,6,77
+Soap,Personal Care,28305,34,25,3,77
+Shampoo,Personal Care,13311,37,21,1,25
+Notebook,Stationery,28902,95,27,4,104
+Printer,Electronics,10833,42,17,4,67
+Chair,Furniture,297,227,12,10,120
+Pen,Stationery,37057,203,27,8,220
+Table,Furniture,3000,22,8,10,78
+Milk,Grocery,34761,19,13,14,182
+Rice,Grocery,12363,237,10,2,23
+Printer,Electronics,23196,5,23,4,91
+Shampoo,Personal Care,35296,160,7,3,25
+Sugar,Grocery,4926,70,8,4,32
+Headphones,Electronics,20831,113,29,8,235
+Keyboard,Electronics,49837,129,3,3,9
+Milk,Grocery,29431,170,18,14,252
+Bag,Fashion,8696,260,29,9,266
+Bottle,Accessories,9610,166,3,7,16
+Monitor,Electronics,26316,145,25,15,375
+Pen,Stationery,21906,179,8,5,40
+Rice,Grocery,20568,137,1,11,7
+Pen,Stationery,24440,71,27,11,294
+Sugar,Grocery,45225,167,4,14,59
+Pen,Stationery,18916,85,25,6,149
+Milk,Grocery,41593,188,20,15,296
+Monitor,Electronics,49481,56,22,14,305
+Shoes,Fashion,41119,109,29,7,203
+Oil,Grocery,10189,192,11,14,156
+Shampoo,Personal Care,14329,186,27,7,191
+Chair,Furniture,33099,19,22,7,156
+Milk,Grocery,42649,268,22,9,203
+Headphones,Electronics,25347,289,4,2,6
+Sugar,Grocery,6662,193,3,14,40
+Sugar,Grocery,12550,151,2,12,29
+Rice,Grocery,6533,225,23,7,161
+Keyboard,Electronics,44184,66,18,13,237
+Shoes,Fashion,47957,208,5,6,31
+Pen,Stationery,24967,64,7,10,71
+Printer,Electronics,29251,75,15,14,210
+Bottle,Accessories,37232,250,21,15,313
+Printer,Electronics,8887,157,28,7,191
+Bottle,Accessories,37799,30,7,15,109
+Laptop,Electronics,45377,238,8,12,98
+Chair,Furniture,3481,101,5,8,37
+Table,Furniture,2512,112,11,3,35
+Laptop,Electronics,36101,202,25,5,120
+Bottle,Accessories,26987,22,8,13,101
+Notebook,Stationery,31546,235,9,12,103
+Headphones,Electronics,32812,97,30,10,297
+Oil,Grocery,10509,279,3,5,12
+Mouse,Electronics,5038,113,19,6,118
+Chair,Furniture,10277,241,17,10,173
+Bottle,Accessories,25862,22,28,4,114
+Monitor,Electronics,1016,178,12,11,137
+Table,Furniture,10868,36,4,10,36
+Notebook,Stationery,38063,121,29,14,409
+Shampoo,Personal Care,35625,238,30,15,447
+Pen,Stationery,49954,83,2,7,11
+Chair,Furniture,10026,162,23,10,228
+Rice,Grocery,21647,137,4,4,13
+Soap,Personal Care,28977,169,14,9,121
+Bag,Fashion,48096,202,24,14,331
+Bag,Fashion,4064,174,22,5,111
+Laptop,Electronics,49830,197,21,3,63
+Bottle,Accessories,3655,132,5,6,29
+Shoes,Fashion,23154,73,8,9,76
+Shoes,Fashion,9977,121,26,3,82
+Chair,Furniture,21308,292,8,5,36
+Mouse,Electronics,12069,43,19,7,130
+Sugar,Grocery,28141,78,21,7,145
+Table,Furniture,16918,297,10,2,22
+Bag,Fashion,23027,149,26,8,212
+Bottle,Accessories,22252,244,24,14,331
+Shampoo,Personal Care,41340,13,14,1,13
+Sugar,Grocery,9748,19,18,15,273
+Mouse,Electronics,12935,100,16,12,188
+Keyboard,Electronics,31212,171,13,11,139
+Shoes,Fashion,10822,117,2,4,4
+Oil,Grocery,12712,143,14,11,152
+Milk,Grocery,25884,265,24,5,122
+Printer,Electronics,28628,255,29,1,28
+Rice,Grocery,22078,41,30,2,58
+Oil,Grocery,5475,129,30,3,90
+Soap,Personal Care,21964,60,5,13,62
+Chair,Furniture,19644,93,21,8,173
+Bottle,Accessories,403,141,19,7,138
+Bag,Fashion,18242,177,1,11,11
+Shoes,Fashion,35957,73,2,11,24
+Shoes,Fashion,19705,183,21,7,142
+Headphones,Electronics,8954,151,18,10,177
+Rice,Grocery,33597,0,2,8,11
+Soap,Personal Care,36713,115,1,12,12
+Pen,Stationery,29392,17,10,13,126
+Soap,Personal Care,5157,157,8,8,63
+Notebook,Stationery,42447,105,22,14,309
+Notebook,Stationery,45479,219,6,2,14
+Printer,Electronics,28388,203,30,15,454
+Notebook,Stationery,36754,299,22,3,63
+Phone,Electronics,37454,238,9,13,116
+Shampoo,Personal Care,14242,97,9,4,40
+Oil,Grocery,742,44,4,14,59
+Pen,Stationery,21987,160,1,15,15
+Bottle,Accessories,37073,15,23,13,300
+Monitor,Electronics,47822,157,12,9,107
+Sugar,Grocery,15272,4,24,11,260
+Keyboard,Electronics,8914,183,9,15,137
+Shoes,Fashion,40134,189,29,11,314
+Laptop,Electronics,48071,211,26,9,237
+Monitor,Electronics,3662,257,21,10,207
+Keyboard,Electronics,339,142,6,12,67
+Laptop,Electronics,3650,202,18,1,16
+Shampoo,Personal Care,14701,3,8,8,62
+Soap,Personal Care,16923,104,21,10,212
+Milk,Grocery,40932,163,25,15,379
+Shoes,Fashion,26206,115,13,2,22
+Notebook,Stationery,11020,282,13,3,43
+Printer,Electronics,40064,58,12,9,113
+Soap,Personal Care,44264,259,23,2,48
+Phone,Electronics,16880,89,4,3,12
+Sugar,Grocery,5041,98,18,3,57
+Laptop,Electronics,38783,166,11,15,168
+Mouse,Electronics,24765,148,18,7,122
+Keyboard,Electronics,2302,158,27,7,191
+Oil,Grocery,15438,0,28,13,361
+Pen,Stationery,8984,111,19,2,42
+Printer,Electronics,49154,122,30,8,241
+Milk,Grocery,16324,41,5,4,25
+Printer,Electronics,10887,289,25,13,327
+Chair,Furniture,2399,139,2,15,30
+Oil,Grocery,38035,58,29,5,141
+Phone,Electronics,36118,31,7,11,77
+Chair,Furniture,34464,192,21,8,164
+Bag,Fashion,8443,212,27,10,266
+Soap,Personal Care,39843,215,19,10,185
+Soap,Personal Care,37964,211,4,1,9
+Shampoo,Personal Care,43842,219,2,14,27
+Shampoo,Personal Care,35000,45,8,14,112
+Headphones,Electronics,16829,141,15,10,150
+Pen,Stationery,23634,227,27,4,105
+Keyboard,Electronics,34497,141,16,2,31
+Oil,Grocery,19643,29,4,4,19
+Milk,Grocery,18144,207,18,15,270
+Phone,Electronics,8361,31,10,6,58
+Phone,Electronics,9953,183,30,8,235
+Oil,Grocery,27287,215,15,4,65
+Monitor,Electronics,5569,91,10,1,12
+Rice,Grocery,28359,156,9,4,32
+Sugar,Grocery,28574,227,18,8,140
+Table,Furniture,29364,259,15,4,60
+Mouse,Electronics,44721,130,29,15,430
+Laptop,Electronics,172,230,21,1,23
+Sugar,Grocery,16792,1,15,4,62
+Mouse,Electronics,44949,112,13,5,62
+Monitor,Electronics,12055,51,3,13,41
+Notebook,Stationery,14560,148,25,10,253
+Shampoo,Personal Care,21545,260,25,10,254
+Chair,Furniture,47713,114,24,6,139
+Chair,Furniture,12722,24,20,14,282
+Rice,Grocery,47207,15,13,2,21
+Table,Furniture,20471,205,28,6,173
+Notebook,Stationery,22813,31,11,7,80
+Headphones,Electronics,37575,38,14,4,54
+Table,Furniture,37541,94,9,1,7
+Rice,Grocery,21699,248,19,12,232
+Mouse,Electronics,25268,0,24,6,147
+Notebook,Stationery,12818,6,16,13,213
+Chair,Furniture,39628,243,4,13,56
+Headphones,Electronics,10811,140,19,12,224
+Printer,Electronics,15451,9,6,9,50
+Shoes,Fashion,41434,45,27,3,83
+Shoes,Fashion,29916,232,13,1,18
+Bottle,Accessories,26635,160,15,6,93
+Headphones,Electronics,12257,7,1,9,12
+Milk,Grocery,26180,190,13,1,16
+Printer,Electronics,14546,195,14,11,157
+Phone,Electronics,15689,233,28,1,31
+Laptop,Electronics,5092,140,18,10,180
+Milk,Grocery,18527,147,9,6,59
+Headphones,Electronics,47372,82,3,9,25
+Table,Furniture,32493,251,20,4,75
+Rice,Grocery,9944,126,23,14,318
+Shoes,Fashion,26436,138,28,2,52
+Mouse,Electronics,17293,60,18,1,15
+Headphones,Electronics,28074,103,24,6,149
+Chair,Furniture,19742,149,14,10,140
+Oil,Grocery,8689,88,7,5,34
+Oil,Grocery,47389,20,5,11,55
+Oil,Grocery,22497,175,13,4,55
+Milk,Grocery,41012,99,12,1,8
+Milk,Grocery,46860,257,22,6,127
+Shampoo,Personal Care,11533,293,5,11,57
+Printer,Electronics,43752,238,23,5,113
+Pen,Stationery,41654,226,29,15,435
+Shampoo,Personal Care,43459,39,30,13,386
+Oil,Grocery,6973,80,4,4,11
+Monitor,Electronics,22801,206,4,15,61
+Shoes,Fashion,30233,59,16,5,81
+Table,Furniture,24655,219,11,11,116
+Printer,Electronics,4927,104,6,11,64
+Shoes,Fashion,9911,251,18,8,142
+Mouse,Electronics,16808,273,5,9,50
+Oil,Grocery,37263,134,25,5,130
+Monitor,Electronics,9091,182,19,8,154
+Printer,Electronics,1078,169,7,1,2
+Table,Furniture,14489,175,6,7,38
+Mouse,Electronics,14474,295,10,4,35
+Oil,Grocery,43353,261,23,4,95
+Bottle,Accessories,22915,95,21,13,269
+Sugar,Grocery,49236,194,1,7,3
+Pen,Stationery,42224,217,5,2,6
+Printer,Electronics,26306,148,21,7,151
+Shoes,Fashion,22052,205,12,8,91
+Monitor,Electronics,24084,111,24,13,317
+Bag,Fashion,45178,48,9,5,49
+Printer,Electronics,3774,88,12,9,108
+Pen,Stationery,48871,124,14,13,179
+Keyboard,Electronics,23564,76,5,4,18
+Sugar,Grocery,44444,31,9,12,109
+Soap,Personal Care,24886,180,9,9,77
+Pen,Stationery,39286,180,17,6,102
+Table,Furniture,37111,99,5,4,20
+Monitor,Electronics,20791,142,12,2,24
+Bottle,Accessories,34363,4,14,11,150
+Milk,Grocery,23659,274,22,10,218
+Printer,Electronics,1806,127,15,5,72
+Printer,Electronics,40411,175,18,5,85
+Printer,Electronics,22818,31,3,1,5
+Headphones,Electronics,29103,191,4,8,36
+Oil,Grocery,35124,225,12,4,48
+Notebook,Stationery,24439,136,3,6,19
+Pen,Stationery,15185,294,2,8,17
+Phone,Electronics,1271,46,10,12,125
+Bottle,Accessories,40282,254,24,8,192
+Shoes,Fashion,10329,183,28,8,228
+Printer,Electronics,36555,156,3,8,21
+Shoes,Fashion,13287,167,12,10,124
+Milk,Grocery,48360,134,15,14,208
+Shampoo,Personal Care,13768,179,21,6,123
+Headphones,Electronics,18153,223,20,3,65
+Printer,Electronics,44313,55,28,12,336
+Monitor,Electronics,48588,61,7,11,82
+Pen,Stationery,47284,299,21,7,145
+Chair,Furniture,27427,41,7,14,96
+Phone,Electronics,28518,162,29,3,83
+Mouse,Electronics,12159,172,3,14,37
+Table,Furniture,35481,46,19,3,62
+Phone,Electronics,49079,51,24,14,334
+Milk,Grocery,16476,76,11,1,12
+Shampoo,Personal Care,39599,113,19,6,110
+Pen,Stationery,18274,213,10,13,130
+Rice,Grocery,47595,281,5,8,36
+Chair,Furniture,968,237,27,10,275
+Phone,Electronics,30741,16,22,12,266
+Laptop,Electronics,4702,253,26,9,235
+Printer,Electronics,24645,284,22,1,24
+Oil,Grocery,49212,105,21,15,313
+Shoes,Fashion,9033,3,13,1,12
+Phone,Electronics,43969,21,2,13,30
+Rice,Grocery,12186,254,17,14,238
+Table,Furniture,42911,37,17,8,140
+Monitor,Electronics,8852,91,30,12,357
+Bottle,Accessories,45948,69,24,2,45
+Rice,Grocery,14351,201,13,5,60
+Headphones,Electronics,12460,153,17,7,120
+Table,Furniture,9359,122,17,7,119
+Mouse,Electronics,45270,136,9,11,100
+Notebook,Stationery,1579,63,10,5,48
+Milk,Grocery,18613,267,2,15,25
+Laptop,Electronics,49820,258,27,4,109
+Bag,Fashion,49501,237,21,10,215
+Shoes,Fashion,48638,280,21,1,23
+Headphones,Electronics,14192,144,27,11,302
+Sugar,Grocery,26492,240,5,11,50
+Soap,Personal Care,31110,261,20,13,261
+Phone,Electronics,6305,46,15,2,32
+Headphones,Electronics,42006,269,4,9,31
+Printer,Electronics,19695,183,8,15,124
+Printer,Electronics,41459,267,22,3,67
+Bottle,Accessories,24311,214,12,10,117
+Notebook,Stationery,41215,119,29,14,408
+Shoes,Fashion,27074,152,16,15,238
+Mouse,Electronics,36014,94,28,7,195
+Printer,Electronics,21700,275,23,11,250
+Table,Furniture,41359,120,11,2,17
+Monitor,Electronics,40110,33,4,6,29
+Rice,Grocery,24466,11,16,13,204
+Printer,Electronics,20566,192,8,8,59
+Rice,Grocery,46019,195,18,6,111
+Shampoo,Personal Care,3617,33,5,1,2
+Mouse,Electronics,37921,288,20,4,78
+Mouse,Electronics,34361,57,14,8,108
+Bottle,Accessories,44305,52,12,7,82
+Keyboard,Electronics,5836,227,26,9,237
+Keyboard,Electronics,32132,82,8,14,108
+Bottle,Accessories,15189,29,4,3,15
+Keyboard,Electronics,46089,267,11,10,113
+Notebook,Stationery,894,145,12,9,103
+Phone,Electronics,29082,64,19,4,81
+Phone,Electronics,3436,2,2,6,13
+Table,Furniture,15842,271,11,6,71
+Shoes,Fashion,3055,94,4,7,28
+Mouse,Electronics,27702,205,26,6,153
+Headphones,Electronics,32004,99,5,2,8
+Table,Furniture,30175,252,20,8,161
+Mouse,Electronics,41678,187,11,1,15
+Printer,Electronics,15293,86,20,5,98
+Milk,Grocery,24342,123,19,6,112
+Phone,Electronics,36954,266,23,4,95
+Headphones,Electronics,7208,95,5,9,47
+Rice,Grocery,46179,221,24,12,293
+Shoes,Fashion,43335,73,9,14,125
+Chair,Furniture,19251,12,19,15,284
+Notebook,Stationery,36851,12,15,14,213
+Monitor,Electronics,33849,300,14,10,140
+Mouse,Electronics,22345,8,24,9,213
+Oil,Grocery,36879,256,27,15,409
+Milk,Grocery,23312,235,13,1,11
+Bag,Fashion,16353,158,28,1,27
+Shoes,Fashion,10864,40,29,14,401
+Pen,Stationery,20542,102,2,6,11
+Monitor,Electronics,14846,70,29,6,178
+Headphones,Electronics,19423,140,17,6,106
+Bag,Fashion,34818,113,15,7,101
+Headphones,Electronics,18200,206,10,1,13
+Phone,Electronics,38467,232,13,7,91
+Chair,Furniture,37863,213,5,12,64
+Pen,Stationery,20556,293,19,8,149
+Soap,Personal Care,31332,199,12,15,179
+Bottle,Accessories,40197,141,5,10,51
+Sugar,Grocery,6326,126,29,14,404
+Oil,Grocery,24347,4,5,13,63
+Soap,Personal Care,22375,247,25,2,45
+Milk,Grocery,28193,248,22,13,291
+Pen,Stationery,14357,41,16,12,194
+Shoes,Fashion,1627,50,18,6,107
+Chair,Furniture,12802,226,7,6,42
+Oil,Grocery,24612,277,11,11,117
+Shampoo,Personal Care,3389,210,26,6,154
+Mouse,Electronics,4131,153,17,3,49
+Soap,Personal Care,15303,230,8,6,43
+Pen,Stationery,37486,99,4,13,54
+Table,Furniture,13994,199,24,8,194
+Mouse,Electronics,35877,277,25,9,224
+Chair,Furniture,40210,118,10,2,19
+Phone,Electronics,13080,88,2,6,7
+Soap,Personal Care,32357,236,25,4,98
+Shoes,Fashion,25335,65,9,15,137
+Bag,Fashion,7905,39,8,13,103
+Oil,Grocery,9985,170,10,13,132
+Shampoo,Personal Care,24380,112,23,8,185
+Mouse,Electronics,22251,282,24,14,337
+Notebook,Stationery,30555,250,28,13,363
+Pen,Stationery,21977,101,28,13,361
+Keyboard,Electronics,5691,4,8,4,29
+Table,Furniture,6142,239,7,9,64
+Shampoo,Personal Care,29615,178,12,7,84
+Notebook,Stationery,22416,80,22,1,21
+Oil,Grocery,32416,102,27,2,53
+Rice,Grocery,2057,57,30,6,180
+Laptop,Electronics,27912,139,24,2,45
+Monitor,Electronics,38596,22,4,6,29
+Shampoo,Personal Care,25529,94,27,14,381
+Bottle,Accessories,16643,159,7,9,58
+Monitor,Electronics,25569,167,30,12,355
+Bag,Fashion,33769,52,27,2,54
+Printer,Electronics,30230,188,5,8,36
+Milk,Grocery,21472,163,23,9,208
+Bottle,Accessories,39982,169,8,2,19
+Laptop,Electronics,5273,60,9,12,112
+Monitor,Electronics,28307,63,3,2,2
+Sugar,Grocery,15852,238,22,2,48
+Soap,Personal Care,16798,61,26,4,103
+Table,Furniture,38744,135,24,5,120
+Phone,Electronics,7454,103,23,2,43
+Monitor,Electronics,39945,178,15,15,230
+Soap,Personal Care,37782,120,13,1,9
+Notebook,Stationery,7359,46,11,9,97
+Notebook,Stationery,42308,207,18,13,231
+Chair,Furniture,19362,28,6,9,50
+Milk,Grocery,1002,105,23,10,231
+Monitor,Electronics,45424,48,8,11,88
+Laptop,Electronics,19723,155,2,13,29
+Bag,Fashion,49260,198,30,10,299
+Chair,Furniture,22479,107,29,9,259
+Printer,Electronics,2517,219,1,1,0
+Milk,Grocery,10112,130,6,4,22
+Table,Furniture,39505,132,23,15,349
+Oil,Grocery,27419,30,28,11,312
+Phone,Electronics,45383,293,30,15,454
+Table,Furniture,10326,71,21,11,226
+Bottle,Accessories,9424,14,28,4,110
+Oil,Grocery,13252,178,7,9,59
+Shoes,Fashion,398,190,13,9,113
+Milk,Grocery,6746,143,8,15,123
+Bag,Fashion,15251,220,9,12,108
+Shampoo,Personal Care,7982,59,30,9,266
+Notebook,Stationery,25105,267,11,5,60
+Bag,Fashion,5440,189,26,2,55
+Oil,Grocery,16836,0,20,10,202
+Shampoo,Personal Care,11276,290,24,3,67
+Laptop,Electronics,46973,283,23,8,186
+Keyboard,Electronics,22899,167,29,13,380
+Keyboard,Electronics,25759,284,29,7,206
+Mouse,Electronics,43450,267,17,3,50
+Shampoo,Personal Care,21533,261,3,1,0
+Mouse,Electronics,37822,18,19,11,207
+Headphones,Electronics,16658,279,12,9,105
+Milk,Grocery,152,278,20,13,259
+Chair,Furniture,21691,20,29,6,173
+Soap,Personal Care,19213,285,29,2,56
+Shampoo,Personal Care,12496,55,23,6,137
+Bottle,Accessories,44856,249,16,10,161
+Chair,Furniture,5555,118,6,2,12
+Sugar,Grocery,10012,238,9,1,7
+Rice,Grocery,27573,181,15,7,103
+Oil,Grocery,29975,232,20,3,60
+Laptop,Electronics,24308,294,15,12,175
+Soap,Personal Care,41770,77,24,4,93
+Printer,Electronics,36506,298,6,8,46
+Notebook,Stationery,10539,230,30,5,152
+Keyboard,Electronics,49708,107,17,7,115
+Milk,Grocery,18371,116,19,13,252
+Sugar,Grocery,36677,278,30,9,265
+Printer,Electronics,10128,136,28,10,282
+Laptop,Electronics,27066,156,29,10,290
+Chair,Furniture,49354,162,16,5,80
+Keyboard,Electronics,40192,217,24,13,307
+Phone,Electronics,4384,103,7,3,24
+Shoes,Fashion,3843,138,4,5,17
+Chair,Furniture,19860,142,5,6,34
+Chair,Furniture,19933,61,26,4,108
+Keyboard,Electronics,34782,199,26,4,107
+Notebook,Stationery,36518,216,4,1,3
+Mouse,Electronics,22381,67,2,6,16
+Chair,Furniture,16354,69,12,4,53
+Oil,Grocery,35321,27,12,7,82
+Shampoo,Personal Care,41617,90,3,15,49
+Shoes,Fashion,20489,4,8,8,61
+Notebook,Stationery,2239,214,24,2,47
+Mouse,Electronics,24493,88,11,15,170
+Printer,Electronics,20876,292,30,5,152
+Phone,Electronics,18705,67,1,13,12
+Headphones,Electronics,24249,263,8,14,110
+Soap,Personal Care,376,233,16,5,80
+Monitor,Electronics,32344,122,3,14,42
+Chair,Furniture,27129,77,24,11,265
+Milk,Grocery,43169,50,21,14,290
+Chair,Furniture,8950,263,22,2,48
+Bag,Fashion,4823,290,17,9,155
+Milk,Grocery,39875,76,8,13,102
+Sugar,Grocery,34774,227,8,6,49
+Notebook,Stationery,35537,178,15,7,106
+Bag,Fashion,41611,274,22,5,109
+Pen,Stationery,14851,106,27,3,80
+Milk,Grocery,24093,212,4,15,57
+Laptop,Electronics,39955,206,11,15,161
+Monitor,Electronics,3934,139,16,5,75
+Printer,Electronics,2390,79,18,8,149
+Chair,Furniture,7010,128,23,11,258
+Keyboard,Electronics,7194,18,8,11,87
+Chair,Furniture,5662,298,21,7,146
+Chair,Furniture,11293,138,7,1,11
+Oil,Grocery,34107,273,15,10,150
+Bag,Fashion,30362,229,18,10,184
+Phone,Electronics,8863,95,21,7,142
+Laptop,Electronics,36462,124,12,6,67
+Notebook,Stationery,16731,111,29,14,401
+Laptop,Electronics,21853,238,27,4,104
+Printer,Electronics,8644,0,16,14,220
+Milk,Grocery,28010,251,15,9,133
+Notebook,Stationery,48206,178,22,7,153
+Sugar,Grocery,35830,132,21,4,85
+Headphones,Electronics,11292,279,5,9,47
+Laptop,Electronics,31228,212,7,9,66
+Milk,Grocery,716,167,26,2,49
+Notebook,Stationery,35495,242,11,10,105
+Shoes,Fashion,4258,232,21,9,192
+Printer,Electronics,1651,115,12,12,139
+Bottle,Accessories,24324,129,30,8,239
+Phone,Electronics,3555,89,26,14,361
+Oil,Grocery,7076,202,3,9,29
+Mouse,Electronics,14177,244,25,9,221
+Phone,Electronics,36356,258,7,10,73
+Milk,Grocery,1021,11,17,4,69
+Mouse,Electronics,34437,266,17,8,134
+Mouse,Electronics,34177,23,21,5,104
+Pen,Stationery,48053,147,14,15,205
+Printer,Electronics,4172,127,7,3,25
+Shoes,Fashion,49880,194,24,4,97
+Oil,Grocery,46728,121,10,6,65
+Sugar,Grocery,7076,121,18,1,20
+Bottle,Accessories,8989,132,19,10,192
+Notebook,Stationery,35090,293,30,7,212
+Chair,Furniture,36537,174,29,14,405
+Shoes,Fashion,43264,122,10,2,25
+Pen,Stationery,30821,139,11,11,117
+Bottle,Accessories,40605,101,27,13,347
+Oil,Grocery,46627,64,10,9,94
+Notebook,Stationery,22423,16,16,9,145
+Bottle,Accessories,14080,10,11,5,57
+Bottle,Accessories,33506,171,30,13,386
+Monitor,Electronics,38824,109,15,6,95
+Notebook,Stationery,13397,104,9,7,58
+Phone,Electronics,47123,247,22,11,241
+Milk,Grocery,25691,10,27,3,84
+Laptop,Electronics,18765,176,11,9,95
+Milk,Grocery,26654,277,20,9,175
+Soap,Personal Care,44431,137,20,9,182
+Pen,Stationery,48628,260,26,11,286
+Shoes,Fashion,23304,57,29,15,430
+Chair,Furniture,362,290,23,13,299
+Bag,Fashion,13987,110,29,8,228
+Mouse,Electronics,46572,239,20,6,118
+Milk,Grocery,22365,130,30,4,125
+Printer,Electronics,10011,71,3,6,13
+Table,Furniture,11187,207,5,12,64
+Pen,Stationery,15858,109,20,12,239
+Milk,Grocery,30232,100,15,7,105
+Monitor,Electronics,12737,93,14,7,94
+Notebook,Stationery,45298,179,26,15,393
+Soap,Personal Care,4715,199,18,14,254
+Mouse,Electronics,3320,145,14,9,121
+Shoes,Fashion,7686,76,11,2,22
+Mouse,Electronics,38600,6,7,4,28
+Table,Furniture,48113,289,5,10,52
+Sugar,Grocery,35614,153,9,15,138
+Soap,Personal Care,3932,158,17,10,166
+Oil,Grocery,2272,158,28,5,140
+Pen,Stationery,21478,258,14,15,211
+Milk,Grocery,36506,297,1,10,14
+Table,Furniture,25266,75,11,15,170
+Milk,Grocery,932,265,10,14,144
+Table,Furniture,21471,222,17,5,83
+Headphones,Electronics,46246,13,30,12,360
+Monitor,Electronics,7447,18,16,13,213
+Table,Furniture,29975,6,27,5,135
+Monitor,Electronics,24279,111,26,10,261
+Mouse,Electronics,6523,193,12,15,183
+Notebook,Stationery,4496,242,4,12,49
+Bag,Fashion,31746,45,25,14,351
+Notebook,Stationery,26973,46,24,13,308
+Rice,Grocery,23466,68,14,1,9
+Soap,Personal Care,46565,26,6,13,81
+Monitor,Electronics,45191,232,22,6,132
+Pen,Stationery,29265,76,4,6,22
+Soap,Personal Care,17942,224,16,14,220
+Table,Furniture,38030,134,15,15,221
+Printer,Electronics,35389,242,13,8,101
+Printer,Electronics,4516,122,12,7,79
+Phone,Electronics,37133,167,3,4,7
+Notebook,Stationery,40434,296,23,10,233
+Bottle,Accessories,4372,165,25,6,150
+Mouse,Electronics,17413,115,14,6,82
+Oil,Grocery,26892,197,29,12,344
+Bottle,Accessories,2397,105,22,3,65
+Sugar,Grocery,38065,238,9,1,9
+Bottle,Accessories,2428,135,5,6,33
+Soap,Personal Care,30441,132,14,3,37
+Monitor,Electronics,6597,183,14,6,85
+Keyboard,Electronics,30991,185,21,14,291
+Bottle,Accessories,38337,292,10,8,83
+Printer,Electronics,4816,119,27,4,103
+Chair,Furniture,37256,126,11,3,38
+Headphones,Electronics,29252,38,2,11,18
+Mouse,Electronics,29353,97,20,4,84
+Phone,Electronics,35238,231,27,11,299
+Shoes,Fashion,35150,120,16,10,157
+Soap,Personal Care,26961,7,11,15,162
+Headphones,Electronics,5838,161,23,10,235
+Soap,Personal Care,3057,189,11,4,40
+Chair,Furniture,18538,177,1,4,8
+Laptop,Electronics,27399,225,3,11,32
+Laptop,Electronics,13257,294,5,3,19
+Pen,Stationery,49836,116,17,6,105
+Keyboard,Electronics,27344,269,22,11,238
+Pen,Stationery,45667,33,20,4,79
+Rice,Grocery,24779,116,23,7,156
+Chair,Furniture,49008,126,29,14,407
+Chair,Furniture,6652,38,17,3,56
+Shoes,Fashion,29935,106,12,15,176
+Monitor,Electronics,38337,144,15,10,154
+Keyboard,Electronics,2081,82,18,13,233
+Oil,Grocery,49118,265,19,3,57
+Keyboard,Electronics,20938,226,17,13,226
+Printer,Electronics,10531,278,7,9,67
+Laptop,Electronics,36939,82,16,2,32
+Phone,Electronics,29788,248,13,1,9
+Bottle,Accessories,199,7,24,6,141
+Soap,Personal Care,12795,7,12,1,16
+Shampoo,Personal Care,49102,273,18,9,162
+Shoes,Fashion,25693,256,24,3,77
+Headphones,Electronics,41643,227,25,2,54
+Notebook,Stationery,34043,228,9,10,90
+Table,Furniture,5478,67,8,14,113
+Headphones,Electronics,47574,145,9,4,38
+Monitor,Electronics,18098,57,2,9,15
+Laptop,Electronics,32845,232,9,3,24
+Phone,Electronics,14717,167,20,4,84
+Phone,Electronics,2851,16,10,15,149
+Laptop,Electronics,16629,161,15,14,208
+Soap,Personal Care,11994,113,19,12,230
+Oil,Grocery,3398,202,6,9,55
+Table,Furniture,1362,58,21,7,147
+Notebook,Stationery,23101,113,11,6,62
+Mouse,Electronics,39189,244,6,12,68
+Mouse,Electronics,36493,239,8,12,101
+Mouse,Electronics,45216,29,23,5,119
+Phone,Electronics,1646,57,19,1,23
+Headphones,Electronics,24557,42,27,3,77
+Shoes,Fashion,10500,41,10,15,153
+Oil,Grocery,47436,71,10,2,19
+Sugar,Grocery,44097,6,5,4,18
+Table,Furniture,1304,206,7,10,75
+Rice,Grocery,40232,58,6,4,27
+Table,Furniture,14557,272,24,5,115
+Chair,Furniture,2531,23,6,8,44
+Sugar,Grocery,48228,77,8,12,97
+Sugar,Grocery,41062,131,25,13,326
+Printer,Electronics,7352,198,13,7,88
+Table,Furniture,31650,41,22,9,197
+Rice,Grocery,10429,277,6,15,88
+Bottle,Accessories,44400,87,4,12,52
+Laptop,Electronics,22220,211,10,1,5
+Keyboard,Electronics,13855,238,23,13,297
+Shampoo,Personal Care,7092,220,29,5,140
+Bottle,Accessories,17118,259,5,13,65
+Soap,Personal Care,40033,205,18,5,86
+Shampoo,Personal Care,35125,248,18,4,70
+Headphones,Electronics,15823,94,1,10,15
+Table,Furniture,39342,178,25,1,28
+Rice,Grocery,5882,181,26,13,333
+Rice,Grocery,26662,36,21,2,46
+Notebook,Stationery,22448,64,11,15,165
+Printer,Electronics,42771,78,10,11,105
+Oil,Grocery,45902,227,5,12,59
+Pen,Stationery,21609,50,5,11,56
+Shampoo,Personal Care,12944,79,11,4,48
+Shampoo,Personal Care,30250,215,23,8,183
+Printer,Electronics,37308,195,9,9,77
+Milk,Grocery,25798,162,4,6,25
+Headphones,Electronics,7140,94,6,12,71
+Keyboard,Electronics,9396,198,14,4,61
+Shampoo,Personal Care,41784,36,21,13,275
+Milk,Grocery,37558,140,11,1,10
+Shoes,Fashion,13290,66,7,3,20
+Headphones,Electronics,1766,127,6,12,70
+Shoes,Fashion,18854,232,5,11,52
+Keyboard,Electronics,9731,194,18,15,269
+Shampoo,Personal Care,32395,76,10,15,148
+Mouse,Electronics,6189,124,8,9,77
+Sugar,Grocery,4350,141,1,13,16
+Oil,Grocery,10138,173,16,3,45
+Chair,Furniture,1208,50,1,12,14
+Mouse,Electronics,38149,53,15,11,163
+Shampoo,Personal Care,25516,116,4,9,39
+Laptop,Electronics,25530,0,17,1,14
+Milk,Grocery,47744,23,10,10,104
+Shoes,Fashion,35032,54,2,3,3
+Mouse,Electronics,39577,124,29,6,177
+Keyboard,Electronics,35583,188,29,3,82
+Phone,Electronics,691,54,7,9,63
+Oil,Grocery,26672,9,6,13,75
+Headphones,Electronics,18847,217,24,7,166
+Rice,Grocery,11917,240,16,3,47
+Shampoo,Personal Care,27299,66,6,2,7
+Pen,Stationery,24589,259,16,5,82
+Pen,Stationery,29965,130,6,12,77
+Bag,Fashion,2223,42,23,3,69
+Rice,Grocery,36366,130,15,6,92
+Bottle,Accessories,26451,52,18,15,274
+Shoes,Fashion,5309,211,27,2,56
+Shampoo,Personal Care,34617,21,17,10,175
+Shampoo,Personal Care,44991,134,8,6,52
+Milk,Grocery,27602,60,20,12,245
+Table,Furniture,26344,159,8,6,43
+Shoes,Fashion,12562,217,6,5,28
+Monitor,Electronics,34424,58,16,9,140
+Bag,Fashion,43155,206,29,7,201
+Shoes,Fashion,38212,282,11,9,99
+Bag,Fashion,44995,251,18,5,95
+Bag,Fashion,25131,298,30,9,271
+Notebook,Stationery,24256,295,17,3,48
+Bottle,Accessories,14169,191,19,11,211
+Shampoo,Personal Care,1907,272,3,9,23
+Keyboard,Electronics,7045,295,22,10,222
+Shoes,Fashion,10655,46,6,6,38
+Monitor,Electronics,41066,23,6,15,89
+Table,Furniture,37629,103,16,13,212
+Oil,Grocery,25357,167,10,4,41
+Headphones,Electronics,40217,73,27,13,349
+Mouse,Electronics,20361,111,7,1,4
+Mouse,Electronics,20616,44,18,9,160
+Oil,Grocery,21384,50,4,4,17
+Sugar,Grocery,3279,204,17,6,107
+Mouse,Electronics,16151,86,8,2,14
+Keyboard,Electronics,18810,80,26,3,75
+Mouse,Electronics,23579,142,14,5,73
+Soap,Personal Care,28384,204,24,15,362
+Chair,Furniture,15220,107,22,11,244
+Laptop,Electronics,34505,208,19,8,156
+Headphones,Electronics,24130,11,26,15,391
+Sugar,Grocery,47986,206,4,10,38
+Bottle,Accessories,44179,118,27,3,77
+Bag,Fashion,18929,153,21,15,310
+Pen,Stationery,26733,222,18,3,59
+Soap,Personal Care,27254,31,17,12,203
+Monitor,Electronics,41004,63,5,10,52
+Headphones,Electronics,29771,227,27,11,299
+Notebook,Stationery,29758,55,8,13,106
+Notebook,Stationery,31098,127,21,11,233
+Laptop,Electronics,38954,264,20,7,138
+Bottle,Accessories,46477,79,14,6,88
+Bottle,Accessories,38088,181,7,2,18
+Shampoo,Personal Care,23625,194,19,13,244
+Phone,Electronics,39772,87,25,5,129
+Bottle,Accessories,36342,82,4,7,29
+Headphones,Electronics,41968,259,26,2,48
+Oil,Grocery,75,263,25,15,376
+Keyboard,Electronics,14098,57,22,2,40
+Headphones,Electronics,16761,164,16,12,192
+Phone,Electronics,29183,259,27,13,346
+Monitor,Electronics,18266,226,21,11,235
+Keyboard,Electronics,19143,71,5,5,29
+Bag,Fashion,2388,19,14,5,70
+Bottle,Accessories,25006,168,12,12,139
+Printer,Electronics,24249,148,17,12,203
+Headphones,Electronics,37849,75,27,12,325
+Sugar,Grocery,21294,166,10,5,53
+Monitor,Electronics,32787,144,26,4,102
+Shoes,Fashion,47733,181,26,13,335
+Pen,Stationery,8663,193,25,9,225
+Milk,Grocery,30805,116,1,2,1
+Soap,Personal Care,36193,236,21,11,231
+Bag,Fashion,872,219,12,10,118
+Table,Furniture,42373,283,29,9,263
+Chair,Furniture,30809,32,2,8,16
+Notebook,Stationery,27715,98,13,7,86
+Sugar,Grocery,45999,235,25,6,151
+Shampoo,Personal Care,29065,295,1,15,20
+Chair,Furniture,33127,188,30,7,205
+Notebook,Stationery,13682,179,14,4,61
+Printer,Electronics,15816,86,2,6,17
+Milk,Grocery,20453,263,5,9,45
+Milk,Grocery,40208,10,10,11,109
+Sugar,Grocery,565,80,15,1,18
+Sugar,Grocery,21264,233,1,10,14
+Shampoo,Personal Care,28389,38,9,13,114
+Mouse,Electronics,42118,76,4,11,39
+Milk,Grocery,17813,251,10,7,66
+Headphones,Electronics,14160,32,16,9,141
+Shoes,Fashion,17664,247,10,5,55
+Bottle,Accessories,37184,281,7,13,94
+Rice,Grocery,21854,146,25,15,377
+Laptop,Electronics,33640,197,2,5,8
+Notebook,Stationery,2871,186,16,12,195
+Chair,Furniture,16854,19,17,6,103
+Soap,Personal Care,14424,197,15,5,70
+Chair,Furniture,41543,17,22,9,195
+Table,Furniture,27990,59,24,6,146
+Rice,Grocery,7686,236,9,8,70
+Oil,Grocery,35875,112,4,13,49
+Phone,Electronics,41714,144,29,12,352
+Headphones,Electronics,42819,90,22,3,63
+Monitor,Electronics,30309,70,23,10,231
+Printer,Electronics,32738,194,5,15,74
+Monitor,Electronics,4460,126,30,9,266
+Printer,Electronics,32488,75,19,8,152
+Rice,Grocery,37018,233,11,7,74
+Soap,Personal Care,24080,220,22,12,266
+Monitor,Electronics,13478,189,2,1,0
+Headphones,Electronics,2862,34,13,9,122
+Oil,Grocery,25766,160,26,10,259
+Headphones,Electronics,37352,225,29,2,60
+Pen,Stationery,22244,1,10,3,35
+Oil,Grocery,42032,237,13,1,14
+Table,Furniture,20433,288,21,12,253
+Monitor,Electronics,13899,21,29,6,169
+Milk,Grocery,39774,294,8,15,121
+Phone,Electronics,17967,223,17,10,175
+Oil,Grocery,24222,184,2,3,1
+Oil,Grocery,19186,233,18,2,31
+Shampoo,Personal Care,21735,233,1,6,1
+Bottle,Accessories,31726,83,5,12,59
+Mouse,Electronics,5034,256,21,3,64
+Milk,Grocery,38424,252,28,9,247
+Soap,Personal Care,46571,81,30,5,146
+Shoes,Fashion,48430,17,4,1,4
+Bag,Fashion,4155,17,12,15,177
+Bottle,Accessories,31972,78,4,15,60
+Shampoo,Personal Care,47253,298,9,15,131
+Mouse,Electronics,28521,95,15,15,223
+Milk,Grocery,30137,244,23,13,301
+Bag,Fashion,32632,270,10,3,33
+Oil,Grocery,49742,99,19,2,43
+Sugar,Grocery,9821,134,22,6,134
+Bottle,Accessories,25932,8,19,9,172
+Phone,Electronics,18098,240,14,14,201
+Phone,Electronics,28011,255,16,10,155
+Table,Furniture,14156,25,27,2,52
+Sugar,Grocery,40122,90,23,12,271
+Mouse,Electronics,22783,81,19,13,243
+Chair,Furniture,11279,200,1,6,9
+Bottle,Accessories,41082,174,27,10,267
+Bag,Fashion,10431,253,12,15,184
+Pen,Stationery,4376,283,5,5,20
+Oil,Grocery,14556,238,20,7,136
+Laptop,Electronics,21678,127,10,5,45
+Soap,Personal Care,5326,237,17,15,259
+Mouse,Electronics,16652,191,18,1,22
+Rice,Grocery,795,56,14,13,181
+Printer,Electronics,21931,249,25,12,301
+Rice,Grocery,15289,50,30,12,361
+Table,Furniture,14887,85,4,11,42
+Shampoo,Personal Care,21668,127,26,4,107
+Pen,Stationery,7030,130,21,2,40
+Headphones,Electronics,238,165,27,6,163
+Mouse,Electronics,9052,57,8,6,50
+Pen,Stationery,522,232,18,14,251
+Pen,Stationery,11559,68,26,3,75
+Headphones,Electronics,47436,255,4,7,26
+Monitor,Electronics,26069,261,5,12,65
+Mouse,Electronics,44038,19,30,9,271
+Notebook,Stationery,3258,114,6,10,57
+Keyboard,Electronics,35291,118,18,6,107
+Mouse,Electronics,29329,194,13,12,158
+Monitor,Electronics,46839,28,4,5,21
+Table,Furniture,37801,40,23,13,299
+Keyboard,Electronics,3631,51,20,7,142
+Rice,Grocery,29128,193,26,5,129
+Mouse,Electronics,15096,163,16,2,37
+Keyboard,Electronics,2437,178,25,8,198
+Milk,Grocery,36185,244,25,4,96
+Mouse,Electronics,4264,64,23,1,24
+Pen,Stationery,43312,103,12,4,49
+Mouse,Electronics,16431,16,2,4,10
+Phone,Electronics,25390,237,21,3,62
+Oil,Grocery,11282,252,28,9,250
+Mouse,Electronics,5943,288,8,1,10
+Headphones,Electronics,5559,299,12,12,143
+Mouse,Electronics,2743,38,7,13,92
+Headphones,Electronics,23355,241,5,8,37
+Bottle,Accessories,22760,21,6,7,39
+Table,Furniture,24580,216,6,6,33
+Soap,Personal Care,9837,153,22,11,244
+Chair,Furniture,15419,295,26,11,283
+Milk,Grocery,18054,279,2,9,23
+Notebook,Stationery,37167,263,5,7,30
+Sugar,Grocery,13218,144,6,13,82
+Chair,Furniture,12130,266,20,1,17
+Sugar,Grocery,37315,300,11,5,51
+Bag,Fashion,33435,226,7,9,67
+Mouse,Electronics,31745,237,15,1,20
+Milk,Grocery,47510,85,15,9,137
+Mouse,Electronics,27822,194,13,5,70
+Pen,Stationery,6753,127,23,3,64
+Shampoo,Personal Care,38308,138,19,9,170
+Pen,Stationery,49249,12,1,4,0
+Monitor,Electronics,16891,214,18,15,267
+Monitor,Electronics,48939,114,24,2,45
+Oil,Grocery,27751,269,28,12,333
+Bottle,Accessories,24779,298,13,11,139
+Milk,Grocery,24512,281,19,2,41
+Bag,Fashion,18269,58,28,7,192
+Sugar,Grocery,49114,300,10,7,70
+Chair,Furniture,12025,149,30,3,94
+Laptop,Electronics,17076,98,10,13,135
+Table,Furniture,25628,120,22,15,328
+Rice,Grocery,43728,252,11,15,170
+Milk,Grocery,18118,73,2,3,1
+Laptop,Electronics,41103,82,2,7,13
+Pen,Stationery,29466,44,17,10,172
+Bag,Fashion,25416,120,25,13,320
+Keyboard,Electronics,8267,264,21,14,289
+Shoes,Fashion,41898,55,3,12,35
+Printer,Electronics,42293,135,11,7,80
+Milk,Grocery,22697,169,27,7,184
+Bottle,Accessories,16576,228,23,1,18
+Oil,Grocery,4203,25,30,7,209
+Mouse,Electronics,17516,32,1,11,7
+Printer,Electronics,30243,0,10,14,143
+Milk,Grocery,46828,112,8,11,85
+Table,Furniture,18411,101,20,5,100
+Pen,Stationery,4966,165,8,5,39
+Printer,Electronics,31969,293,10,1,12
+Bottle,Accessories,5889,124,16,12,190
+Sugar,Grocery,30286,22,11,11,118
+Mouse,Electronics,32826,67,1,6,8
+Chair,Furniture,17972,212,20,9,180
+Notebook,Stationery,35095,54,21,1,21
+Mouse,Electronics,44723,6,25,6,155
+Soap,Personal Care,16812,241,4,13,51
+Pen,Stationery,44826,247,22,10,219
+Sugar,Grocery,7218,204,21,10,207
+Pen,Stationery,21925,270,27,6,164
+Printer,Electronics,12047,299,30,9,275
+Table,Furniture,42292,128,17,13,217
+Oil,Grocery,45174,166,27,10,270
+Headphones,Electronics,8606,32,23,5,116
+Notebook,Stationery,45068,9,9,12,107
+Monitor,Electronics,13506,167,8,13,106
+Bag,Fashion,28059,182,14,13,181
+Printer,Electronics,43500,123,9,11,94
+Bag,Fashion,48044,44,15,10,148
+Notebook,Stationery,12101,165,24,8,196
+Milk,Grocery,21978,201,7,12,82
+Table,Furniture,36906,22,3,14,43
+Notebook,Stationery,31024,63,3,10,28
+Bag,Fashion,40592,249,7,8,58
+Phone,Electronics,45182,8,15,5,71
+Bottle,Accessories,18688,123,21,1,18
+Bottle,Accessories,40755,65,6,2,16
+Laptop,Electronics,23679,55,13,8,108
+Sugar,Grocery,25770,279,11,14,159
+Chair,Furniture,39371,90,3,2,5
+Pen,Stationery,40004,145,18,6,105
+Sugar,Grocery,23507,259,28,6,166
+Sugar,Grocery,13214,33,6,10,55
+Chair,Furniture,29041,139,27,11,302
+Milk,Grocery,1083,243,8,2,16
+Keyboard,Electronics,44737,121,14,9,128
+Printer,Electronics,26563,121,12,3,36
+Chair,Furniture,4874,66,21,2,39
+Phone,Electronics,18502,176,27,8,220
+Notebook,Stationery,34950,220,5,12,58
+Shoes,Fashion,10448,203,10,12,119
+Table,Furniture,24095,100,1,8,8
+Printer,Electronics,29602,220,15,1,17
+Sugar,Grocery,6894,252,21,5,105
+Notebook,Stationery,17855,255,18,1,21
+Bag,Fashion,41067,196,15,15,226
+Chair,Furniture,35336,50,10,6,65
+Keyboard,Electronics,44172,107,7,15,109
+Headphones,Electronics,33348,75,27,4,104
+Mouse,Electronics,5188,75,27,12,320
+Chair,Furniture,8690,241,15,15,227
+Shoes,Fashion,33239,133,17,3,51
+Shoes,Fashion,45744,268,5,12,61
+Pen,Stationery,35218,252,24,10,236
+Shoes,Fashion,40215,59,16,8,128
+Milk,Grocery,20198,104,14,9,128
+Bag,Fashion,48145,242,22,8,171
+Notebook,Stationery,49515,256,20,1,24
+Printer,Electronics,37421,173,7,13,89
+Soap,Personal Care,26452,273,26,9,234
+Chair,Furniture,8383,290,1,12,7
+Chair,Furniture,37913,150,8,5,41
+Keyboard,Electronics,17316,143,8,1,11
+Shoes,Fashion,49342,105,15,5,75
+Sugar,Grocery,167,166,5,9,45
+Soap,Personal Care,14717,165,8,14,107
+Sugar,Grocery,26340,278,3,12,34
+Shoes,Fashion,9593,60,18,6,104
+Shampoo,Personal Care,30451,72,6,11,68
+Milk,Grocery,42982,41,6,4,27
+Table,Furniture,7845,235,27,15,409
+Printer,Electronics,46914,52,23,14,320
+Chair,Furniture,36687,95,5,8,40
+Chair,Furniture,31760,53,13,7,96
+Oil,Grocery,8850,294,24,8,188
+Soap,Personal Care,30724,251,11,14,150
+Headphones,Electronics,37648,134,24,4,95
+Soap,Personal Care,22120,289,2,13,29
+Notebook,Stationery,2517,38,3,5,20
+Mouse,Electronics,45837,143,12,5,62
+Headphones,Electronics,3853,28,16,4,65
+Chair,Furniture,34202,256,26,8,212
+Rice,Grocery,39573,246,16,7,113
+Chair,Furniture,46315,27,14,6,88
+Mouse,Electronics,18222,246,27,10,269
+Sugar,Grocery,30419,189,8,2,20
+Chair,Furniture,26581,101,30,5,153
+Keyboard,Electronics,34940,133,8,5,41
+Table,Furniture,31506,7,21,4,80
+Printer,Electronics,33480,108,16,5,76
+Headphones,Electronics,25601,206,12,10,119
+Soap,Personal Care,42691,117,5,7,32
+Table,Furniture,41373,144,16,8,133
+Printer,Electronics,2446,270,11,6,61
+Keyboard,Electronics,21511,136,3,15,41
+Mouse,Electronics,16613,138,7,9,66
+Pen,Stationery,16845,192,5,10,55
+Printer,Electronics,8026,170,14,10,138
+Printer,Electronics,44698,49,19,7,138
+Oil,Grocery,40997,137,8,15,125
+Phone,Electronics,1115,233,28,1,24
+Pen,Stationery,49032,81,14,14,199
+Soap,Personal Care,9494,68,6,7,37
+Chair,Furniture,40976,115,10,12,120
+Keyboard,Electronics,5444,240,16,3,44
+Shoes,Fashion,39175,18,8,3,27
+Monitor,Electronics,15139,9,21,3,61
+Notebook,Stationery,33446,196,21,15,315
+Oil,Grocery,34063,178,11,8,93
+Sugar,Grocery,36599,98,22,5,111
+Pen,Stationery,42731,127,10,15,155
+Bag,Fashion,30343,127,12,4,48
+Keyboard,Electronics,15199,43,15,10,147
+Rice,Grocery,28586,1,26,10,261
+Rice,Grocery,46348,286,21,4,79
+Sugar,Grocery,2649,115,11,11,119
+Oil,Grocery,24876,110,20,12,237
+Shoes,Fashion,36986,295,12,8,100
+Headphones,Electronics,23032,185,24,7,171
+Bottle,Accessories,42210,193,1,14,10
+Notebook,Stationery,20487,110,1,12,16
+Headphones,Electronics,33305,166,12,5,63
+Headphones,Electronics,41084,178,20,9,177
+Pen,Stationery,28887,148,25,10,255
+Bag,Fashion,39424,213,1,11,14
+Notebook,Stationery,45198,86,1,4,0
+Bottle,Accessories,41885,110,11,5,51
+Laptop,Electronics,15272,68,4,11,48
+Laptop,Electronics,23088,34,5,8,42
+Pen,Stationery,36977,261,16,8,126
+Shoes,Fashion,15038,70,2,3,11
+Printer,Electronics,7091,108,16,11,174
+Printer,Electronics,42415,88,27,11,294
+Headphones,Electronics,47160,58,28,15,424
+Keyboard,Electronics,42941,92,10,14,145
+Table,Furniture,36296,111,27,9,243
+Mouse,Electronics,38615,16,3,11,36
+Rice,Grocery,38442,78,27,14,379
+Phone,Electronics,30499,128,22,5,114
+Pen,Stationery,18314,138,16,5,85
+Printer,Electronics,32294,272,27,8,218
+Bottle,Accessories,21667,6,28,6,169
+Sugar,Grocery,46260,98,11,14,150
+Rice,Grocery,37028,267,3,12,38
+Shoes,Fashion,49318,22,23,10,234
+Bag,Fashion,29787,28,7,15,103
+Soap,Personal Care,21722,147,23,7,166
+Phone,Electronics,35925,113,28,3,80
+Laptop,Electronics,20033,117,21,8,169
+Milk,Grocery,32532,202,16,5,80
+Keyboard,Electronics,46492,264,3,12,41
+Oil,Grocery,49094,22,25,5,128
+Printer,Electronics,9873,286,26,6,160
+Sugar,Grocery,17139,227,20,1,20
+Chair,Furniture,43557,205,7,7,45
+Pen,Stationery,22597,145,25,3,74
+Keyboard,Electronics,17559,171,30,10,295
+Shampoo,Personal Care,31018,53,11,10,111
+Laptop,Electronics,37605,134,23,6,133
+Shampoo,Personal Care,12065,141,25,2,52
+Headphones,Electronics,40578,288,21,10,211
+Bag,Fashion,21271,180,8,7,61
+Shoes,Fashion,35026,270,25,5,126
+Chair,Furniture,18911,88,23,5,110
+Laptop,Electronics,14143,216,11,10,110
+Pen,Stationery,18434,5,28,8,219
+Shampoo,Personal Care,3316,289,16,5,85
+Soap,Personal Care,1939,240,11,4,43
+Bottle,Accessories,16872,201,29,3,89
+Shoes,Fashion,8648,86,19,13,252
+Mouse,Electronics,23895,300,20,7,142
+Chair,Furniture,19086,138,2,5,14
+Soap,Personal Care,41240,92,21,12,250
+Printer,Electronics,9472,223,6,7,43
+Chair,Furniture,13249,96,4,12,50
+Shoes,Fashion,49904,81,14,13,179
+Laptop,Electronics,43039,89,22,1,20
+Chair,Furniture,13833,266,1,13,9
+Laptop,Electronics,25563,136,19,6,116
+Bag,Fashion,28869,130,3,4,12
+Soap,Personal Care,2183,245,7,3,24
+Keyboard,Electronics,30817,91,22,3,69
+Bottle,Accessories,36958,206,1,1,0
+Notebook,Stationery,39000,136,28,15,425
+Mouse,Electronics,36886,286,19,1,14
+Chair,Furniture,3593,72,24,15,357
+Table,Furniture,37782,260,8,2,16
+Shampoo,Personal Care,14108,277,6,5,32
+Table,Furniture,48902,249,7,13,94
+Phone,Electronics,7461,174,14,11,155
+Laptop,Electronics,8102,262,29,12,343
+Pen,Stationery,29153,187,20,5,103
+Bottle,Accessories,130,179,15,13,199
+Laptop,Electronics,8452,165,7,6,43
+Milk,Grocery,23202,132,1,1,0
+Rice,Grocery,27658,246,30,12,360
+Mouse,Electronics,1485,227,27,6,166
+Headphones,Electronics,23575,151,23,8,189
+Bag,Fashion,23009,142,21,3,68
+Rice,Grocery,47031,164,9,12,103
+Pen,Stationery,26882,148,4,14,51
+Shoes,Fashion,39683,211,27,15,401
+Sugar,Grocery,14891,147,6,14,82
+Shampoo,Personal Care,33626,65,19,15,281
+Oil,Grocery,19231,195,27,8,213
+Shoes,Fashion,35187,143,12,11,137
+Notebook,Stationery,29402,234,4,3,8
+Pen,Stationery,7519,150,8,11,86
+Oil,Grocery,14271,42,4,13,48
+Monitor,Electronics,43999,59,19,2,37
+Sugar,Grocery,48551,104,25,7,173
+Monitor,Electronics,9011,233,13,10,126
+Monitor,Electronics,39502,210,20,15,305
+Monitor,Electronics,20018,51,12,14,168
+Rice,Grocery,41792,186,6,11,63
+Rice,Grocery,14366,219,2,5,13
+Mouse,Electronics,25916,233,8,2,16
+Keyboard,Electronics,6755,2,6,4,19
+Monitor,Electronics,21824,114,15,8,119
+Keyboard,Electronics,46290,161,30,15,445
+Table,Furniture,3870,259,14,1,19
+Printer,Electronics,29674,245,24,2,49
+Shoes,Fashion,42071,0,3,3,5
+Shampoo,Personal Care,44631,64,16,6,97
+Pen,Stationery,35243,270,28,2,57
+Printer,Electronics,35354,162,28,15,423
+Milk,Grocery,43993,169,18,9,167
+Bag,Fashion,10229,195,11,10,113
+Keyboard,Electronics,27065,279,5,2,11
+Bottle,Accessories,9941,258,2,4,11
+Laptop,Electronics,3171,64,26,4,106
+Oil,Grocery,36653,122,21,9,190
+Shampoo,Personal Care,40894,178,3,10,26
+Laptop,Electronics,791,8,10,9,87
+Monitor,Electronics,45025,105,29,11,317
+Pen,Stationery,47010,290,2,4,7
+Bag,Fashion,2034,26,22,5,115
+Rice,Grocery,23827,174,26,3,83
+Sugar,Grocery,3793,35,14,9,126
+Pen,Stationery,36716,98,14,1,18
+Table,Furniture,39200,208,11,2,19
+Notebook,Stationery,36811,63,15,6,91
+Pen,Stationery,23224,15,16,15,235
+Laptop,Electronics,5914,228,12,9,106
+Mouse,Electronics,3492,100,1,11,6
+Bottle,Accessories,21846,15,13,1,15
+Bag,Fashion,23252,281,11,10,105
+Bag,Fashion,36538,110,2,8,19
+Rice,Grocery,34017,40,25,12,304
+Laptop,Electronics,24028,9,2,12,20
+Oil,Grocery,44050,67,7,2,13
+Bottle,Accessories,5635,28,5,10,51
+Milk,Grocery,7944,14,22,8,173
+Milk,Grocery,29376,208,18,12,215
+Mouse,Electronics,32021,249,18,5,93
+Sugar,Grocery,16268,184,4,8,28
+Keyboard,Electronics,38254,187,10,7,70
+Monitor,Electronics,35099,291,2,2,1
+Headphones,Electronics,36036,112,24,7,169
+Laptop,Electronics,38057,174,17,6,104
+Table,Furniture,16460,185,10,1,10
+Chair,Furniture,1832,161,29,3,92
+Monitor,Electronics,16305,177,19,10,191
+Bottle,Accessories,30298,86,23,10,226
+Printer,Electronics,13162,83,14,10,140
+Bottle,Accessories,26873,94,28,9,253
+Milk,Grocery,20004,138,12,12,139
+Oil,Grocery,31885,81,24,12,293
+Notebook,Stationery,10160,74,15,14,210
+Soap,Personal Care,4630,122,27,10,273
+Notebook,Stationery,8219,247,13,15,196
+Printer,Electronics,45094,222,10,11,114
+Milk,Grocery,46727,224,20,4,81
+Bag,Fashion,21145,214,28,10,285
+Shampoo,Personal Care,12308,53,17,9,149
+Table,Furniture,7973,35,2,6,11
+Chair,Furniture,33142,240,4,10,38
+Soap,Personal Care,39431,96,22,3,64
+Sugar,Grocery,33780,132,28,10,276
+Chair,Furniture,13498,299,17,12,202
+Laptop,Electronics,21287,29,2,4,13
+Mouse,Electronics,17448,266,17,8,134
+Sugar,Grocery,27175,51,23,1,27
+Soap,Personal Care,45110,88,15,2,29
+Keyboard,Electronics,46492,92,22,5,114
+Printer,Electronics,34739,52,17,1,21
+Notebook,Stationery,1849,223,4,3,10
+Bag,Fashion,20910,278,19,5,91
+Rice,Grocery,21834,188,15,11,168
+Bottle,Accessories,37857,154,27,6,166
+Phone,Electronics,45319,77,6,13,78
+Bottle,Accessories,31054,175,19,7,129
+Phone,Electronics,38335,81,9,14,123
+Pen,Stationery,30027,40,28,5,145
+Headphones,Electronics,15591,213,20,13,261
+Monitor,Electronics,22707,251,15,8,121
+Keyboard,Electronics,49434,184,10,15,145
+Mouse,Electronics,31263,6,11,13,138
+Sugar,Grocery,5557,263,8,11,89
+Monitor,Electronics,35424,268,20,10,195
+Rice,Grocery,34889,18,6,8,52
+Rice,Grocery,48262,224,18,10,181
+Laptop,Electronics,10635,166,29,2,53
+Phone,Electronics,23091,146,26,10,259
+Sugar,Grocery,46028,3,26,15,386
+Bag,Fashion,19648,243,24,10,236
+Laptop,Electronics,49329,144,12,15,180
+Notebook,Stationery,43466,157,13,6,73
+Keyboard,Electronics,12010,136,5,13,61
+Phone,Electronics,40366,129,8,4,37
+Chair,Furniture,30256,159,9,8,70
+Rice,Grocery,22554,221,13,12,158
+Shampoo,Personal Care,28691,206,13,3,34
+Phone,Electronics,46001,25,21,5,109
+Monitor,Electronics,35345,15,4,3,10
+Shampoo,Personal Care,21682,161,26,8,213
+Rice,Grocery,16054,169,13,10,129
+Notebook,Stationery,9883,6,26,1,29
+Keyboard,Electronics,33740,265,11,14,158
+Monitor,Electronics,23310,124,9,4,39
+Bag,Fashion,24970,99,1,15,14
+Monitor,Electronics,1067,92,7,5,31
+Oil,Grocery,27376,300,22,3,71
+Milk,Grocery,4880,70,6,12,68
+Headphones,Electronics,10927,296,15,3,40
+Monitor,Electronics,25519,111,28,13,368
+Notebook,Stationery,25542,94,12,8,100
+Bottle,Accessories,20559,208,21,1,19
+Soap,Personal Care,37703,124,13,10,129
+Chair,Furniture,8809,230,25,3,72
+Shoes,Fashion,43268,289,3,5,16
+Sugar,Grocery,10453,145,9,7,67
+Bag,Fashion,4943,64,19,15,284
+Oil,Grocery,7769,117,11,5,52
+Printer,Electronics,10355,150,3,11,29
+Headphones,Electronics,22731,214,23,9,209
+Phone,Electronics,31207,165,2,7,19
+Printer,Electronics,42890,252,14,8,116
+Bottle,Accessories,32712,246,19,1,22
+Pen,Stationery,45401,274,11,11,124
+Notebook,Stationery,11208,81,24,12,287
+Bottle,Accessories,22660,185,3,3,4
+Printer,Electronics,41706,172,1,9,7
+Shampoo,Personal Care,11013,184,20,12,237
+Laptop,Electronics,24218,254,20,3,59
+Oil,Grocery,40473,199,19,2,40
+Keyboard,Electronics,31419,169,29,2,63
+Notebook,Stationery,1016,72,1,15,18
+Mouse,Electronics,47029,216,10,8,75
+Soap,Personal Care,44589,300,25,1,23
+Milk,Grocery,12357,215,4,6,24
+Pen,Stationery,21889,111,15,15,223
+Soap,Personal Care,23787,200,20,8,161
+Shampoo,Personal Care,20053,129,25,1,30
+Rice,Grocery,36025,294,26,7,184
+Keyboard,Electronics,46155,116,18,6,105
+Soap,Personal Care,45714,281,26,15,387
+Sugar,Grocery,8644,271,21,7,148
+Oil,Grocery,24958,28,18,6,111
+Mouse,Electronics,41216,211,23,9,204
+Rice,Grocery,1154,150,9,5,43
+Mouse,Electronics,38249,158,11,11,124
+Laptop,Electronics,17551,192,22,5,111
+Printer,Electronics,16663,93,14,14,199
+Phone,Electronics,11552,136,26,12,312
+Bag,Fashion,47296,242,1,11,12
+Shoes,Fashion,8100,134,5,1,8
+Phone,Electronics,23522,106,29,12,352
+Bag,Fashion,20856,160,21,5,101
+Mouse,Electronics,42629,130,30,11,332
+Bottle,Accessories,39149,272,20,3,61
+Soap,Personal Care,34324,104,6,13,83
+Mouse,Electronics,42850,58,9,6,53
+Milk,Grocery,36785,43,19,5,98
+Rice,Grocery,32371,172,28,4,114
+Table,Furniture,20924,139,25,10,255
+Table,Furniture,25492,257,8,14,116
+Table,Furniture,41451,6,24,9,211
+Shampoo,Personal Care,28389,86,1,5,8
+Table,Furniture,3166,22,29,2,62
+Milk,Grocery,29060,215,16,5,77
+Shoes,Fashion,6889,266,12,2,27
+Mouse,Electronics,30456,141,3,14,41
+Laptop,Electronics,44003,299,28,13,368
+Laptop,Electronics,28146,241,3,15,42
+Oil,Grocery,14392,84,15,13,192
+Sugar,Grocery,33009,200,13,2,26
+Bag,Fashion,107,288,6,3,18
+Mouse,Electronics,26529,276,21,11,236
+Bag,Fashion,17874,176,2,7,18
+Shoes,Fashion,16665,257,3,15,46
+Monitor,Electronics,48792,116,8,13,105
+Mouse,Electronics,14229,184,6,13,74
+Monitor,Electronics,3299,287,22,6,127
+Mouse,Electronics,37804,164,17,9,151
+Oil,Grocery,530,257,24,1,29
+Laptop,Electronics,23999,163,29,9,256
+Pen,Stationery,47250,108,21,12,251
+Rice,Grocery,29238,209,16,12,187
+Rice,Grocery,9171,81,2,3,5
+Rice,Grocery,4636,58,11,12,133
+Table,Furniture,19138,204,15,3,50
+Shoes,Fashion,28784,296,27,10,270
+Table,Furniture,25354,226,7,2,14
+Oil,Grocery,30471,56,13,8,106
+Oil,Grocery,8356,4,10,4,40
+Laptop,Electronics,41442,6,20,14,279
+Rice,Grocery,24182,37,2,15,33
+Printer,Electronics,30120,121,13,7,90
+Headphones,Electronics,10075,181,12,6,70
+Shampoo,Personal Care,13141,94,29,6,174
+Bottle,Accessories,22655,110,14,6,83
+Monitor,Electronics,7829,172,29,1,24
+Bag,Fashion,34728,290,24,2,52
+Pen,Stationery,31453,271,1,11,11
+Bottle,Accessories,19246,58,6,13,73
+Notebook,Stationery,22856,265,17,8,138
+Pen,Stationery,30012,94,23,10,228
+Shoes,Fashion,36362,63,14,5,66
+Phone,Electronics,824,189,8,3,24
+Table,Furniture,31630,252,18,7,122
+Soap,Personal Care,41945,9,27,13,356
+Printer,Electronics,18784,240,14,14,196
+Pen,Stationery,49744,19,18,4,67
+Milk,Grocery,30806,264,16,13,205
+Keyboard,Electronics,40919,6,8,9,68
+Oil,Grocery,25317,69,26,11,284
+Shampoo,Personal Care,12306,80,15,2,32
+Printer,Electronics,5251,96,26,3,83
+Shoes,Fashion,21270,271,20,9,180
+Chair,Furniture,41669,67,12,14,163
+Table,Furniture,9715,217,22,12,262
+Sugar,Grocery,17297,245,28,15,417
+Shampoo,Personal Care,46138,288,1,12,14
+Pen,Stationery,16043,129,26,10,265
+Soap,Personal Care,25311,95,17,8,133
+Pen,Stationery,32256,161,18,4,75
+Phone,Electronics,46971,150,14,6,80
+Printer,Electronics,38052,86,23,4,93
+Table,Furniture,34413,27,14,8,108
+Bottle,Accessories,18390,14,25,13,323
+Keyboard,Electronics,45653,176,9,2,21
+Notebook,Stationery,41392,59,18,1,19
+Phone,Electronics,16628,102,18,10,178
+Rice,Grocery,28720,81,8,8,66
+Shoes,Fashion,15071,224,9,8,72
+Shampoo,Personal Care,46343,126,6,4,22
+Sugar,Grocery,15794,136,5,3,17
+Milk,Grocery,11072,214,21,12,253
+Rice,Grocery,42217,238,3,4,8
+Table,Furniture,23097,256,3,9,26
+Notebook,Stationery,25524,242,17,2,35
+Keyboard,Electronics,31501,152,16,3,44
+Sugar,Grocery,16192,249,8,12,95
+Keyboard,Electronics,27914,157,17,7,124
+Chair,Furniture,6141,284,5,8,43
+Shoes,Fashion,27952,87,20,14,277
+Milk,Grocery,45951,296,6,3,13
+Milk,Grocery,20373,116,19,12,233
+Soap,Personal Care,32866,134,9,9,78
+Keyboard,Electronics,48059,205,6,7,38
+Rice,Grocery,28207,142,19,15,287
+Monitor,Electronics,27635,150,8,14,116
+Oil,Grocery,16772,24,16,4,59
+Printer,Electronics,40821,289,19,6,115
+Pen,Stationery,14739,86,5,10,50
+Phone,Electronics,6166,257,4,5,23
+Pen,Stationery,47310,43,13,15,194
+Notebook,Stationery,3171,241,10,13,126
+Printer,Electronics,39106,44,10,9,90
+Printer,Electronics,35470,183,23,8,180
+Laptop,Electronics,30699,93,30,1,26
+Notebook,Stationery,5883,117,15,7,108
+Bag,Fashion,28154,73,6,6,38
+Phone,Electronics,13521,300,30,2,55
+Mouse,Electronics,24468,237,13,5,67
+Mouse,Electronics,11395,123,14,12,167
+Notebook,Stationery,43071,283,5,13,67
+Pen,Stationery,5894,44,6,14,87
+Table,Furniture,2201,257,17,2,30
+Milk,Grocery,23295,11,28,7,196
+Soap,Personal Care,13885,244,16,3,49
+Bag,Fashion,29663,177,27,11,299
+Headphones,Electronics,25125,215,30,11,333
+Milk,Grocery,17599,182,7,11,74
+Headphones,Electronics,25643,200,25,1,24
+Shampoo,Personal Care,30201,299,22,13,282
+Table,Furniture,28231,202,30,1,27
+Shoes,Fashion,47679,297,11,12,137
+Shoes,Fashion,40496,151,25,11,272
+Phone,Electronics,23277,80,25,14,349
+Rice,Grocery,29462,300,13,13,174
+Soap,Personal Care,20159,160,4,10,40
+Notebook,Stationery,16322,168,18,2,41
+Table,Furniture,46129,180,19,10,190
+Sugar,Grocery,40864,36,6,1,9
+Sugar,Grocery,14394,242,3,3,14
+Keyboard,Electronics,36486,112,15,3,44
+Laptop,Electronics,7405,110,18,10,177
+Soap,Personal Care,31453,198,11,7,81
+Laptop,Electronics,15589,55,18,9,163
+Laptop,Electronics,6747,212,15,9,131
+Rice,Grocery,19272,54,10,11,106
+Laptop,Electronics,27919,67,21,5,109
+Soap,Personal Care,23127,235,29,12,347
+Oil,Grocery,14689,272,16,2,32
+Headphones,Electronics,41173,144,26,14,359
+Monitor,Electronics,5225,74,23,1,27
+Shampoo,Personal Care,34816,280,21,3,68
+Milk,Grocery,24982,184,1,1,0
+Phone,Electronics,17818,71,22,8,180
+Notebook,Stationery,27932,47,3,7,16
+Milk,Grocery,35040,288,24,7,163
+Soap,Personal Care,26083,99,30,12,356
+Table,Furniture,11838,147,21,15,319
+Mouse,Electronics,42434,248,3,2,7
+Milk,Grocery,46788,268,19,13,243
+Oil,Grocery,30716,14,20,4,78
+Chair,Furniture,3127,54,29,14,410
+Pen,Stationery,20515,233,10,8,81
+Oil,Grocery,48908,144,25,14,351
+Headphones,Electronics,24914,11,27,9,239
+Milk,Grocery,18413,243,7,15,104
+Pen,Stationery,5120,19,18,13,235
+Printer,Electronics,44034,196,17,3,49
+Sugar,Grocery,826,134,13,5,65
+Sugar,Grocery,4241,272,29,7,201
+Oil,Grocery,33206,200,22,14,307
+Sugar,Grocery,31923,151,27,6,158
+Monitor,Electronics,34826,46,12,7,88
+Monitor,Electronics,26006,117,16,5,82
+Bag,Fashion,31859,199,20,3,64
+Laptop,Electronics,45825,13,30,14,425
+Bag,Fashion,5399,291,3,11,30
+Printer,Electronics,31780,12,3,7,18
+Bottle,Accessories,8528,100,4,14,60
+Soap,Personal Care,33727,296,13,14,185
+Bag,Fashion,18348,4,4,9,33
+Sugar,Grocery,46410,169,9,10,93
+Notebook,Stationery,14004,17,17,14,234
+Chair,Furniture,41370,16,6,15,87
+Shoes,Fashion,31798,194,18,13,239
+Chair,Furniture,31775,138,15,2,30
+Rice,Grocery,36261,118,3,11,28
+Notebook,Stationery,33544,196,16,3,47
+Soap,Personal Care,47125,287,14,7,102
+Shampoo,Personal Care,18220,64,26,1,29
+Rice,Grocery,13931,245,15,7,104
+Table,Furniture,39036,276,23,10,230
+Oil,Grocery,5670,50,3,6,13
+Bag,Fashion,45917,123,26,6,159
+Bottle,Accessories,49253,81,26,2,50
+Chair,Furniture,36017,140,15,11,164
+Phone,Electronics,25910,295,25,11,274
+Soap,Personal Care,37958,38,26,15,386
+Table,Furniture,17339,130,15,8,118
+Sugar,Grocery,36861,59,24,14,339
+Sugar,Grocery,15021,212,7,10,70
+Oil,Grocery,34199,137,8,6,44
+Pen,Stationery,7040,6,16,6,98
+Bag,Fashion,21580,48,13,6,81
+Headphones,Electronics,5522,18,25,2,51
+Printer,Electronics,46110,258,6,11,61
+Oil,Grocery,11456,258,12,1,11
+Monitor,Electronics,49040,226,28,12,335
+Keyboard,Electronics,6652,132,20,14,285
+Table,Furniture,7129,173,22,8,177
+Table,Furniture,7598,10,28,9,250
+Notebook,Stationery,45713,36,8,8,62
+Monitor,Electronics,38150,123,1,15,15
+Chair,Furniture,14912,122,19,1,14
+Printer,Electronics,7489,41,30,10,303
+Keyboard,Electronics,20636,99,15,4,65
+Oil,Grocery,17700,184,28,7,201
+Soap,Personal Care,29375,123,3,15,40
+Pen,Stationery,44372,134,23,13,294
+Headphones,Electronics,26433,138,28,5,141
+Table,Furniture,25804,93,15,5,77
+Milk,Grocery,11318,119,14,4,54
+Bottle,Accessories,40559,188,6,15,88
+Phone,Electronics,5982,170,26,15,390
+Phone,Electronics,19310,157,17,5,86
+Shampoo,Personal Care,18236,111,25,1,30
+Printer,Electronics,29443,271,17,14,237
+Rice,Grocery,18333,66,12,10,125
+Sugar,Grocery,43579,240,17,10,166
+Oil,Grocery,11941,167,24,7,168
+Laptop,Electronics,33727,39,23,13,297
+Bag,Fashion,17933,114,14,1,16
+Oil,Grocery,23913,15,17,1,21
+Chair,Furniture,13070,162,14,7,93
+Headphones,Electronics,7278,131,30,3,85
+Laptop,Electronics,3075,31,22,10,223
+Milk,Grocery,20458,114,14,7,97
+Laptop,Electronics,1922,165,6,4,29
+Rice,Grocery,10175,39,16,4,65
+Keyboard,Electronics,42265,293,30,5,154
+Rice,Grocery,36668,257,28,7,199
+Keyboard,Electronics,3909,279,8,8,69
+Chair,Furniture,28057,201,19,15,287
+Bag,Fashion,49170,61,12,14,163
+Phone,Electronics,10211,167,20,14,279
+Monitor,Electronics,25420,166,20,8,155
+Chair,Furniture,48010,146,29,14,410
+Shampoo,Personal Care,40717,176,20,9,182
+Milk,Grocery,15950,265,7,14,96
+Sugar,Grocery,16338,280,6,5,26
+Sugar,Grocery,42141,201,22,13,291
+Bag,Fashion,18114,203,17,1,13
+Phone,Electronics,20012,81,4,1,3
+Notebook,Stationery,5512,28,20,1,24
+Shoes,Fashion,33559,73,10,12,120
+Bottle,Accessories,9013,7,8,15,124
+Phone,Electronics,18764,248,16,14,222
+Soap,Personal Care,12236,104,30,7,210
+Soap,Personal Care,13507,249,9,1,4
+Pen,Stationery,29173,219,19,3,56
+Bag,Fashion,1434,190,24,6,148
+Bottle,Accessories,10102,236,26,10,262
+Milk,Grocery,44262,158,15,9,135
+Shampoo,Personal Care,17446,171,26,4,102
+Rice,Grocery,26655,261,11,4,43
+Headphones,Electronics,17473,297,12,8,97
+Table,Furniture,21487,171,10,13,133
+Chair,Furniture,5581,129,1,3,2
+Notebook,Stationery,3562,25,11,13,140
+Pen,Stationery,18600,30,16,6,93
+Monitor,Electronics,24674,238,19,15,287
+Sugar,Grocery,11040,114,30,8,236
+Shampoo,Personal Care,30743,113,25,5,128
+Notebook,Stationery,19651,52,5,13,63
+Bag,Fashion,1953,3,17,9,148
+Pen,Stationery,25924,89,11,14,155
+Keyboard,Electronics,36110,111,6,1,1
+Headphones,Electronics,22152,115,13,2,23
+Notebook,Stationery,32500,60,23,4,97
+Notebook,Stationery,19614,110,16,3,46
+Pen,Stationery,32832,150,10,9,86
+Notebook,Stationery,39137,185,20,5,104
+Sugar,Grocery,42059,137,11,2,24
+Soap,Personal Care,36322,135,13,14,179
+Sugar,Grocery,33173,174,29,10,292
+Pen,Stationery,26609,165,9,5,50
+Monitor,Electronics,6219,282,15,15,223
+Phone,Electronics,5204,212,8,5,44
+Pen,Stationery,24881,50,8,5,38
+Bag,Fashion,13728,153,24,9,214
+Milk,Grocery,16956,117,28,13,364
+Chair,Furniture,8562,4,1,1,0
+Keyboard,Electronics,16516,41,3,5,19
+Soap,Personal Care,31728,39,20,15,296
+Headphones,Electronics,4694,170,1,13,16
+Printer,Electronics,28781,143,16,8,130
+Soap,Personal Care,24453,37,24,12,288
+Pen,Stationery,43564,140,11,1,13
+Bag,Fashion,29664,120,29,7,206
+Soap,Personal Care,41858,70,26,2,55
+Rice,Grocery,10450,143,1,7,8
+Headphones,Electronics,15719,200,2,2,1
+Milk,Grocery,28429,199,3,14,43
+Table,Furniture,45529,124,16,3,53
+Table,Furniture,49805,157,11,1,8
+Oil,Grocery,11218,296,25,10,254
+Milk,Grocery,37174,124,11,13,147
+Soap,Personal Care,39747,85,14,2,28
+Printer,Electronics,24271,80,12,9,110
+Soap,Personal Care,44614,57,6,11,63
+Laptop,Electronics,47762,32,16,8,124
+Mouse,Electronics,12156,259,26,8,209
+Chair,Furniture,8829,26,22,11,244
+Bag,Fashion,48501,107,29,3,89
+Mouse,Electronics,21657,53,29,14,403
+Notebook,Stationery,25279,165,10,9,93
+Shampoo,Personal Care,20806,167,18,5,87
+Bottle,Accessories,4505,201,12,9,103
+Table,Furniture,10706,210,30,2,60
+Monitor,Electronics,45799,291,14,8,109
+Pen,Stationery,30936,34,28,5,138
+Rice,Grocery,6165,205,9,14,131
+Printer,Electronics,8199,230,9,14,131
+Printer,Electronics,3785,170,3,10,25
+Shampoo,Personal Care,2302,136,28,7,196
+Milk,Grocery,2628,50,25,6,154
+Laptop,Electronics,12412,162,2,11,26
+Shoes,Fashion,31333,269,12,1,11
+Soap,Personal Care,12917,293,19,1,23
+Table,Furniture,26389,218,29,14,405
+Rice,Grocery,42438,237,6,7,43
+Shoes,Fashion,13805,71,5,4,24
+Notebook,Stationery,13243,66,8,14,108
+Rice,Grocery,10317,30,24,14,341
+Oil,Grocery,49680,172,30,3,90
+Laptop,Electronics,528,96,6,14,89
+Printer,Electronics,26371,107,11,6,65
+Milk,Grocery,33450,72,27,13,348
+Bag,Fashion,29972,143,28,3,84
+Laptop,Electronics,38961,5,23,7,156
+Oil,Grocery,34639,220,24,15,364
+Printer,Electronics,33922,262,18,11,194
+Table,Furniture,36275,277,17,10,170
+Laptop,Electronics,17288,161,30,2,55
+Shampoo,Personal Care,27580,228,21,10,212
+Shampoo,Personal Care,47937,259,23,14,322
+Monitor,Electronics,36488,181,2,1,0
+Phone,Electronics,40863,294,3,2,1
+Keyboard,Electronics,20186,87,8,15,120
+Bottle,Accessories,3758,253,12,3,34
+Shoes,Fashion,29590,80,17,6,107
+Rice,Grocery,34566,63,25,5,125
+Shampoo,Personal Care,6131,284,26,9,231
+Bottle,Accessories,24872,30,5,11,57
+Sugar,Grocery,6123,247,18,15,273
+Table,Furniture,17474,132,23,1,20
+Pen,Stationery,37103,175,22,5,110
+Phone,Electronics,2430,191,26,6,156
+Monitor,Electronics,15169,168,28,6,169
+Keyboard,Electronics,37622,112,21,10,215
+Oil,Grocery,26989,158,3,14,42
+Printer,Electronics,9484,100,8,8,69
+Milk,Grocery,30689,40,24,2,45
+Bottle,Accessories,7433,286,7,15,103
+Laptop,Electronics,37961,240,10,5,46
+Rice,Grocery,589,163,15,14,210
+Notebook,Stationery,34224,103,28,10,278
+Keyboard,Electronics,8534,191,10,5,55
+Headphones,Electronics,36592,203,5,11,55
+Oil,Grocery,30621,117,17,13,219
+Notebook,Stationery,37525,262,18,13,238
+Printer,Electronics,31548,59,20,8,162
+Milk,Grocery,7650,162,26,10,262
+Phone,Electronics,33637,195,18,5,95
+Monitor,Electronics,18181,173,23,9,209
+Monitor,Electronics,47724,205,8,1,5
+Shampoo,Personal Care,15683,4,9,9,81
+Notebook,Stationery,33583,18,7,10,75
+Bag,Fashion,38211,131,16,3,50
+Bag,Fashion,30890,222,15,5,76
+Shampoo,Personal Care,25327,59,17,7,117
+Pen,Stationery,9122,17,23,1,26
+Monitor,Electronics,12106,223,22,8,174
+Printer,Electronics,27451,220,30,14,417
+Shampoo,Personal Care,17508,240,10,3,33
+Shoes,Fashion,9589,89,8,4,36
+Milk,Grocery,36866,183,21,8,172
+Oil,Grocery,36601,143,18,3,57
+Monitor,Electronics,16416,260,4,10,40
+Bottle,Accessories,29557,39,22,3,62
+Notebook,Stationery,21135,65,4,4,18
+Bottle,Accessories,13404,284,16,10,162
+Milk,Grocery,38557,174,21,15,316
+Pen,Stationery,20954,172,8,2,18
+Phone,Electronics,43121,249,15,8,116
+Laptop,Electronics,15939,88,1,7,12
+Bag,Fashion,46242,214,11,8,92
+Monitor,Electronics,22382,269,17,7,118
+Monitor,Electronics,18098,187,30,5,146
+Soap,Personal Care,11756,111,8,6,44
+Mouse,Electronics,19059,251,5,8,38
+Phone,Electronics,33400,36,24,10,243
+Soap,Personal Care,2573,255,27,4,113
+Milk,Grocery,30202,296,26,12,309
+Headphones,Electronics,43438,76,23,5,118
+Milk,Grocery,12929,134,18,11,199
+Monitor,Electronics,16876,25,16,11,175
+Shoes,Fashion,6021,232,25,13,320
+Phone,Electronics,518,55,4,1,4
+Printer,Electronics,4664,264,22,6,129
+Sugar,Grocery,144,117,11,4,44
+Shampoo,Personal Care,6320,50,8,14,110
+Keyboard,Electronics,3605,47,19,4,74
+Chair,Furniture,30118,171,10,13,132
+Pen,Stationery,36718,214,13,8,99
+Notebook,Stationery,23747,195,16,6,94
+Laptop,Electronics,35595,206,16,5,76
+Oil,Grocery,42428,77,15,13,194
+Sugar,Grocery,23064,238,7,11,77
+Table,Furniture,40885,223,25,7,177
+Milk,Grocery,16082,283,13,13,171
+Chair,Furniture,23828,32,4,13,47
+Shampoo,Personal Care,44777,254,23,1,24
+Milk,Grocery,49966,287,30,3,87
+Rice,Grocery,16999,190,30,4,122
+Soap,Personal Care,39503,36,22,4,87
+Oil,Grocery,13860,149,18,1,20
+Bag,Fashion,44474,218,24,12,285
+Chair,Furniture,21417,150,10,11,108
+Chair,Furniture,42779,283,2,15,30
+Phone,Electronics,35752,84,27,15,409
+Shoes,Fashion,22657,95,25,4,100
+Pen,Stationery,43248,171,7,5,39
+Keyboard,Electronics,47887,231,19,5,98
+Soap,Personal Care,4209,109,24,3,68
+Shoes,Fashion,35414,119,12,11,134
+Headphones,Electronics,34703,12,25,11,275
+Pen,Stationery,5179,6,19,8,156
+Rice,Grocery,4368,74,15,4,59
+Mouse,Electronics,46457,140,11,5,54
+Bottle,Accessories,2361,49,24,4,95
+Mouse,Electronics,28550,115,24,7,171
+Milk,Grocery,25597,65,14,10,138
+Soap,Personal Care,1497,184,26,1,30
+Table,Furniture,3380,225,8,8,63
+Printer,Electronics,19993,288,5,12,57
+Laptop,Electronics,41446,238,14,12,169
+Headphones,Electronics,43871,281,26,5,127
+Notebook,Stationery,16288,81,29,11,315
+Shoes,Fashion,18996,156,24,3,74
+Printer,Electronics,3249,253,26,1,22
+Mouse,Electronics,6273,149,17,1,12
+Shampoo,Personal Care,46865,176,18,15,267
+Bottle,Accessories,14773,248,9,14,122
+Keyboard,Electronics,9983,3,5,6,26
+Milk,Grocery,19085,122,15,10,152
+Monitor,Electronics,13123,67,10,7,66
+Chair,Furniture,3994,220,29,3,82
+Table,Furniture,8687,59,11,14,157
+Table,Furniture,543,133,23,6,139
+Chair,Furniture,22928,80,2,14,28
+Shampoo,Personal Care,46935,153,13,2,30
+Shampoo,Personal Care,22533,193,21,8,167
+Rice,Grocery,15383,209,19,4,81
+Notebook,Stationery,46424,154,2,2,0
+Bottle,Accessories,2095,282,7,12,85
+Shampoo,Personal Care,32497,47,13,10,132
+Table,Furniture,43973,262,7,4,23
+Pen,Stationery,33894,187,1,14,14
+Shampoo,Personal Care,10273,128,26,15,395
+Table,Furniture,4031,297,15,7,110
+Monitor,Electronics,41919,159,12,1,11
+Oil,Grocery,49935,133,17,3,46
+Headphones,Electronics,20974,58,4,2,13
+Table,Furniture,36267,256,29,9,259
+Soap,Personal Care,13284,261,28,3,79
+Phone,Electronics,14443,18,4,14,60
+Pen,Stationery,24859,244,1,13,9
+Shoes,Fashion,1648,112,12,8,91
+Shampoo,Personal Care,22162,245,4,1,1
+Oil,Grocery,3968,65,30,12,359
+Oil,Grocery,26378,4,3,7,18
+Keyboard,Electronics,45724,166,8,14,109
+Printer,Electronics,9035,150,1,15,19
+Milk,Grocery,26423,264,2,9,13
+Notebook,Stationery,39118,79,12,12,143
+Sugar,Grocery,44002,270,24,14,336
+Bottle,Accessories,20110,278,17,7,121
+Shampoo,Personal Care,13089,88,10,9,90
+Headphones,Electronics,3259,60,28,11,308
+Monitor,Electronics,38226,266,6,8,50
+Soap,Personal Care,12713,80,1,8,4
+Oil,Grocery,14301,126,8,6,50
+Sugar,Grocery,32456,248,14,13,180
+Headphones,Electronics,49432,131,15,6,91
+Printer,Electronics,23133,180,21,3,68
+Laptop,Electronics,25694,155,10,10,100
+Milk,Grocery,9059,49,14,10,143
+Mouse,Electronics,33140,263,17,5,90
+Phone,Electronics,747,205,22,14,304
+Oil,Grocery,12121,240,17,12,208
+Soap,Personal Care,46802,155,25,14,355
+Keyboard,Electronics,19472,21,13,12,155
+Phone,Electronics,28858,280,18,8,142
+Headphones,Electronics,28689,25,5,12,55
+Shampoo,Personal Care,30798,67,5,11,57
+Printer,Electronics,22989,255,9,2,21
+Chair,Furniture,48732,243,8,4,28
+Monitor,Electronics,3108,132,20,5,96
+Notebook,Stationery,18570,68,17,10,173
+Sugar,Grocery,22636,214,15,13,195
+Chair,Furniture,1553,270,19,6,109
+Oil,Grocery,48076,222,28,6,169
+Phone,Electronics,30131,137,2,9,18
+Keyboard,Electronics,8103,165,29,7,200
+Phone,Electronics,34786,239,9,13,122
+Chair,Furniture,29408,279,3,11,32
+Bag,Fashion,36339,252,3,11,37
+Monitor,Electronics,2478,90,28,15,419
+Rice,Grocery,46003,153,16,4,63
+Pen,Stationery,46690,19,26,9,234
+Sugar,Grocery,31094,170,17,5,82
+Chair,Furniture,30938,123,12,14,165
+Notebook,Stationery,45589,3,26,5,125
+Rice,Grocery,2149,218,11,6,62
+Chair,Furniture,13998,20,27,6,163
+Soap,Personal Care,26229,191,18,11,194
+Rice,Grocery,23518,123,13,14,183
+Phone,Electronics,13611,165,30,4,120
+Milk,Grocery,34332,244,6,13,77
+Bottle,Accessories,17342,245,22,3,70
+Phone,Electronics,14711,155,28,13,362
+Bottle,Accessories,22713,178,25,6,153
+Soap,Personal Care,35049,122,4,11,44
+Printer,Electronics,3468,169,17,2,32
+Bag,Fashion,46417,157,30,2,55
+Milk,Grocery,31040,129,21,10,208
+Soap,Personal Care,24497,134,25,15,375
+Headphones,Electronics,13610,21,8,1,5
+Mouse,Electronics,41717,300,23,2,49
+Oil,Grocery,26444,99,16,7,113
+Headphones,Electronics,26877,118,16,2,33
+Table,Furniture,13895,172,13,5,63
+Shoes,Fashion,9613,187,20,4,79
+Sugar,Grocery,31665,191,22,1,22
+Bag,Fashion,36070,292,20,12,243
+Table,Furniture,21896,186,15,8,120
+Bottle,Accessories,40857,193,2,7,15
+Sugar,Grocery,17072,119,11,11,117
+Table,Furniture,45326,96,8,1,10
+Sugar,Grocery,45240,92,30,12,357
+Headphones,Electronics,7096,22,23,5,110
+Bag,Fashion,22577,149,3,8,28
+Milk,Grocery,19002,142,1,2,0
+Milk,Grocery,35984,227,11,3,30
+Printer,Electronics,49402,6,13,4,50
+Keyboard,Electronics,35079,76,3,12,33
+Chair,Furniture,2566,73,24,1,22
+Table,Furniture,6228,300,4,11,42
+Printer,Electronics,1499,24,9,5,43
+Oil,Grocery,35323,193,2,4,7
+Headphones,Electronics,3849,209,3,12,34
+Pen,Stationery,13541,233,17,6,107
+Soap,Personal Care,2820,2,19,13,250
+Keyboard,Electronics,13096,80,25,11,270
+Sugar,Grocery,16534,203,25,7,173
+Mouse,Electronics,20350,235,1,12,13
+Sugar,Grocery,3454,220,5,11,55
+Table,Furniture,15285,77,16,7,110
+Rice,Grocery,33145,224,10,11,106
+Oil,Grocery,30214,169,14,4,60
+Table,Furniture,35527,149,28,9,247
+Keyboard,Electronics,33969,151,22,1,25
+Sugar,Grocery,43602,56,25,10,246
+Bottle,Accessories,46646,21,28,14,392
+Headphones,Electronics,18321,175,7,10,67
+Soap,Personal Care,33254,252,7,9,66
+Table,Furniture,4487,44,20,14,282
+Chair,Furniture,41716,116,2,13,21
+Notebook,Stationery,46028,279,8,12,97
+Printer,Electronics,49905,219,14,3,37
+Oil,Grocery,43707,77,5,3,10
+Milk,Grocery,46187,151,12,8,95
+Headphones,Electronics,4799,156,23,7,164
+Notebook,Stationery,26387,192,30,14,415
+Shampoo,Personal Care,41549,167,2,13,31
+Shoes,Fashion,29881,224,3,13,42
+Oil,Grocery,46502,267,13,4,47
+Pen,Stationery,7600,263,25,8,196
+Rice,Grocery,11745,234,23,3,71
+Shampoo,Personal Care,5661,205,3,15,45
+Phone,Electronics,44783,163,19,12,231
+Keyboard,Electronics,46122,6,12,4,45
+Soap,Personal Care,23974,23,7,9,62
+Headphones,Electronics,12915,90,25,4,104
+Pen,Stationery,21458,39,6,12,68
+Chair,Furniture,24430,255,2,4,13
+Soap,Personal Care,26843,24,3,5,13
+Notebook,Stationery,4729,297,9,4,36
+Sugar,Grocery,20751,63,16,5,81
+Monitor,Electronics,36417,25,18,3,57
+Oil,Grocery,20125,266,28,5,139
+Laptop,Electronics,13169,162,5,7,35
+Mouse,Electronics,34246,227,3,13,41
+Table,Furniture,5191,55,6,11,63
+Sugar,Grocery,37286,35,5,7,33
+Phone,Electronics,37784,90,17,13,219
+Keyboard,Electronics,10447,99,23,5,119
+Bottle,Accessories,1647,273,30,1,35
+Bottle,Accessories,35447,184,29,13,374
+Sugar,Grocery,49101,256,11,4,40
+Bag,Fashion,32362,208,24,6,141
+Headphones,Electronics,29439,139,18,3,53
+Soap,Personal Care,47794,88,24,11,267
+Table,Furniture,32444,164,4,7,25
+Milk,Grocery,8389,235,29,4,114
+Shampoo,Personal Care,3080,273,9,7,66
+Laptop,Electronics,39180,144,3,8,27
+Laptop,Electronics,28086,263,20,1,18
+Laptop,Electronics,25130,81,19,3,57
+Monitor,Electronics,31108,73,1,9,7
+Bag,Fashion,28683,25,13,10,134
+Keyboard,Electronics,36363,265,8,14,110
+Headphones,Electronics,33568,198,27,15,401
+Chair,Furniture,48634,297,21,2,37
+Milk,Grocery,7169,164,3,12,32
+Monitor,Electronics,26356,178,3,15,47
+Rice,Grocery,47817,259,3,2,11
+Bag,Fashion,41196,169,11,10,108
+Laptop,Electronics,29181,26,27,7,191
+Bottle,Accessories,1198,289,2,2,0
+Chair,Furniture,8383,150,10,9,95
+Headphones,Electronics,46786,182,29,11,319
+Chair,Furniture,12370,42,27,3,78
+Chair,Furniture,14752,152,14,6,87
+Milk,Grocery,49560,214,7,1,2
+Headphones,Electronics,40196,152,8,11,93
+Rice,Grocery,34192,44,18,8,145
+Table,Furniture,45875,32,2,10,16
+Phone,Electronics,29750,122,25,14,348
+Keyboard,Electronics,39004,101,25,9,228
+Rice,Grocery,48050,208,4,10,40
+Notebook,Stationery,26870,40,18,15,266
+Bag,Fashion,47552,295,21,13,268
+Laptop,Electronics,24544,246,4,1,7
+Bag,Fashion,14765,202,17,13,226
+Rice,Grocery,23687,208,8,9,73
+Notebook,Stationery,1155,279,2,15,26
+Keyboard,Electronics,18259,262,3,9,30
+Bag,Fashion,17745,198,24,10,242
+Notebook,Stationery,13058,139,7,14,97
+Soap,Personal Care,35887,270,5,8,40
+Rice,Grocery,12703,34,24,1,25
+Table,Furniture,15405,201,5,10,51
+Bag,Fashion,26127,175,9,10,88
+Chair,Furniture,8739,15,7,15,108
+Milk,Grocery,40910,194,16,1,20
+Phone,Electronics,40264,181,9,11,104
+Chair,Furniture,46163,240,9,10,85
+Phone,Electronics,4718,47,13,15,192
+Shoes,Fashion,15908,229,3,2,10
+Bottle,Accessories,19434,139,21,10,210
+Keyboard,Electronics,10662,1,30,9,268
+Soap,Personal Care,7483,16,8,5,39
+Notebook,Stationery,45751,42,19,8,153
+Monitor,Electronics,26409,37,8,13,99
+Soap,Personal Care,29223,150,6,15,86
+Printer,Electronics,13308,41,5,10,55
+Printer,Electronics,48456,35,13,7,88
+Table,Furniture,3932,276,10,7,72
+Notebook,Stationery,48076,106,23,14,327
+Bottle,Accessories,40909,142,8,6,48
+Printer,Electronics,43324,79,17,9,155
+Shampoo,Personal Care,40862,58,16,14,222
+Printer,Electronics,6961,225,23,9,208
+Rice,Grocery,26727,173,11,9,96
+Notebook,Stationery,42009,186,23,13,299
+Bag,Fashion,3020,200,4,6,23
+Mouse,Electronics,47889,10,6,4,21
+Rice,Grocery,42401,61,5,1,1
+Shampoo,Personal Care,5447,271,19,13,244
+Shoes,Fashion,24640,257,15,9,130
+Sugar,Grocery,45272,179,9,8,72
+Keyboard,Electronics,3409,111,8,9,70
+Shampoo,Personal Care,12468,48,8,15,115
+Headphones,Electronics,14791,201,3,15,40
+Laptop,Electronics,18015,249,22,11,241
+Milk,Grocery,16535,27,21,11,231
+Table,Furniture,43794,181,28,11,310
+Keyboard,Electronics,23274,7,13,1,9
+Shoes,Fashion,1147,204,2,7,13
+Printer,Electronics,13476,81,27,5,140
+Milk,Grocery,37016,123,24,1,23
+Oil,Grocery,6179,155,1,8,11
+Pen,Stationery,13385,11,23,1,21
+Milk,Grocery,13499,267,29,7,199
+Sugar,Grocery,31613,164,17,6,106
+Phone,Electronics,17874,223,19,9,173
+Bag,Fashion,32231,115,6,2,8
+Keyboard,Electronics,17349,26,10,8,84
+Phone,Electronics,17918,54,23,1,22
+Phone,Electronics,6207,203,14,13,177
+Chair,Furniture,5486,296,6,3,15
+Soap,Personal Care,43695,124,9,3,31
+Sugar,Grocery,19897,67,2,9,22
+Phone,Electronics,16034,74,28,11,304
+Mouse,Electronics,42791,212,17,12,208
+Soap,Personal Care,49065,143,16,10,156
+Bottle,Accessories,47529,227,18,13,231
+Pen,Stationery,2378,265,26,9,232
+Shampoo,Personal Care,42576,223,8,4,28
+Printer,Electronics,38238,283,25,8,195
+Table,Furniture,1874,109,25,8,197
+Oil,Grocery,2371,244,18,2,39
+Pen,Stationery,4784,277,18,3,52
+Shampoo,Personal Care,29408,248,22,6,134
+Notebook,Stationery,30271,139,24,9,214
+Milk,Grocery,34842,261,20,6,115
+Chair,Furniture,40794,226,29,10,291
+Bag,Fashion,16634,134,3,11,33
+Rice,Grocery,30156,152,21,5,103
+Mouse,Electronics,38368,273,11,10,115
+Shampoo,Personal Care,30777,113,24,14,333
+Bag,Fashion,24849,19,30,7,212
+Rice,Grocery,41970,197,20,14,284
+Shampoo,Personal Care,7477,202,28,3,86
+Mouse,Electronics,20898,135,19,14,262
+Monitor,Electronics,46292,226,27,15,404
+Keyboard,Electronics,19932,39,8,11,90
+Mouse,Electronics,28373,96,8,11,92
+Monitor,Electronics,44978,271,30,10,299
+Pen,Stationery,23769,292,14,6,83
+Rice,Grocery,45809,122,21,8,167
+Oil,Grocery,13689,214,6,7,47
+Soap,Personal Care,15290,16,2,15,31
+Phone,Electronics,11493,194,1,13,16
+Notebook,Stationery,16444,122,16,11,171
+Soap,Personal Care,27680,245,18,13,235
+Mouse,Electronics,1002,160,25,3,75
+Notebook,Stationery,19415,60,22,2,47
+Keyboard,Electronics,15373,246,6,7,39
+Mouse,Electronics,16297,175,8,1,11
+Bottle,Accessories,8701,47,8,4,33
+Chair,Furniture,24395,101,17,3,56
+Printer,Electronics,20562,108,19,7,135
+Phone,Electronics,15821,247,11,6,66
+Soap,Personal Care,6835,254,17,4,70
+Chair,Furniture,32066,220,9,9,81
+Bottle,Accessories,42398,26,15,10,155
+Soap,Personal Care,6078,206,18,4,68
+Notebook,Stationery,43893,276,28,13,364
+Chair,Furniture,21237,99,27,4,110
+Keyboard,Electronics,48500,160,30,12,365
+Chair,Furniture,35755,269,15,1,16
+Soap,Personal Care,1073,19,1,1,0
+Keyboard,Electronics,32956,201,30,5,151
+Rice,Grocery,35146,245,23,1,28
+Bottle,Accessories,35084,132,20,1,18
+Oil,Grocery,22213,199,13,3,40
+Phone,Electronics,17334,196,12,10,125
+Chair,Furniture,16054,154,30,1,29
+Keyboard,Electronics,42512,12,25,13,330
+Pen,Stationery,33800,217,28,14,393
+Chair,Furniture,400,231,8,8,65
+Soap,Personal Care,24652,122,10,10,104
+Headphones,Electronics,18533,299,12,11,132
+Chair,Furniture,322,155,8,13,105
+Rice,Grocery,18257,194,16,13,212
+Printer,Electronics,20426,128,11,5,50
+Pen,Stationery,17104,257,4,14,61
+Headphones,Electronics,36621,254,15,15,220
+Shampoo,Personal Care,5514,13,25,6,147
+Chair,Furniture,19144,79,16,14,221
+Milk,Grocery,30178,149,15,13,197
+Phone,Electronics,34929,0,18,13,231
+Printer,Electronics,28892,2,7,13,92
+Monitor,Electronics,40398,267,23,8,183
+Oil,Grocery,2542,46,24,2,47
+Shoes,Fashion,7580,103,26,8,211
+Shampoo,Personal Care,28565,39,27,10,272
+Pen,Stationery,23029,59,6,6,34
+Bag,Fashion,1593,263,1,9,12
+Sugar,Grocery,8022,5,23,13,301
+Keyboard,Electronics,40444,42,19,2,39
+Bag,Fashion,46992,297,2,3,1
+Monitor,Electronics,39070,158,30,1,35
+Notebook,Stationery,17910,112,9,1,12
+Rice,Grocery,26241,169,11,12,131
+Milk,Grocery,34770,196,28,11,311
+Shampoo,Personal Care,33460,197,8,7,55
+Monitor,Electronics,27706,164,19,12,229
+Oil,Grocery,45859,192,15,9,134
+Oil,Grocery,18084,265,15,2,31
+Printer,Electronics,40841,228,23,9,210
+Notebook,Stationery,19792,111,10,9,89
+Chair,Furniture,5086,269,15,15,223
+Sugar,Grocery,26410,163,20,1,15
+Phone,Electronics,15175,74,10,5,45
+Notebook,Stationery,41852,213,12,7,84
+Shampoo,Personal Care,49440,132,10,10,103
+Headphones,Electronics,1492,100,22,10,216
+Rice,Grocery,5226,171,18,1,19
+Phone,Electronics,33646,249,3,8,29
+Table,Furniture,1264,195,21,9,184
+Shoes,Fashion,47972,299,19,3,58
+Mouse,Electronics,24890,73,3,8,23
+Table,Furniture,21708,51,20,6,119
+Monitor,Electronics,43554,13,3,2,1
+Monitor,Electronics,44223,298,19,4,71
+Chair,Furniture,28906,123,4,15,65
+Laptop,Electronics,33424,144,12,11,131
+Bottle,Accessories,25364,7,15,1,19
+Mouse,Electronics,49789,283,16,6,99
+Shoes,Fashion,37658,98,6,12,70
+Milk,Grocery,11323,155,3,1,6
+Monitor,Electronics,49193,189,15,10,152
+Soap,Personal Care,11893,188,5,2,6
+Keyboard,Electronics,18471,227,3,14,41
+Chair,Furniture,18822,163,24,10,243
+Printer,Electronics,26496,163,20,5,95
+Shampoo,Personal Care,44564,212,24,3,77
+Chair,Furniture,22611,239,19,11,207
+Bag,Fashion,25985,20,21,2,38
+Milk,Grocery,32192,152,25,4,98
+Headphones,Electronics,4169,76,20,11,215
+Pen,Stationery,39130,80,29,6,169
+Oil,Grocery,11502,158,13,5,68
+Mouse,Electronics,49080,146,2,1,4
+Chair,Furniture,6423,231,6,11,63
+Printer,Electronics,30448,226,24,4,92
+Shampoo,Personal Care,44461,3,14,12,169
+Mouse,Electronics,44193,277,16,12,190
+Phone,Electronics,3048,158,14,8,111
+Milk,Grocery,1908,75,22,15,330
+Monitor,Electronics,22782,130,26,5,127
+Headphones,Electronics,20779,132,12,12,146
+Chair,Furniture,19720,12,6,4,19
+Table,Furniture,16759,31,5,10,46
+Keyboard,Electronics,5292,165,2,4,6
+Bag,Fashion,39905,38,30,6,176
+Bag,Fashion,19765,179,29,6,179
+Chair,Furniture,34411,81,24,9,217
+Keyboard,Electronics,39320,156,19,7,133
+Bag,Fashion,26285,194,29,7,199
+Notebook,Stationery,26869,255,18,9,162
+Monitor,Electronics,42470,300,3,8,19
+Soap,Personal Care,5595,48,9,5,42
+Laptop,Electronics,38429,295,11,14,159
+Pen,Stationery,15531,57,12,10,116
+Printer,Electronics,43931,272,4,6,19
+Rice,Grocery,45486,232,26,3,76
+Sugar,Grocery,12967,232,15,14,215
+Bottle,Accessories,37538,170,24,2,52
+Shoes,Fashion,43065,283,1,7,4
+Milk,Grocery,39940,52,1,9,5
+Soap,Personal Care,17934,8,29,8,227
+Soap,Personal Care,32216,100,4,13,52
+Phone,Electronics,13832,5,12,4,53
+Notebook,Stationery,22389,45,16,1,13
+Bottle,Accessories,37901,35,4,7,27
+Chair,Furniture,38512,84,5,11,53
+Notebook,Stationery,18991,11,2,7,15
+Milk,Grocery,8355,186,25,6,152
+Keyboard,Electronics,34124,93,25,1,27
+Sugar,Grocery,24686,29,13,3,38
+Bag,Fashion,28227,269,8,13,100
+Mouse,Electronics,14929,199,7,15,106
+Printer,Electronics,27822,287,11,7,81
+Bottle,Accessories,23869,39,27,4,104
+Pen,Stationery,28764,63,4,6,21
+Rice,Grocery,5685,12,30,2,56
+Sugar,Grocery,48998,153,15,7,101
+Monitor,Electronics,2737,223,6,10,58
+Phone,Electronics,16427,78,20,6,120
+Sugar,Grocery,13720,151,21,10,213
+Oil,Grocery,9430,101,28,1,27
+Bottle,Accessories,4802,149,26,6,154
+Chair,Furniture,34014,61,17,13,225
+Chair,Furniture,49690,243,20,11,215
+Shampoo,Personal Care,4357,299,2,5,8
+Chair,Furniture,12869,106,11,13,143
+Notebook,Stationery,28762,265,14,9,123
+Pen,Stationery,42139,278,25,1,28
+Shampoo,Personal Care,11068,3,21,9,189
+Laptop,Electronics,42505,106,6,6,33
+Rice,Grocery,8482,159,4,8,34
+Laptop,Electronics,32088,218,13,15,196
+Sugar,Grocery,10196,201,20,4,79
+Oil,Grocery,2238,107,29,9,259
+Laptop,Electronics,33936,193,2,1,0
+Oil,Grocery,49468,297,23,2,51
+Shoes,Fashion,43748,197,9,9,78
+Milk,Grocery,9991,17,29,7,205
+Shampoo,Personal Care,25275,240,5,9,48
+Notebook,Stationery,36819,292,9,2,18
+Notebook,Stationery,34337,13,10,12,117
+Chair,Furniture,30610,30,11,2,24
+Milk,Grocery,15151,8,2,5,8
+Sugar,Grocery,48130,287,28,15,420
+Phone,Electronics,21443,28,21,14,292
+Soap,Personal Care,32713,130,24,14,338
+Milk,Grocery,33765,267,18,11,194
+Mouse,Electronics,2353,114,30,7,211
+Shampoo,Personal Care,15455,288,15,1,20
+Headphones,Electronics,33999,120,16,5,78
+Shampoo,Personal Care,5288,242,11,6,62
+Shampoo,Personal Care,24504,252,16,11,176
+Oil,Grocery,32996,19,26,1,22
+Headphones,Electronics,30489,262,28,4,113
+Pen,Stationery,3594,154,27,9,246
+Pen,Stationery,46985,219,20,15,296
+Bag,Fashion,39184,39,11,10,108
+Monitor,Electronics,9161,118,25,2,48
+Notebook,Stationery,16141,175,9,1,13
+Table,Furniture,546,29,3,4,16
+Keyboard,Electronics,11820,119,16,6,100
+Oil,Grocery,13353,120,25,1,23
+Mouse,Electronics,26756,279,7,3,23
+Milk,Grocery,47294,173,7,10,67
+Shampoo,Personal Care,45415,41,27,13,354
+Sugar,Grocery,29263,93,14,1,18
+Monitor,Electronics,46420,167,5,15,79
+Bottle,Accessories,19182,266,18,2,41
+Bottle,Accessories,40448,237,9,4,41
+Laptop,Electronics,3996,242,12,8,99
+Oil,Grocery,44500,97,16,7,116
+Chair,Furniture,45897,24,25,14,346
+Monitor,Electronics,857,69,11,4,44
+Phone,Electronics,16569,42,24,7,165
+Phone,Electronics,5539,282,11,15,170
+Oil,Grocery,18320,49,6,6,38
+Mouse,Electronics,46994,126,4,12,43
+Chair,Furniture,44247,271,30,14,422
+Sugar,Grocery,1668,31,7,6,46
+Mouse,Electronics,38187,255,20,14,275
+Rice,Grocery,27971,171,23,9,203
