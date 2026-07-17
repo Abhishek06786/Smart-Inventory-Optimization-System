@@ -1,14 +1,12 @@
 import os
 import random
-import smtplib
-
-from email.mime.text import MIMEText
+import requests
 from dotenv import load_dotenv
 
 load_dotenv()
 
-EMAIL = os.getenv("EMAIL_ADDRESS")
-PASSWORD = os.getenv("EMAIL_PASSWORD")
+BREVO_API_KEY = os.getenv("BREVO_API_KEY")
+SENDER_EMAIL = os.getenv("EMAIL_ADDRESS")
 
 
 def generate_otp():
@@ -17,44 +15,60 @@ def generate_otp():
 
 def send_otp(receiver_email, otp):
 
-    subject = "Smart Inventory - Password Reset OTP"
+    url = "https://api.brevo.com/v3/smtp/email"
 
-    body = f"""
-Hello,
+    headers = {
+        "accept": "application/json",
+        "api-key": BREVO_API_KEY,
+        "content-type": "application/json",
+    }
 
-You requested to reset your Smart Inventory account password.
+    payload = {
+        "sender": {
+            "name": "Smart Inventory",
+            "email": SENDER_EMAIL
+        },
+        "to": [
+            {
+                "email": receiver_email
+            }
+        ],
+        "subject": "Smart Inventory - Password Reset OTP",
+        "htmlContent": f"""
+        <h2>Password Reset OTP</h2>
 
-------------------------------------
+        <p>Hello,</p>
 
-Your OTP is:
+        <p>Your OTP is:</p>
 
-{otp}
+        <h1>{otp}</h1>
 
-------------------------------------
+        <p>This OTP is valid for 5 minutes.</p>
 
-This OTP is valid for only 5 minutes.
+        <p>If you didn't request this, ignore this email.</p>
 
-If you did not request this password reset, simply ignore this email.
+        <br>
 
-Regards,
-
-Smart Inventory Team
-"""
-
-    msg = MIMEText(body)
-    msg["Subject"] = subject
-    msg["From"] = EMAIL
-    msg["To"] = receiver_email
+        <b>Smart Inventory Team</b>
+        """
+    }
 
     try:
-        with smtplib.SMTP("smtp.gmail.com", 587) as server:
-            server.starttls()
-            server.login(EMAIL, PASSWORD)
-            server.send_message(msg)
 
-        print("OTP Sent Successfully")
-        return True
+        response = requests.post(
+            url,
+            headers=headers,
+            json=payload,
+            timeout=20
+        )
+
+        if response.status_code == 201:
+            print("OTP Sent Successfully")
+            return True
+
+        print(response.text)
+        return False
 
     except Exception as e:
-        print("Email Error:", e)
+        print(e)
         return False
