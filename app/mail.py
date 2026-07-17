@@ -1,13 +1,14 @@
 import os
 import random
-import resend
+import smtplib
+
+from email.mime.text import MIMEText
 from dotenv import load_dotenv
 
 load_dotenv()
 
-resend.api_key = os.getenv("RESEND_API_KEY")
-
 EMAIL = os.getenv("EMAIL_ADDRESS")
+PASSWORD = os.getenv("EMAIL_PASSWORD")
 
 
 def generate_otp():
@@ -40,26 +41,20 @@ Regards,
 Smart Inventory Team
 """
 
+    msg = MIMEText(body)
+    msg["Subject"] = subject
+    msg["From"] = EMAIL
+    msg["To"] = receiver_email
+
     try:
-
-        resend.Emails.send({
-
-            "from": f"Smart Inventory <{EMAIL}>",
-
-            "to": [receiver_email],
-
-            "subject": subject,
-
-            "text": body
-
-        })
+        with smtplib.SMTP("smtp.gmail.com", 587) as server:
+            server.starttls()
+            server.login(EMAIL, PASSWORD)
+            server.send_message(msg)
 
         print("OTP Sent Successfully")
-
         return True
 
     except Exception as e:
-
         print("Email Error:", e)
-
         return False
