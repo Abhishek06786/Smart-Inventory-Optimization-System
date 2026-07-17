@@ -1,12 +1,13 @@
 import os
 import random
-import requests
+import resend
 from dotenv import load_dotenv
 
 load_dotenv()
 
+resend.api_key = os.getenv("RESEND_API_KEY")
+
 EMAIL = os.getenv("EMAIL_ADDRESS")
-BREVO_API_KEY = os.getenv("BREVO_API_KEY")
 
 
 def generate_otp():
@@ -14,9 +15,6 @@ def generate_otp():
 
 
 def send_otp(receiver_email, otp):
-
-    print("EMAIL_ADDRESS:", EMAIL)
-    print("BREVO_API_KEY Loaded:", "YES" if BREVO_API_KEY else "NO")
 
     subject = "Smart Inventory - Password Reset OTP"
 
@@ -42,46 +40,26 @@ Regards,
 Smart Inventory Team
 """
 
-    data = {
-        "sender": {
-            "name": "Smart Inventory",
-            # Verified sender
-            "email": "abhishekchoubey012@gmail.com"
-        },
-        "to": [
-            {
-                "email": receiver_email
-            }
-        ],
-        "subject": subject,
-        "textContent": body
-    }
-
-    headers = {
-        "accept": "application/json",
-        "api-key": BREVO_API_KEY,
-        "content-type": "application/json"
-    }
-
     try:
 
-        response = requests.post(
-            "https://api.brevo.com/v3/smtp/email",
-            json=data,
-            headers=headers,
-            timeout=30
-        )
+        resend.Emails.send({
 
-        print("Status Code:", response.status_code)
-        print("Brevo Response:", response.text)
+            "from": f"Smart Inventory <{EMAIL}>",
 
-        if response.status_code == 201:
-            print("OTP Email Sent Successfully")
-            return True
+            "to": [receiver_email],
 
-        print("Brevo Error:", response.text)
-        return False
+            "subject": subject,
+
+            "text": body
+
+        })
+
+        print("OTP Sent Successfully")
+
+        return True
 
     except Exception as e:
-        print("Email Error:", str(e))
+
+        print("Email Error:", e)
+
         return False
